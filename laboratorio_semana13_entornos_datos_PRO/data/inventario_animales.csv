@@ -1,0 +1,2501 @@
+codigo_animal,finca,raza,edad_meses,peso_kg,estado_sanitario,ultima_vacuna,responsable
+BU-0001,Buenos Aires,Gyr,95,337.2,sano,2024-07-08,Ana
+SA-0002,Santa Lucia,Gyr,102,412.3,observacion,2024-10-27,Paola
+LO-0003,Los Guaduales,Criollo,46,424.1,sano,2024-10-28,Ana
+LA-0004,La Pradera,Normando,13,443.4,vacuna_pendiente,2024-11-16,Marta
+SA-0005,San Miguel,Gyr,15,515.1,observacion,2024-11-23,Ana
+LA-0006,La Esperanza,Pardo Suizo,19,427.1,tratamiento,2024-10-31,Luis
+LA-0007,La Esperanza,Normando,24,332.9,observacion,2024-09-05,Jorge
+EL-0008,El Progreso,Criollo,42,350.7,vacuna_pendiente,2024-11-02,Carlos
+EL-0009,El Roble,Gyr,48,429.5,sano,2024-12-08,Marta
+SA-0010,San Miguel,Jersey,56,370.0,vacuna_pendiente,2024-08-02,Paola
+BU-0011,Buenos Aires,Criollo,54,383.8,sano,2024-07-16,Paola
+EL-0012,El Progreso,Holstein,44,470.2,sano,2024-07-10,Luis
+LA-0013,La Esperanza,Gyr,59,611.2,sano,2024-09-18,Paola
+SA-0014,Santa Lucia,Criollo,23,423.2,sano,2024-10-01,Jorge
+BU-0015,Buenos Aires,Jersey,13,482.5,vacuna_pendiente,2024-11-01,Jorge
+LA-0016,La Pradera,Gyr,119,462.3,sano,2024-09-04,Luis
+EL-0017,El Progreso,Gyr,14,557.1,observacion,2024-07-15,Jorge
+LA-0018,La Pradera,Pardo Suizo,37,321.7,sano,2024-10-31,Marta
+SA-0019,Santa Lucia,Pardo Suizo,38,369.4,sano,2024-08-23,Ana
+SA-0020,Santa Lucia,Normando,62,460.7,sano,2024-10-31,Luis
+LO-0021,Los Guaduales,Holstein,24,619.6,sano,2024-11-03,Luis
+EL-0022,El Roble,Gyr,28,529.3,sano,2024-09-01,Luis
+EL-0023,El Progreso,Holstein,66,330.7,sano,2024-09-13,Marta
+LA-0024,La Esperanza,Criollo,100,563.5,sano,2024-08-17,Jorge
+EL-0025,El Roble,Holstein,70,471.4,sano,2024-11-13,Carlos
+BU-0026,Buenos Aires,Pardo Suizo,69,325.4,sano,2024-07-17,Luis
+SA-0027,Santa Lucia,Gyr,19,530.2,sano,2024-10-03,Paola
+LA-0028,La Pradera,Holstein,39,329.1,sano,2024-07-05,Paola
+SA-0029,San Miguel,Criollo,48,396.9,sano,2024-07-28,Luis
+LO-0030,Los Guaduales,Gyr,109,344.5,sano,2024-10-03,Ana
+LA-0031,La Esperanza,Holstein,101,515.9,sano,2024-12-18,Luis
+LA-0032,La Esperanza,Criollo,100,526.5,sano,2024-09-30,Jorge
+LO-0033,Los Guaduales,Normando,89,539.1,vacuna_pendiente,2024-12-09,Carlos
+EL-0034,El Roble,Holstein,69,444.7,sano,2024-09-26,Jorge
+LA-0035,La Esperanza,Holstein,35,368.2,sano,2024-11-15,Jorge
+SA-0036,San Miguel,Criollo,53,403.2,sano,2024-07-05,Paola
+EL-0037,El Roble,Criollo,58,356.1,observacion,2024-10-19,Marta
+EL-0038,El Roble,Normando,60,475.9,sano,2024-09-29,Luis
+BU-0039,Buenos Aires,Pardo Suizo,49,366.4,sano,2024-12-14,Jorge
+LA-0040,La Pradera,Holstein,49,356.3,sano,2024-11-24,Carlos
+LA-0041,La Esperanza,Gyr,81,222.0,vacuna_pendiente,2024-09-02,Marta
+LA-0042,La Esperanza,Jersey,79,488.0,sano,2024-09-25,Marta
+EL-0043,El Progreso,Criollo,26,357.1,observacion,2024-07-27,Ana
+LA-0044,La Esperanza,Jersey,57,546.4,observacion,2024-10-09,Ana
+BU-0045,Buenos Aires,Pardo Suizo,37,514.7,sano,2024-11-02,Paola
+LA-0046,La Pradera,Jersey,79,371.7,observacion,2024-08-20,Luis
+SA-0047,San Miguel,Holstein,77,320.7,sano,2024-07-25,Jorge
+LA-0048,La Pradera,Jersey,41,409.3,sano,2024-08-14,Jorge
+LA-0049,La Esperanza,Jersey,100,358.7,observacion,2024-10-11,Luis
+LA-0050,La Pradera,Jersey,112,545.7,sano,2024-09-26,Luis
+LA-0051,La Esperanza,Gyr,42,381.8,observacion,2024-10-18,Ana
+LA-0052,La Esperanza,Holstein,37,430.7,sano,2024-10-10,Jorge
+LA-0053,La Esperanza,Criollo,91,361.9,vacuna_pendiente,2024-07-14,Marta
+EL-0054,El Roble,Normando,61,589.1,observacion,2024-10-21,Carlos
+EL-0055,El Progreso,Jersey,21,333.6,vacuna_pendiente,2024-12-12,Jorge
+LA-0056,La Esperanza,Gyr,107,427.5,observacion,2024-07-16,Jorge
+EL-0057,El Roble,Criollo,114,374.4,tratamiento,2024-10-05,Carlos
+SA-0058,Santa Lucia,Normando,61,348.6,sano,2024-11-21,Marta
+SA-0059,Santa Lucia,Holstein,117,452.1,tratamiento,2024-10-07,Marta
+LA-0060,La Pradera,Jersey,100,334.3,observacion,2024-07-10,Luis
+BU-0061,Buenos Aires,Jersey,90,534.3,sano,2024-08-12,Luis
+SA-0062,Santa Lucia,Gyr,42,422.2,sano,2024-12-10,Carlos
+LO-0063,Los Guaduales,Jersey,19,489.2,sano,2024-11-20,Ana
+EL-0064,El Progreso,Gyr,42,484.5,sano,2024-07-05,Jorge
+BU-0065,Buenos Aires,Criollo,11,597.2,observacion,2024-07-09,Marta
+EL-0066,El Roble,Normando,57,460.8,sano,2024-07-10,Luis
+LO-0067,Los Guaduales,Normando,34,404.8,sano,2024-12-10,Jorge
+BU-0068,Buenos Aires,Jersey,92,281.1,sano,2024-10-04,Jorge
+BU-0069,Buenos Aires,Normando,83,403.9,sano,2024-09-13,Carlos
+BU-0070,Buenos Aires,Normando,117,348.2,observacion,2024-11-16,Paola
+LA-0071,La Esperanza,Jersey,14,499.7,sano,2024-09-14,Marta
+EL-0072,El Roble,Criollo,119,280.2,sano,2024-08-18,Carlos
+EL-0073,El Progreso,Criollo,114,500.9,sano,2024-10-10,Luis
+LA-0074,La Esperanza,Holstein,41,403.8,sano,2024-08-18,Carlos
+EL-0075,El Roble,Holstein,116,421.5,sano,2024-10-31,Marta
+LA-0076,La Pradera,Normando,23,476.2,sano,2024-10-02,Paola
+SA-0077,Santa Lucia,Normando,51,405.7,observacion,2024-10-17,Carlos
+LA-0078,La Esperanza,Jersey,78,355.0,sano,2024-07-15,Jorge
+LO-0079,Los Guaduales,Pardo Suizo,117,383.9,observacion,2024-08-31,Marta
+LA-0080,La Esperanza,Pardo Suizo,56,426.0,sano,2024-09-09,Carlos
+LO-0081,Los Guaduales,Pardo Suizo,36,443.8,tratamiento,2024-08-03,Ana
+BU-0082,Buenos Aires,Criollo,36,440.4,sano,2024-10-23,Paola
+SA-0083,Santa Lucia,Holstein,94,338.9,sano,2024-10-29,Ana
+SA-0084,San Miguel,Normando,115,528.5,tratamiento,2024-10-11,Luis
+LO-0085,Los Guaduales,Jersey,112,587.8,observacion,2024-07-10,Luis
+BU-0086,Buenos Aires,Normando,114,318.7,sano,2024-10-29,Paola
+SA-0087,San Miguel,Pardo Suizo,54,441.5,tratamiento,2024-12-04,Luis
+LO-0088,Los Guaduales,Gyr,41,370.2,sano,2024-08-05,Luis
+EL-0089,El Roble,Gyr,85,426.2,sano,2024-09-27,Luis
+SA-0090,San Miguel,Normando,20,379.3,sano,2024-07-23,Marta
+LA-0091,La Pradera,Pardo Suizo,29,613.1,sano,2024-09-10,Carlos
+LO-0092,Los Guaduales,Jersey,35,272.8,sano,2024-10-27,Marta
+EL-0093,El Roble,Jersey,65,348.5,sano,2024-10-07,Ana
+SA-0094,San Miguel,Holstein,109,590.7,sano,2024-09-04,Luis
+LA-0095,La Pradera,Gyr,84,456.5,sano,2024-07-11,Ana
+EL-0096,El Roble,Pardo Suizo,86,183.5,sano,2024-11-28,Luis
+LO-0097,Los Guaduales,Holstein,101,470.3,observacion,2024-09-09,Luis
+LO-0098,Los Guaduales,Criollo,32,425.0,sano,2024-07-14,Ana
+SA-0099,San Miguel,Pardo Suizo,67,452.4,sano,2024-12-28,Luis
+LO-0100,Los Guaduales,Jersey,67,301.1,sano,2024-10-26,Jorge
+EL-0101,El Roble,Gyr,66,285.0,tratamiento,2024-09-21,Carlos
+SA-0102,San Miguel,Pardo Suizo,54,519.9,sano,2024-08-08,Marta
+LA-0103,La Pradera,Criollo,49,461.5,sano,2024-07-30,Carlos
+LA-0104,La Pradera,Pardo Suizo,27,623.5,vacuna_pendiente,2024-12-27,Ana
+LA-0105,La Esperanza,Gyr,33,491.2,tratamiento,2024-12-25,Jorge
+BU-0106,Buenos Aires,Normando,48,552.8,sano,2024-11-11,Paola
+LA-0107,La Esperanza,Normando,120,276.0,tratamiento,2024-09-04,Jorge
+EL-0108,El Roble,Jersey,53,477.1,sano,2024-09-29,Ana
+LA-0109,La Pradera,Jersey,70,302.4,sano,2024-11-19,Marta
+BU-0110,Buenos Aires,Holstein,91,466.1,sano,2024-11-01,Marta
+SA-0111,Santa Lucia,Pardo Suizo,29,278.0,sano,2024-09-02,Marta
+LO-0112,Los Guaduales,Pardo Suizo,83,532.7,vacuna_pendiente,2024-10-19,Paola
+SA-0113,San Miguel,Jersey,7,496.7,sano,2024-10-09,Luis
+EL-0114,El Progreso,Pardo Suizo,37,388.2,sano,2024-07-05,Marta
+BU-0115,Buenos Aires,Gyr,21,498.5,sano,2024-09-26,Paola
+LA-0116,La Esperanza,Jersey,85,459.9,sano,2024-11-26,Carlos
+LA-0117,La Pradera,Normando,49,410.2,sano,2024-07-13,Marta
+SA-0118,San Miguel,Holstein,23,338.8,observacion,2024-10-13,Luis
+SA-0119,Santa Lucia,Normando,116,283.9,sano,2024-07-19,Luis
+LO-0120,Los Guaduales,Pardo Suizo,78,285.9,sano,2024-09-29,Jorge
+SA-0121,Santa Lucia,Gyr,31,510.0,sano,2024-09-22,Marta
+LA-0122,La Esperanza,Pardo Suizo,52,436.2,vacuna_pendiente,2024-10-18,Ana
+BU-0123,Buenos Aires,Gyr,58,498.0,sano,2024-10-10,Luis
+BU-0124,Buenos Aires,Jersey,21,469.3,sano,2024-12-25,Jorge
+BU-0125,Buenos Aires,Pardo Suizo,43,292.7,sano,2024-08-24,Carlos
+EL-0126,El Roble,Pardo Suizo,8,357.2,sano,2024-11-11,Jorge
+LO-0127,Los Guaduales,Gyr,109,407.9,sano,2024-12-10,Ana
+EL-0128,El Roble,Gyr,106,385.1,sano,2024-08-11,Luis
+LA-0129,La Pradera,Jersey,14,307.2,vacuna_pendiente,2024-08-16,Luis
+SA-0130,Santa Lucia,Normando,118,470.0,sano,2024-12-05,Paola
+EL-0131,El Progreso,Pardo Suizo,72,490.5,sano,2024-10-01,Ana
+LO-0132,Los Guaduales,Jersey,43,475.5,sano,2024-07-10,Paola
+LO-0133,Los Guaduales,Pardo Suizo,62,498.1,tratamiento,2024-07-21,Carlos
+SA-0134,San Miguel,Normando,104,406.1,sano,2024-12-13,Jorge
+LA-0135,La Pradera,Normando,47,477.1,vacuna_pendiente,2024-07-25,Paola
+SA-0136,San Miguel,Holstein,22,473.0,sano,2024-09-11,Luis
+SA-0137,San Miguel,Criollo,10,470.0,sano,2024-12-15,Jorge
+LA-0138,La Pradera,Jersey,65,581.5,sano,2024-07-20,Luis
+LA-0139,La Esperanza,Criollo,37,568.7,sano,2024-09-11,Ana
+BU-0140,Buenos Aires,Jersey,92,483.6,sano,2024-07-28,Ana
+SA-0141,Santa Lucia,Gyr,17,516.0,sano,2024-09-06,Marta
+LA-0142,La Esperanza,Criollo,103,507.6,tratamiento,2024-09-20,Ana
+BU-0143,Buenos Aires,Criollo,72,531.0,observacion,2024-12-25,Luis
+SA-0144,Santa Lucia,Gyr,40,391.0,vacuna_pendiente,2024-11-02,Carlos
+BU-0145,Buenos Aires,Holstein,41,241.3,sano,2024-07-21,Paola
+EL-0146,El Roble,Criollo,79,320.1,sano,2024-11-03,Marta
+LO-0147,Los Guaduales,Gyr,87,236.1,sano,2024-07-07,Ana
+EL-0148,El Roble,Pardo Suizo,75,349.1,sano,2024-08-11,Ana
+LO-0149,Los Guaduales,Jersey,20,429.3,sano,2024-07-12,Paola
+LA-0150,La Esperanza,Jersey,90,364.9,observacion,2024-12-26,Ana
+BU-0151,Buenos Aires,Gyr,75,485.5,sano,2024-11-16,Ana
+LO-0152,Los Guaduales,Normando,54,385.7,sano,2024-10-14,Ana
+EL-0153,El Roble,Jersey,65,599.0,sano,2024-11-09,Ana
+EL-0154,El Progreso,Holstein,9,445.7,tratamiento,2024-07-19,Carlos
+LO-0155,Los Guaduales,Criollo,58,496.1,sano,2024-08-24,Jorge
+LO-0156,Los Guaduales,Pardo Suizo,84,480.4,sano,2024-07-14,Ana
+SA-0157,Santa Lucia,Criollo,43,272.8,sano,2024-12-09,Marta
+SA-0158,Santa Lucia,Normando,51,450.9,sano,2024-07-16,Paola
+LA-0159,La Pradera,Normando,42,438.0,observacion,2024-12-21,Jorge
+LO-0160,Los Guaduales,Gyr,22,597.2,tratamiento,2024-12-16,Carlos
+LO-0161,Los Guaduales,Pardo Suizo,33,445.2,sano,2024-12-07,Ana
+SA-0162,Santa Lucia,Normando,72,337.4,sano,2024-11-20,Jorge
+SA-0163,San Miguel,Pardo Suizo,89,452.3,observacion,2024-10-09,Jorge
+EL-0164,El Roble,Normando,65,386.3,sano,2024-09-07,Jorge
+SA-0165,San Miguel,Holstein,40,409.6,sano,2024-10-29,Ana
+LA-0166,La Esperanza,Jersey,40,240.7,sano,2024-10-28,Luis
+SA-0167,Santa Lucia,Pardo Suizo,50,275.8,tratamiento,2024-07-25,Marta
+LO-0168,Los Guaduales,Pardo Suizo,8,485.3,sano,2024-07-25,Jorge
+LO-0169,Los Guaduales,Normando,102,484.9,sano,2024-08-29,Jorge
+LA-0170,La Pradera,Pardo Suizo,95,433.8,sano,2024-09-04,Marta
+LO-0171,Los Guaduales,Criollo,22,323.1,sano,2024-12-14,Paola
+LA-0172,La Pradera,Criollo,52,556.0,sano,2024-09-03,Ana
+EL-0173,El Roble,Holstein,70,376.0,sano,2024-09-10,Carlos
+LA-0174,La Pradera,Normando,69,438.2,sano,2024-09-16,Paola
+LA-0175,La Pradera,Criollo,41,402.3,tratamiento,2024-08-09,Jorge
+BU-0176,Buenos Aires,Pardo Suizo,89,406.3,observacion,2024-12-17,Carlos
+LA-0177,La Pradera,Holstein,34,364.2,observacion,2024-09-09,Jorge
+SA-0178,Santa Lucia,Pardo Suizo,96,389.2,vacuna_pendiente,2024-08-01,Carlos
+EL-0179,El Progreso,Criollo,7,358.9,vacuna_pendiente,2024-09-06,Carlos
+LO-0180,Los Guaduales,Normando,41,491.9,sano,2024-07-16,Paola
+LA-0181,La Pradera,Pardo Suizo,13,383.5,tratamiento,2024-09-09,Marta
+EL-0182,El Roble,Holstein,113,366.6,observacion,2024-10-14,Marta
+BU-0183,Buenos Aires,Criollo,31,395.2,sano,2024-12-14,Jorge
+EL-0184,El Progreso,Gyr,64,457.7,sano,2024-09-29,Carlos
+LA-0185,La Esperanza,Normando,28,478.0,sano,2024-08-16,Luis
+LO-0186,Los Guaduales,Normando,119,408.8,tratamiento,2024-10-07,Luis
+EL-0187,El Roble,Normando,68,410.4,sano,2024-08-12,Jorge
+SA-0188,San Miguel,Pardo Suizo,90,321.5,sano,2024-07-16,Ana
+BU-0189,Buenos Aires,Criollo,60,375.0,sano,2024-11-07,Paola
+EL-0190,El Progreso,Criollo,62,239.1,sano,2024-08-12,Luis
+LO-0191,Los Guaduales,Gyr,28,250.6,sano,2024-11-11,Paola
+LO-0192,Los Guaduales,Normando,51,505.7,sano,2024-10-22,Luis
+SA-0193,San Miguel,Normando,58,372.8,sano,2024-08-28,Jorge
+EL-0194,El Progreso,Normando,93,300.2,sano,2024-07-12,Marta
+SA-0195,San Miguel,Pardo Suizo,117,473.2,sano,2024-11-16,Paola
+LA-0196,La Pradera,Pardo Suizo,20,458.6,sano,2024-07-13,Ana
+LA-0197,La Pradera,Pardo Suizo,25,444.5,sano,2024-07-27,Ana
+EL-0198,El Progreso,Normando,50,452.6,sano,2024-10-08,Carlos
+LO-0199,Los Guaduales,Gyr,120,559.1,sano,2024-08-14,Paola
+EL-0200,El Progreso,Normando,51,392.2,sano,2024-07-16,Luis
+BU-0201,Buenos Aires,Gyr,117,477.0,sano,2024-09-21,Ana
+SA-0202,Santa Lucia,Jersey,8,394.4,sano,2024-12-22,Luis
+EL-0203,El Progreso,Pardo Suizo,40,458.0,vacuna_pendiente,2024-12-20,Ana
+LO-0204,Los Guaduales,Normando,10,412.7,sano,2024-09-05,Paola
+LA-0205,La Esperanza,Criollo,12,408.0,sano,2024-08-05,Paola
+LA-0206,La Esperanza,Pardo Suizo,87,417.1,sano,2024-07-31,Jorge
+BU-0207,Buenos Aires,Gyr,112,294.5,observacion,2024-08-24,Ana
+LA-0208,La Pradera,Jersey,102,315.0,sano,2024-07-24,Jorge
+LA-0209,La Esperanza,Holstein,83,495.4,sano,2024-10-29,Paola
+BU-0210,Buenos Aires,Normando,12,479.3,sano,2024-09-22,Ana
+LO-0211,Los Guaduales,Jersey,106,566.3,sano,2024-08-28,Marta
+EL-0212,El Roble,Pardo Suizo,67,306.7,sano,2024-07-19,Luis
+EL-0213,El Progreso,Normando,99,469.4,sano,2024-07-21,Luis
+LO-0214,Los Guaduales,Holstein,112,420.2,sano,2024-09-27,Carlos
+LA-0215,La Esperanza,Normando,54,178.0,observacion,2024-07-24,Carlos
+SA-0216,Santa Lucia,Jersey,116,249.2,sano,2024-10-23,Jorge
+BU-0217,Buenos Aires,Jersey,106,301.5,tratamiento,2024-10-26,Carlos
+EL-0218,El Roble,Holstein,66,206.4,sano,2024-08-14,Luis
+EL-0219,El Roble,Holstein,86,634.3,sano,2024-11-16,Paola
+EL-0220,El Progreso,Jersey,45,630.2,tratamiento,2024-11-03,Paola
+LA-0221,La Esperanza,Gyr,15,482.0,observacion,2024-12-17,Marta
+LA-0222,La Pradera,Gyr,118,477.0,sano,2024-09-25,Carlos
+BU-0223,Buenos Aires,Normando,51,403.2,vacuna_pendiente,2024-10-30,Luis
+LO-0224,Los Guaduales,Gyr,25,531.9,sano,2024-12-01,Luis
+LA-0225,La Esperanza,Jersey,104,397.7,observacion,2024-11-07,Carlos
+LO-0226,Los Guaduales,Pardo Suizo,68,514.1,sano,2024-12-08,Jorge
+EL-0227,El Progreso,Gyr,50,376.6,sano,2024-11-23,Marta
+EL-0228,El Roble,Pardo Suizo,17,233.5,vacuna_pendiente,2024-11-17,Luis
+LA-0229,La Pradera,Pardo Suizo,107,469.2,sano,2024-10-13,Luis
+LA-0230,La Esperanza,Jersey,53,508.6,sano,2024-10-02,Jorge
+LO-0231,Los Guaduales,Holstein,102,337.5,tratamiento,2024-08-26,Marta
+LO-0232,Los Guaduales,Holstein,13,322.6,sano,2024-11-26,Ana
+EL-0233,El Progreso,Jersey,98,387.7,sano,2024-09-30,Carlos
+LA-0234,La Esperanza,Criollo,88,418.2,observacion,2024-12-24,Carlos
+SA-0235,San Miguel,Holstein,107,329.7,sano,2024-12-02,Ana
+SA-0236,Santa Lucia,Criollo,21,499.1,sano,2024-07-13,Jorge
+BU-0237,Buenos Aires,Holstein,67,551.4,sano,2024-07-18,Ana
+LA-0238,La Pradera,Criollo,54,575.5,vacuna_pendiente,2024-10-08,Paola
+BU-0239,Buenos Aires,Normando,119,294.9,sano,2024-08-19,Paola
+BU-0240,Buenos Aires,Holstein,109,481.1,sano,2024-11-02,Paola
+LO-0241,Los Guaduales,Criollo,112,349.5,sano,2024-11-22,Luis
+LA-0242,La Pradera,Jersey,99,292.2,sano,2024-07-30,Carlos
+SA-0243,Santa Lucia,Pardo Suizo,33,338.9,sano,2024-07-07,Ana
+EL-0244,El Roble,Normando,101,352.7,observacion,2024-08-13,Paola
+LO-0245,Los Guaduales,Jersey,57,548.8,tratamiento,2024-12-29,Marta
+SA-0246,Santa Lucia,Holstein,34,404.7,tratamiento,2024-11-03,Ana
+EL-0247,El Roble,Holstein,81,466.8,vacuna_pendiente,2024-08-11,Ana
+SA-0248,Santa Lucia,Normando,57,522.1,sano,2024-12-07,Paola
+SA-0249,San Miguel,Jersey,99,420.6,sano,2024-10-29,Carlos
+EL-0250,El Progreso,Gyr,60,371.8,sano,2024-11-25,Ana
+LO-0251,Los Guaduales,Criollo,66,523.7,sano,2024-12-06,Ana
+LA-0252,La Esperanza,Criollo,11,475.6,sano,2024-08-08,Marta
+EL-0253,El Roble,Gyr,6,243.0,vacuna_pendiente,2024-12-09,Marta
+SA-0254,San Miguel,Pardo Suizo,55,361.2,sano,2024-12-22,Marta
+LA-0255,La Esperanza,Criollo,58,400.6,observacion,2024-11-26,Marta
+EL-0256,El Progreso,Criollo,98,328.7,tratamiento,2024-08-12,Ana
+LA-0257,La Esperanza,Gyr,43,376.6,sano,2024-07-27,Carlos
+LO-0258,Los Guaduales,Gyr,66,310.0,observacion,2024-10-31,Paola
+LA-0259,La Esperanza,Criollo,46,348.9,sano,2024-10-10,Ana
+EL-0260,El Roble,Gyr,18,506.2,vacuna_pendiente,2024-12-10,Luis
+BU-0261,Buenos Aires,Holstein,11,213.4,sano,2024-10-09,Jorge
+LA-0262,La Esperanza,Holstein,32,231.2,sano,2024-08-09,Luis
+EL-0263,El Roble,Jersey,80,416.3,sano,2024-12-18,Jorge
+BU-0264,Buenos Aires,Normando,94,543.6,sano,2024-07-14,Marta
+LA-0265,La Pradera,Criollo,90,549.4,observacion,2024-10-03,Luis
+BU-0266,Buenos Aires,Normando,39,365.1,sano,2024-08-04,Paola
+LA-0267,La Esperanza,Criollo,117,344.6,sano,2024-11-30,Ana
+EL-0268,El Roble,Holstein,30,418.5,sano,2024-08-23,Ana
+SA-0269,San Miguel,Normando,7,393.5,sano,2024-09-16,Carlos
+SA-0270,San Miguel,Pardo Suizo,48,377.7,sano,2024-10-28,Ana
+SA-0271,Santa Lucia,Jersey,120,423.4,sano,2024-11-02,Carlos
+SA-0272,Santa Lucia,Pardo Suizo,14,520.4,tratamiento,2024-09-15,Luis
+LA-0273,La Pradera,Gyr,109,321.2,sano,2024-12-09,Marta
+EL-0274,El Progreso,Holstein,18,409.1,sano,2024-11-15,Jorge
+LO-0275,Los Guaduales,Jersey,71,383.1,sano,2024-09-15,Paola
+LA-0276,La Pradera,Gyr,56,400.9,sano,2024-11-29,Carlos
+LA-0277,La Esperanza,Criollo,6,301.9,observacion,2024-12-29,Jorge
+BU-0278,Buenos Aires,Gyr,23,488.4,sano,2024-10-12,Paola
+LA-0279,La Esperanza,Gyr,27,276.3,sano,2024-12-23,Ana
+SA-0280,San Miguel,Normando,34,505.7,sano,2024-09-29,Jorge
+EL-0281,El Roble,Normando,71,444.9,observacion,2024-10-14,Ana
+SA-0282,Santa Lucia,Jersey,116,514.3,observacion,2024-09-27,Ana
+LA-0283,La Esperanza,Jersey,78,379.1,sano,2024-12-14,Carlos
+SA-0284,San Miguel,Criollo,48,375.9,observacion,2024-07-28,Paola
+BU-0285,Buenos Aires,Jersey,45,471.0,observacion,2024-07-30,Carlos
+SA-0286,San Miguel,Jersey,25,356.8,sano,2024-12-06,Marta
+EL-0287,El Roble,Normando,7,474.3,sano,2024-08-26,Luis
+LO-0288,Los Guaduales,Criollo,26,375.1,vacuna_pendiente,2024-09-24,Paola
+LA-0289,La Pradera,Holstein,105,315.8,tratamiento,2024-09-10,Marta
+LA-0290,La Pradera,Pardo Suizo,86,485.7,sano,2024-08-01,Luis
+LO-0291,Los Guaduales,Pardo Suizo,113,462.2,sano,2024-10-09,Ana
+LA-0292,La Pradera,Jersey,91,221.7,sano,2024-09-16,Carlos
+SA-0293,San Miguel,Criollo,26,342.3,sano,2024-09-28,Marta
+LA-0294,La Pradera,Pardo Suizo,76,420.6,sano,2024-11-21,Luis
+EL-0295,El Progreso,Criollo,42,328.4,sano,2024-08-25,Paola
+EL-0296,El Roble,Pardo Suizo,118,467.7,vacuna_pendiente,2024-09-30,Carlos
+EL-0297,El Progreso,Criollo,13,436.5,sano,2024-10-29,Paola
+LA-0298,La Esperanza,Criollo,80,382.5,sano,2024-09-08,Carlos
+EL-0299,El Progreso,Jersey,18,423.9,sano,2024-07-11,Marta
+LA-0300,La Pradera,Pardo Suizo,53,398.8,sano,2024-11-22,Marta
+EL-0301,El Progreso,Criollo,90,371.4,sano,2024-07-28,Ana
+LA-0302,La Pradera,Pardo Suizo,89,267.0,sano,2024-10-25,Paola
+LO-0303,Los Guaduales,Pardo Suizo,117,384.8,sano,2024-10-25,Luis
+LA-0304,La Pradera,Holstein,115,417.7,observacion,2024-09-16,Luis
+SA-0305,San Miguel,Normando,84,450.1,sano,2024-09-15,Carlos
+EL-0306,El Roble,Normando,102,544.5,observacion,2024-10-11,Jorge
+LA-0307,La Esperanza,Normando,44,504.7,observacion,2024-11-06,Paola
+EL-0308,El Roble,Gyr,24,367.8,sano,2024-07-27,Ana
+LO-0309,Los Guaduales,Jersey,24,505.2,sano,2024-09-29,Paola
+LO-0310,Los Guaduales,Gyr,107,339.0,sano,2024-07-05,Paola
+BU-0311,Buenos Aires,Jersey,24,455.7,sano,2024-11-06,Carlos
+EL-0312,El Progreso,Normando,72,437.6,sano,2024-11-21,Luis
+LO-0313,Los Guaduales,Pardo Suizo,70,362.5,sano,2024-11-25,Carlos
+EL-0314,El Progreso,Holstein,76,432.3,sano,2024-08-28,Luis
+EL-0315,El Progreso,Normando,111,427.3,sano,2024-11-04,Luis
+EL-0316,El Roble,Pardo Suizo,69,421.0,sano,2024-11-08,Paola
+EL-0317,El Roble,Holstein,86,328.7,sano,2024-08-04,Luis
+LO-0318,Los Guaduales,Jersey,49,457.4,sano,2024-12-03,Paola
+LA-0319,La Pradera,Gyr,118,310.1,sano,2024-09-15,Jorge
+LA-0320,La Pradera,Pardo Suizo,12,434.4,observacion,2024-08-31,Luis
+LA-0321,La Pradera,Holstein,30,479.9,tratamiento,2024-08-06,Ana
+SA-0322,San Miguel,Jersey,9,307.8,sano,2024-10-16,Marta
+EL-0323,El Roble,Normando,35,337.1,observacion,2024-07-16,Carlos
+EL-0324,El Progreso,Holstein,29,491.1,observacion,2024-10-26,Ana
+LA-0325,La Esperanza,Jersey,31,429.2,sano,2024-08-30,Jorge
+BU-0326,Buenos Aires,Gyr,33,550.6,sano,2024-07-20,Luis
+EL-0327,El Progreso,Jersey,113,369.6,tratamiento,2024-12-05,Ana
+EL-0328,El Roble,Jersey,70,354.3,sano,2024-08-18,Jorge
+EL-0329,El Progreso,Normando,108,389.6,observacion,2024-12-10,Carlos
+SA-0330,Santa Lucia,Gyr,44,418.6,sano,2024-12-08,Jorge
+EL-0331,El Progreso,Holstein,54,448.7,sano,2024-09-24,Carlos
+BU-0332,Buenos Aires,Gyr,41,454.5,tratamiento,2024-11-14,Jorge
+EL-0333,El Roble,Pardo Suizo,96,528.6,tratamiento,2024-11-08,Marta
+LA-0334,La Pradera,Gyr,79,348.4,sano,2024-10-05,Luis
+BU-0335,Buenos Aires,Jersey,43,481.3,sano,2024-09-27,Marta
+LA-0336,La Pradera,Pardo Suizo,67,327.4,sano,2024-07-23,Ana
+BU-0337,Buenos Aires,Gyr,49,593.3,vacuna_pendiente,2024-07-30,Jorge
+LO-0338,Los Guaduales,Jersey,76,346.7,vacuna_pendiente,2024-10-25,Carlos
+BU-0339,Buenos Aires,Normando,69,239.2,observacion,2024-12-09,Paola
+EL-0340,El Progreso,Pardo Suizo,81,638.4,tratamiento,2024-11-23,Jorge
+SA-0341,San Miguel,Normando,105,448.4,sano,2024-10-16,Paola
+LA-0342,La Esperanza,Pardo Suizo,67,412.9,tratamiento,2024-11-10,Jorge
+LA-0343,La Pradera,Jersey,50,496.7,sano,2024-08-10,Ana
+BU-0344,Buenos Aires,Holstein,33,430.7,vacuna_pendiente,2024-10-20,Jorge
+SA-0345,San Miguel,Normando,76,403.3,sano,2024-11-14,Paola
+EL-0346,El Roble,Jersey,80,364.5,sano,2024-09-21,Marta
+EL-0347,El Progreso,Holstein,110,561.5,sano,2024-12-16,Luis
+LA-0348,La Esperanza,Criollo,117,353.4,sano,2024-11-13,Luis
+SA-0349,Santa Lucia,Pardo Suizo,13,482.6,sano,2024-11-10,Jorge
+LO-0350,Los Guaduales,Criollo,82,365.0,sano,2024-12-31,Carlos
+SA-0351,Santa Lucia,Pardo Suizo,20,401.0,sano,2024-10-24,Luis
+LA-0352,La Pradera,Jersey,116,439.8,sano,2024-09-01,Marta
+LA-0353,La Pradera,Holstein,83,434.7,vacuna_pendiente,2024-07-07,Ana
+EL-0354,El Progreso,Criollo,92,506.9,sano,2024-12-29,Paola
+LA-0355,La Pradera,Normando,7,489.3,observacion,2024-11-01,Luis
+LA-0356,La Pradera,Gyr,99,455.7,observacion,2024-10-07,Paola
+LA-0357,La Esperanza,Normando,93,255.9,sano,2024-11-14,Ana
+LO-0358,Los Guaduales,Holstein,6,463.3,sano,2024-08-10,Paola
+SA-0359,Santa Lucia,Gyr,67,356.3,sano,2024-10-20,Luis
+SA-0360,San Miguel,Gyr,62,500.8,sano,2024-07-16,Luis
+SA-0361,Santa Lucia,Normando,117,192.3,sano,2024-11-23,Carlos
+LA-0362,La Esperanza,Holstein,30,240.9,sano,2024-12-29,Ana
+SA-0363,Santa Lucia,Criollo,51,512.0,sano,2024-12-04,Ana
+EL-0364,El Progreso,Criollo,33,504.7,sano,2024-12-28,Luis
+SA-0365,San Miguel,Jersey,23,341.4,tratamiento,2024-10-21,Paola
+SA-0366,Santa Lucia,Jersey,16,492.3,sano,2024-08-17,Ana
+BU-0367,Buenos Aires,Normando,37,398.3,sano,2024-12-19,Jorge
+LA-0368,La Pradera,Normando,85,455.7,observacion,2024-07-29,Ana
+LA-0369,La Esperanza,Jersey,61,482.0,observacion,2024-08-14,Ana
+EL-0370,El Roble,Jersey,99,539.0,tratamiento,2024-08-15,Jorge
+LA-0371,La Esperanza,Gyr,56,450.6,sano,2024-09-02,Ana
+BU-0372,Buenos Aires,Normando,14,428.4,sano,2024-08-10,Marta
+SA-0373,San Miguel,Holstein,100,417.4,sano,2024-07-30,Paola
+SA-0374,San Miguel,Criollo,18,405.1,vacuna_pendiente,2024-10-17,Jorge
+BU-0375,Buenos Aires,Normando,96,462.8,observacion,2024-11-04,Ana
+LA-0376,La Pradera,Holstein,8,395.9,sano,2024-07-05,Marta
+LA-0377,La Esperanza,Gyr,66,470.1,observacion,2024-09-06,Ana
+BU-0378,Buenos Aires,Jersey,117,284.8,tratamiento,2024-11-22,Paola
+BU-0379,Buenos Aires,Criollo,49,323.5,tratamiento,2024-07-18,Luis
+EL-0380,El Roble,Jersey,23,484.6,sano,2024-07-19,Carlos
+LO-0381,Los Guaduales,Holstein,93,383.2,sano,2024-12-05,Paola
+BU-0382,Buenos Aires,Normando,24,346.2,sano,2024-08-15,Marta
+BU-0383,Buenos Aires,Gyr,102,436.4,vacuna_pendiente,2024-11-26,Luis
+SA-0384,San Miguel,Jersey,108,448.5,sano,2024-10-23,Carlos
+SA-0385,Santa Lucia,Gyr,67,423.8,observacion,2024-09-24,Ana
+SA-0386,San Miguel,Holstein,94,301.4,observacion,2024-07-15,Carlos
+LA-0387,La Esperanza,Normando,113,554.2,vacuna_pendiente,2024-09-06,Luis
+BU-0388,Buenos Aires,Holstein,104,558.7,observacion,2024-11-22,Jorge
+EL-0389,El Roble,Normando,49,490.5,sano,2024-08-20,Paola
+BU-0390,Buenos Aires,Holstein,88,485.4,sano,2024-07-17,Marta
+EL-0391,El Progreso,Pardo Suizo,70,440.9,sano,2024-09-10,Paola
+LA-0392,La Esperanza,Gyr,106,374.2,sano,2024-09-18,Paola
+SA-0393,Santa Lucia,Criollo,57,433.2,sano,2024-09-10,Ana
+SA-0394,San Miguel,Holstein,71,291.2,sano,2024-07-29,Luis
+LO-0395,Los Guaduales,Jersey,19,560.6,sano,2024-12-02,Paola
+BU-0396,Buenos Aires,Holstein,109,322.6,tratamiento,2024-10-18,Paola
+SA-0397,Santa Lucia,Gyr,75,464.1,sano,2024-08-04,Ana
+SA-0398,San Miguel,Jersey,113,524.6,sano,2024-10-05,Ana
+LA-0399,La Esperanza,Holstein,8,507.4,tratamiento,2024-11-23,Luis
+EL-0400,El Roble,Criollo,59,365.1,sano,2024-11-06,Ana
+EL-0401,El Roble,Normando,90,433.9,sano,2024-10-09,Luis
+EL-0402,El Roble,Jersey,104,370.5,observacion,2024-12-29,Paola
+EL-0403,El Progreso,Criollo,64,571.6,observacion,2024-11-08,Luis
+EL-0404,El Progreso,Holstein,103,509.5,sano,2024-07-23,Carlos
+EL-0405,El Roble,Holstein,69,358.4,sano,2024-08-19,Marta
+LA-0406,La Pradera,Gyr,75,449.9,observacion,2024-11-28,Paola
+SA-0407,San Miguel,Criollo,48,433.0,sano,2024-12-15,Paola
+SA-0408,Santa Lucia,Gyr,40,593.0,sano,2024-07-29,Jorge
+LA-0409,La Esperanza,Pardo Suizo,45,465.8,sano,2024-10-29,Carlos
+LA-0410,La Pradera,Criollo,51,276.9,observacion,2024-09-16,Jorge
+LA-0411,La Pradera,Jersey,76,413.4,observacion,2024-11-19,Paola
+LA-0412,La Esperanza,Holstein,104,361.6,sano,2024-12-09,Ana
+LA-0413,La Pradera,Jersey,113,365.2,sano,2024-10-03,Marta
+EL-0414,El Progreso,Criollo,87,543.8,sano,2024-07-26,Jorge
+LO-0415,Los Guaduales,Jersey,72,429.7,observacion,2024-10-08,Ana
+EL-0416,El Progreso,Pardo Suizo,87,580.7,tratamiento,2024-09-14,Marta
+SA-0417,San Miguel,Pardo Suizo,52,544.6,sano,2024-12-18,Carlos
+LA-0418,La Esperanza,Normando,65,361.8,observacion,2024-10-16,Luis
+SA-0419,Santa Lucia,Jersey,96,459.5,sano,2024-09-27,Carlos
+LA-0420,La Esperanza,Normando,50,539.4,sano,2024-12-30,Carlos
+EL-0421,El Progreso,Holstein,44,287.9,sano,2024-09-13,Carlos
+EL-0422,El Roble,Normando,41,522.4,sano,2024-11-24,Luis
+SA-0423,Santa Lucia,Jersey,92,337.6,sano,2024-07-10,Marta
+BU-0424,Buenos Aires,Criollo,73,423.3,sano,2024-10-21,Paola
+LO-0425,Los Guaduales,Jersey,61,504.0,observacion,2024-09-25,Ana
+LO-0426,Los Guaduales,Criollo,56,398.3,tratamiento,2024-09-30,Jorge
+EL-0427,El Progreso,Gyr,38,456.4,sano,2024-08-13,Marta
+EL-0428,El Roble,Gyr,13,418.5,sano,2024-10-06,Jorge
+EL-0429,El Roble,Normando,90,198.2,vacuna_pendiente,2024-11-01,Paola
+EL-0430,El Progreso,Pardo Suizo,114,394.5,tratamiento,2024-10-15,Paola
+LA-0431,La Pradera,Jersey,117,326.8,sano,2024-08-12,Luis
+SA-0432,Santa Lucia,Criollo,40,349.9,sano,2024-07-23,Jorge
+SA-0433,Santa Lucia,Holstein,82,456.1,sano,2024-10-22,Ana
+EL-0434,El Roble,Criollo,37,449.6,sano,2024-12-02,Paola
+LO-0435,Los Guaduales,Normando,113,492.9,tratamiento,2024-07-26,Jorge
+EL-0436,El Roble,Jersey,14,527.6,sano,2024-08-22,Jorge
+LA-0437,La Esperanza,Holstein,13,215.4,observacion,2024-09-10,Paola
+EL-0438,El Roble,Criollo,55,464.1,observacion,2024-12-03,Ana
+EL-0439,El Progreso,Criollo,31,207.8,sano,2024-07-08,Luis
+EL-0440,El Roble,Normando,12,431.5,sano,2024-11-20,Marta
+SA-0441,Santa Lucia,Gyr,47,497.4,sano,2024-07-24,Luis
+BU-0442,Buenos Aires,Jersey,108,457.9,sano,2024-09-01,Ana
+LA-0443,La Pradera,Gyr,93,307.1,sano,2024-07-23,Jorge
+LO-0444,Los Guaduales,Normando,68,462.9,sano,2024-11-15,Jorge
+EL-0445,El Progreso,Jersey,18,464.2,sano,2024-10-09,Paola
+SA-0446,Santa Lucia,Gyr,103,383.2,sano,2024-08-25,Carlos
+LO-0447,Los Guaduales,Holstein,74,457.0,sano,2024-09-25,Carlos
+EL-0448,El Roble,Gyr,112,368.6,sano,2024-09-14,Jorge
+SA-0449,San Miguel,Pardo Suizo,45,375.9,sano,2024-09-26,Carlos
+BU-0450,Buenos Aires,Jersey,63,287.8,tratamiento,2024-08-28,Paola
+BU-0451,Buenos Aires,Criollo,30,339.8,sano,2024-07-14,Marta
+LO-0452,Los Guaduales,Pardo Suizo,40,463.4,sano,2024-11-23,Luis
+LA-0453,La Esperanza,Jersey,29,328.2,observacion,2024-08-24,Ana
+SA-0454,Santa Lucia,Jersey,66,380.2,tratamiento,2024-10-26,Luis
+EL-0455,El Roble,Criollo,49,371.9,sano,2024-12-25,Carlos
+SA-0456,Santa Lucia,Pardo Suizo,31,469.5,sano,2024-09-05,Ana
+EL-0457,El Roble,Normando,56,398.0,sano,2024-12-02,Carlos
+LA-0458,La Esperanza,Jersey,91,559.8,sano,2024-11-29,Ana
+BU-0459,Buenos Aires,Criollo,112,388.7,sano,2024-08-07,Paola
+EL-0460,El Roble,Normando,21,401.1,tratamiento,2024-10-28,Paola
+EL-0461,El Roble,Criollo,76,466.9,sano,2024-11-12,Marta
+EL-0462,El Roble,Criollo,65,534.1,sano,2024-08-04,Luis
+EL-0463,El Roble,Normando,12,328.7,sano,2024-09-06,Ana
+EL-0464,El Roble,Criollo,52,543.5,sano,2024-08-29,Paola
+BU-0465,Buenos Aires,Gyr,85,342.0,sano,2024-12-03,Carlos
+EL-0466,El Progreso,Gyr,77,373.5,sano,2024-07-06,Jorge
+LO-0467,Los Guaduales,Holstein,104,406.8,sano,2024-09-24,Jorge
+SA-0468,Santa Lucia,Normando,85,511.8,observacion,2024-12-30,Carlos
+LO-0469,Los Guaduales,Pardo Suizo,108,435.4,observacion,2024-08-12,Carlos
+SA-0470,Santa Lucia,Jersey,59,463.8,observacion,2024-12-16,Jorge
+EL-0471,El Progreso,Normando,112,465.8,sano,2024-10-14,Marta
+BU-0472,Buenos Aires,Jersey,44,530.5,observacion,2024-07-07,Paola
+LA-0473,La Esperanza,Normando,119,420.8,sano,2024-12-14,Paola
+EL-0474,El Roble,Holstein,51,555.4,sano,2024-11-29,Ana
+BU-0475,Buenos Aires,Gyr,35,475.3,sano,2024-09-16,Paola
+LO-0476,Los Guaduales,Criollo,49,518.5,sano,2024-10-14,Paola
+LA-0477,La Pradera,Criollo,86,368.6,sano,2024-11-22,Marta
+LA-0478,La Esperanza,Holstein,6,506.6,sano,2024-09-03,Carlos
+LO-0479,Los Guaduales,Pardo Suizo,102,428.0,observacion,2024-12-07,Carlos
+BU-0480,Buenos Aires,Normando,21,487.5,sano,2024-07-05,Luis
+LO-0481,Los Guaduales,Jersey,50,441.5,sano,2024-11-05,Ana
+SA-0482,Santa Lucia,Holstein,31,327.0,sano,2024-11-18,Marta
+EL-0483,El Progreso,Normando,87,428.2,vacuna_pendiente,2024-08-28,Paola
+EL-0484,El Roble,Normando,96,346.4,sano,2024-10-29,Luis
+BU-0485,Buenos Aires,Gyr,79,445.0,observacion,2024-07-06,Ana
+LA-0486,La Esperanza,Holstein,111,429.6,tratamiento,2024-12-30,Paola
+EL-0487,El Roble,Holstein,25,482.1,tratamiento,2024-11-18,Marta
+EL-0488,El Roble,Criollo,79,355.8,sano,2024-08-24,Paola
+LA-0489,La Esperanza,Jersey,101,454.0,sano,2024-10-09,Jorge
+BU-0490,Buenos Aires,Jersey,47,431.8,vacuna_pendiente,2024-08-03,Carlos
+BU-0491,Buenos Aires,Gyr,30,291.7,tratamiento,2024-07-26,Luis
+EL-0492,El Progreso,Gyr,111,325.0,sano,2024-08-22,Carlos
+LO-0493,Los Guaduales,Gyr,113,433.1,sano,2024-10-19,Paola
+EL-0494,El Roble,Jersey,34,395.1,sano,2024-08-21,Ana
+SA-0495,Santa Lucia,Criollo,79,420.6,sano,2024-10-14,Carlos
+BU-0496,Buenos Aires,Gyr,71,400.4,sano,2024-07-29,Luis
+LA-0497,La Pradera,Normando,58,469.3,vacuna_pendiente,2024-08-06,Ana
+SA-0498,Santa Lucia,Gyr,111,389.1,sano,2024-07-23,Paola
+SA-0499,San Miguel,Pardo Suizo,102,501.8,sano,2024-09-21,Carlos
+EL-0500,El Roble,Normando,42,313.6,sano,2024-11-08,Ana
+SA-0501,San Miguel,Jersey,38,423.1,sano,2024-09-26,Carlos
+SA-0502,Santa Lucia,Pardo Suizo,26,506.5,sano,2024-07-31,Jorge
+BU-0503,Buenos Aires,Gyr,92,534.9,sano,2024-10-20,Luis
+EL-0504,El Progreso,Pardo Suizo,113,406.0,sano,2024-09-07,Carlos
+BU-0505,Buenos Aires,Jersey,109,521.5,sano,2024-12-12,Luis
+BU-0506,Buenos Aires,Criollo,103,430.7,observacion,2024-12-11,Jorge
+SA-0507,Santa Lucia,Jersey,55,437.4,sano,2024-10-15,Paola
+LO-0508,Los Guaduales,Pardo Suizo,31,513.2,observacion,2024-08-04,Jorge
+EL-0509,El Roble,Jersey,66,459.3,vacuna_pendiente,2024-09-19,Luis
+LO-0510,Los Guaduales,Gyr,95,508.3,sano,2024-12-30,Ana
+LA-0511,La Pradera,Normando,89,354.1,sano,2024-09-09,Paola
+LA-0512,La Pradera,Holstein,77,442.8,sano,2024-08-17,Luis
+EL-0513,El Progreso,Criollo,7,384.3,vacuna_pendiente,2024-12-17,Luis
+LO-0514,Los Guaduales,Gyr,10,395.8,sano,2024-12-25,Luis
+LO-0515,Los Guaduales,Criollo,59,573.1,observacion,2024-11-07,Luis
+EL-0516,El Roble,Criollo,85,374.2,sano,2024-12-09,Ana
+BU-0517,Buenos Aires,Pardo Suizo,30,400.6,vacuna_pendiente,2024-11-30,Jorge
+LA-0518,La Esperanza,Normando,35,493.2,vacuna_pendiente,2024-10-23,Jorge
+LO-0519,Los Guaduales,Gyr,24,508.1,sano,2024-10-27,Ana
+LO-0520,Los Guaduales,Pardo Suizo,61,528.2,vacuna_pendiente,2024-11-25,Luis
+EL-0521,El Roble,Holstein,49,467.5,sano,2024-10-06,Carlos
+LA-0522,La Pradera,Holstein,109,361.8,observacion,2024-07-14,Luis
+SA-0523,Santa Lucia,Gyr,65,324.2,sano,2024-11-12,Paola
+SA-0524,Santa Lucia,Gyr,59,461.5,sano,2024-11-16,Jorge
+LA-0525,La Esperanza,Gyr,80,406.5,tratamiento,2024-11-11,Paola
+LO-0526,Los Guaduales,Holstein,75,477.1,vacuna_pendiente,2024-10-07,Carlos
+LA-0527,La Pradera,Normando,94,226.8,sano,2024-07-05,Jorge
+EL-0528,El Progreso,Criollo,75,501.0,sano,2024-08-23,Luis
+SA-0529,Santa Lucia,Criollo,58,333.7,sano,2024-12-20,Ana
+SA-0530,San Miguel,Holstein,9,400.1,sano,2024-10-04,Marta
+SA-0531,San Miguel,Normando,15,600.9,sano,2024-09-24,Carlos
+SA-0532,Santa Lucia,Gyr,41,291.7,sano,2024-08-30,Luis
+LA-0533,La Esperanza,Holstein,64,429.5,observacion,2024-07-30,Carlos
+LO-0534,Los Guaduales,Normando,95,543.9,sano,2024-10-04,Carlos
+SA-0535,Santa Lucia,Holstein,104,391.5,sano,2024-10-02,Ana
+LA-0536,La Pradera,Gyr,9,448.9,sano,2024-12-12,Paola
+EL-0537,El Roble,Criollo,113,268.2,observacion,2024-10-27,Jorge
+LA-0538,La Esperanza,Normando,115,458.9,sano,2024-08-30,Luis
+SA-0539,San Miguel,Pardo Suizo,91,476.0,vacuna_pendiente,2024-11-09,Carlos
+LA-0540,La Esperanza,Pardo Suizo,49,326.7,sano,2024-07-18,Ana
+EL-0541,El Roble,Gyr,21,374.5,sano,2024-09-29,Luis
+SA-0542,San Miguel,Gyr,48,334.3,sano,2024-08-09,Jorge
+LO-0543,Los Guaduales,Jersey,103,392.5,observacion,2024-11-28,Luis
+SA-0544,San Miguel,Jersey,40,417.5,vacuna_pendiente,2024-07-15,Marta
+SA-0545,Santa Lucia,Pardo Suizo,30,533.5,sano,2024-08-10,Paola
+LA-0546,La Pradera,Jersey,78,490.6,sano,2024-08-17,Carlos
+EL-0547,El Progreso,Normando,109,398.2,sano,2024-10-25,Jorge
+EL-0548,El Roble,Holstein,51,292.4,observacion,2024-08-31,Luis
+BU-0549,Buenos Aires,Gyr,81,340.6,sano,2024-07-08,Luis
+BU-0550,Buenos Aires,Jersey,99,547.5,sano,2024-11-26,Ana
+SA-0551,Santa Lucia,Normando,59,468.4,observacion,2024-08-09,Marta
+LA-0552,La Esperanza,Jersey,98,546.6,sano,2024-10-16,Carlos
+LO-0553,Los Guaduales,Normando,84,481.2,sano,2024-12-03,Ana
+EL-0554,El Roble,Gyr,15,412.4,observacion,2024-07-26,Paola
+EL-0555,El Roble,Holstein,86,458.4,sano,2024-10-02,Jorge
+SA-0556,San Miguel,Gyr,49,450.7,sano,2024-12-09,Jorge
+SA-0557,Santa Lucia,Normando,38,513.8,tratamiento,2024-10-13,Jorge
+SA-0558,Santa Lucia,Jersey,75,313.8,vacuna_pendiente,2024-10-18,Marta
+SA-0559,San Miguel,Jersey,11,541.8,observacion,2024-09-26,Luis
+BU-0560,Buenos Aires,Criollo,37,357.9,vacuna_pendiente,2024-08-08,Marta
+SA-0561,Santa Lucia,Jersey,72,251.1,sano,2024-08-22,Carlos
+LO-0562,Los Guaduales,Gyr,63,303.8,sano,2024-12-01,Marta
+SA-0563,Santa Lucia,Jersey,8,469.4,sano,2024-10-15,Carlos
+LA-0564,La Pradera,Jersey,38,314.4,tratamiento,2024-07-06,Paola
+SA-0565,San Miguel,Pardo Suizo,16,349.8,sano,2024-09-01,Jorge
+LA-0566,La Esperanza,Holstein,25,465.6,observacion,2024-09-26,Paola
+BU-0567,Buenos Aires,Jersey,41,471.6,sano,2024-11-18,Marta
+BU-0568,Buenos Aires,Jersey,120,504.4,observacion,2024-09-09,Marta
+EL-0569,El Roble,Jersey,84,467.3,sano,2024-08-05,Jorge
+LA-0570,La Esperanza,Holstein,100,276.0,observacion,2024-10-06,Jorge
+SA-0571,San Miguel,Normando,105,372.2,sano,2024-10-30,Jorge
+SA-0572,San Miguel,Jersey,10,345.8,sano,2024-12-16,Jorge
+SA-0573,San Miguel,Jersey,59,250.6,observacion,2024-08-22,Ana
+LA-0574,La Esperanza,Jersey,22,554.4,tratamiento,2024-09-27,Carlos
+LA-0575,La Esperanza,Pardo Suizo,46,319.8,sano,2024-10-02,Jorge
+LA-0576,La Esperanza,Normando,46,355.0,observacion,2024-09-15,Jorge
+BU-0577,Buenos Aires,Pardo Suizo,36,399.4,observacion,2024-11-12,Jorge
+LA-0578,La Pradera,Criollo,33,573.6,sano,2024-11-10,Jorge
+BU-0579,Buenos Aires,Jersey,38,358.7,sano,2024-08-23,Paola
+EL-0580,El Roble,Holstein,40,426.1,sano,2024-10-18,Carlos
+EL-0581,El Roble,Pardo Suizo,34,454.6,vacuna_pendiente,2024-10-10,Paola
+EL-0582,El Progreso,Jersey,47,387.6,sano,2024-11-14,Luis
+EL-0583,El Progreso,Criollo,92,582.2,sano,2024-10-27,Marta
+EL-0584,El Roble,Criollo,110,471.0,sano,2024-08-30,Ana
+BU-0585,Buenos Aires,Gyr,83,513.1,sano,2024-08-28,Ana
+LO-0586,Los Guaduales,Jersey,40,337.9,sano,2024-09-01,Jorge
+SA-0587,Santa Lucia,Holstein,48,409.6,observacion,2024-10-25,Paola
+BU-0588,Buenos Aires,Gyr,94,482.4,sano,2024-07-22,Carlos
+SA-0589,San Miguel,Holstein,91,304.7,observacion,2024-07-28,Paola
+SA-0590,Santa Lucia,Normando,103,412.3,vacuna_pendiente,2024-11-01,Jorge
+LA-0591,La Esperanza,Criollo,51,399.9,sano,2024-12-18,Paola
+SA-0592,Santa Lucia,Normando,16,423.4,observacion,2024-07-25,Carlos
+LO-0593,Los Guaduales,Jersey,86,460.0,sano,2024-10-06,Luis
+BU-0594,Buenos Aires,Jersey,21,301.1,sano,2024-10-12,Ana
+LO-0595,Los Guaduales,Normando,56,353.2,sano,2024-09-29,Paola
+LA-0596,La Esperanza,Normando,85,357.4,sano,2024-08-05,Jorge
+SA-0597,San Miguel,Normando,119,394.9,sano,2024-10-30,Jorge
+SA-0598,Santa Lucia,Pardo Suizo,34,341.3,sano,2024-12-30,Paola
+BU-0599,Buenos Aires,Normando,88,439.2,sano,2024-07-13,Paola
+SA-0600,Santa Lucia,Holstein,48,462.2,sano,2024-09-20,Ana
+EL-0601,El Roble,Pardo Suizo,54,377.0,sano,2024-07-29,Carlos
+LO-0602,Los Guaduales,Criollo,16,383.8,observacion,2024-09-23,Ana
+BU-0603,Buenos Aires,Normando,105,440.7,tratamiento,2024-08-23,Jorge
+LO-0604,Los Guaduales,Normando,42,427.9,sano,2024-11-02,Luis
+SA-0605,Santa Lucia,Holstein,105,454.9,sano,2024-08-22,Marta
+EL-0606,El Progreso,Gyr,71,341.7,sano,2024-09-02,Luis
+LO-0607,Los Guaduales,Normando,7,624.1,sano,2024-10-19,Ana
+SA-0608,Santa Lucia,Criollo,30,492.3,sano,2024-07-16,Paola
+LO-0609,Los Guaduales,Jersey,54,434.2,vacuna_pendiente,2024-09-15,Jorge
+BU-0610,Buenos Aires,Gyr,111,326.5,sano,2024-10-23,Paola
+LO-0611,Los Guaduales,Holstein,72,338.4,sano,2024-09-01,Jorge
+SA-0612,Santa Lucia,Gyr,59,528.5,vacuna_pendiente,2024-07-27,Marta
+LO-0613,Los Guaduales,Criollo,18,395.5,tratamiento,2024-08-14,Ana
+LO-0614,Los Guaduales,Pardo Suizo,14,523.9,sano,2024-12-05,Jorge
+SA-0615,Santa Lucia,Normando,104,315.0,sano,2024-09-03,Carlos
+LA-0616,La Esperanza,Holstein,52,374.8,sano,2024-11-20,Ana
+SA-0617,San Miguel,Jersey,52,540.7,sano,2024-08-02,Luis
+SA-0618,San Miguel,Gyr,46,375.5,observacion,2024-12-11,Carlos
+LO-0619,Los Guaduales,Criollo,75,468.6,sano,2024-08-14,Carlos
+EL-0620,El Progreso,Pardo Suizo,15,719.3,sano,2024-08-27,Luis
+BU-0621,Buenos Aires,Gyr,117,437.4,sano,2024-08-25,Ana
+LA-0622,La Pradera,Holstein,55,409.9,sano,2024-08-06,Ana
+LA-0623,La Pradera,Criollo,37,405.5,sano,2024-12-05,Marta
+EL-0624,El Progreso,Gyr,93,381.2,vacuna_pendiente,2024-10-09,Luis
+LA-0625,La Pradera,Criollo,52,427.3,tratamiento,2024-08-21,Ana
+EL-0626,El Roble,Gyr,86,363.9,sano,2024-10-12,Ana
+LA-0627,La Esperanza,Holstein,83,479.1,sano,2024-11-15,Ana
+SA-0628,Santa Lucia,Jersey,42,414.0,sano,2024-09-25,Paola
+LO-0629,Los Guaduales,Holstein,60,343.6,sano,2024-11-12,Carlos
+EL-0630,El Progreso,Holstein,11,392.7,tratamiento,2024-08-09,Carlos
+LO-0631,Los Guaduales,Pardo Suizo,59,469.4,sano,2024-12-03,Marta
+LO-0632,Los Guaduales,Gyr,46,535.3,observacion,2024-10-30,Marta
+SA-0633,San Miguel,Pardo Suizo,107,559.5,sano,2024-09-11,Paola
+LA-0634,La Pradera,Normando,57,572.7,sano,2024-07-05,Marta
+SA-0635,Santa Lucia,Jersey,68,470.6,observacion,2024-08-11,Marta
+EL-0636,El Roble,Holstein,82,523.7,sano,2024-12-18,Paola
+EL-0637,El Progreso,Criollo,98,422.1,sano,2024-08-29,Ana
+EL-0638,El Progreso,Holstein,41,307.2,vacuna_pendiente,2024-12-13,Jorge
+LO-0639,Los Guaduales,Pardo Suizo,113,430.5,sano,2024-11-24,Carlos
+LA-0640,La Pradera,Criollo,88,383.5,sano,2024-12-20,Paola
+EL-0641,El Progreso,Criollo,37,495.9,sano,2024-12-25,Carlos
+EL-0642,El Roble,Normando,88,344.4,sano,2024-12-28,Luis
+EL-0643,El Roble,Jersey,104,431.9,sano,2024-10-29,Paola
+EL-0644,El Roble,Criollo,18,270.9,sano,2024-08-02,Marta
+LO-0645,Los Guaduales,Normando,102,407.6,sano,2024-12-19,Paola
+EL-0646,El Progreso,Jersey,66,435.3,observacion,2024-12-17,Carlos
+LO-0647,Los Guaduales,Holstein,84,457.3,sano,2024-09-30,Marta
+LA-0648,La Pradera,Criollo,60,399.7,sano,2024-11-05,Marta
+LA-0649,La Esperanza,Normando,99,369.7,tratamiento,2024-10-24,Luis
+SA-0650,Santa Lucia,Normando,8,286.5,sano,2024-09-07,Luis
+EL-0651,El Roble,Gyr,13,474.6,observacion,2024-10-15,Marta
+LA-0652,La Esperanza,Gyr,80,451.3,tratamiento,2024-12-10,Jorge
+SA-0653,Santa Lucia,Gyr,42,359.9,sano,2024-07-30,Paola
+LA-0654,La Esperanza,Holstein,60,378.2,sano,2024-09-06,Luis
+LA-0655,La Pradera,Normando,81,330.9,observacion,2024-11-02,Jorge
+EL-0656,El Progreso,Normando,37,441.9,sano,2024-10-31,Luis
+SA-0657,Santa Lucia,Jersey,76,290.5,sano,2024-07-27,Luis
+BU-0658,Buenos Aires,Holstein,48,535.6,sano,2024-11-25,Paola
+SA-0659,Santa Lucia,Jersey,66,481.3,sano,2024-09-27,Luis
+SA-0660,Santa Lucia,Normando,72,360.4,sano,2024-12-06,Ana
+BU-0661,Buenos Aires,Jersey,116,546.7,sano,2024-12-25,Jorge
+LO-0662,Los Guaduales,Normando,118,424.8,sano,2024-08-13,Ana
+BU-0663,Buenos Aires,Holstein,7,367.8,sano,2024-09-03,Luis
+EL-0664,El Roble,Gyr,46,390.8,sano,2024-08-14,Luis
+LO-0665,Los Guaduales,Jersey,109,392.7,observacion,2024-11-22,Carlos
+BU-0666,Buenos Aires,Criollo,31,476.8,observacion,2024-09-23,Marta
+LA-0667,La Pradera,Normando,77,341.0,vacuna_pendiente,2024-12-15,Luis
+SA-0668,Santa Lucia,Holstein,45,391.4,sano,2024-11-17,Paola
+LA-0669,La Pradera,Jersey,15,490.5,sano,2024-07-28,Jorge
+SA-0670,Santa Lucia,Holstein,31,338.6,tratamiento,2024-08-30,Carlos
+SA-0671,San Miguel,Holstein,112,527.6,sano,2024-11-15,Paola
+LO-0672,Los Guaduales,Normando,71,278.6,sano,2024-09-06,Marta
+LA-0673,La Pradera,Holstein,66,448.9,sano,2024-12-31,Marta
+LO-0674,Los Guaduales,Criollo,114,389.5,sano,2024-09-01,Ana
+BU-0675,Buenos Aires,Pardo Suizo,116,383.0,observacion,2024-10-19,Marta
+EL-0676,El Roble,Jersey,87,351.3,vacuna_pendiente,2024-11-30,Ana
+EL-0677,El Roble,Jersey,61,298.5,sano,2024-09-04,Carlos
+SA-0678,San Miguel,Gyr,100,489.3,vacuna_pendiente,2024-12-29,Ana
+LA-0679,La Pradera,Normando,32,418.8,vacuna_pendiente,2024-09-05,Paola
+BU-0680,Buenos Aires,Criollo,120,424.3,sano,2024-12-27,Carlos
+EL-0681,El Roble,Holstein,116,531.7,sano,2024-08-28,Carlos
+EL-0682,El Progreso,Criollo,83,275.9,sano,2024-12-23,Ana
+LO-0683,Los Guaduales,Holstein,23,386.5,sano,2024-10-09,Marta
+EL-0684,El Roble,Jersey,106,553.3,sano,2024-12-20,Carlos
+SA-0685,San Miguel,Gyr,82,372.4,sano,2024-12-11,Jorge
+SA-0686,San Miguel,Gyr,94,329.2,sano,2024-09-07,Jorge
+LA-0687,La Pradera,Criollo,35,424.5,vacuna_pendiente,2024-07-05,Ana
+SA-0688,Santa Lucia,Normando,95,336.3,sano,2024-08-12,Paola
+SA-0689,Santa Lucia,Pardo Suizo,44,357.3,sano,2024-10-08,Jorge
+LA-0690,La Esperanza,Pardo Suizo,65,320.7,sano,2024-07-14,Carlos
+EL-0691,El Progreso,Gyr,21,420.7,sano,2024-07-17,Marta
+SA-0692,Santa Lucia,Pardo Suizo,12,461.6,sano,2024-11-06,Luis
+EL-0693,El Roble,Jersey,42,306.2,sano,2024-08-11,Carlos
+EL-0694,El Progreso,Pardo Suizo,74,481.9,sano,2024-07-13,Marta
+SA-0695,Santa Lucia,Pardo Suizo,35,370.5,vacuna_pendiente,2024-11-23,Marta
+SA-0696,Santa Lucia,Normando,36,273.5,sano,2024-08-02,Marta
+EL-0697,El Roble,Pardo Suizo,100,374.6,sano,2024-08-29,Ana
+EL-0698,El Progreso,Criollo,83,449.8,sano,2024-12-02,Paola
+EL-0699,El Progreso,Gyr,78,355.7,sano,2024-08-27,Marta
+LA-0700,La Esperanza,Jersey,40,445.0,sano,2024-10-17,Carlos
+BU-0701,Buenos Aires,Holstein,52,419.8,sano,2024-07-11,Carlos
+LA-0702,La Esperanza,Normando,81,331.5,sano,2024-08-31,Ana
+LO-0703,Los Guaduales,Criollo,18,416.9,sano,2024-09-01,Ana
+LA-0704,La Esperanza,Pardo Suizo,116,379.9,observacion,2024-12-26,Ana
+SA-0705,Santa Lucia,Pardo Suizo,6,272.9,vacuna_pendiente,2024-11-23,Marta
+EL-0706,El Progreso,Gyr,70,378.7,observacion,2024-10-13,Jorge
+EL-0707,El Progreso,Normando,40,366.8,vacuna_pendiente,2024-10-29,Carlos
+BU-0708,Buenos Aires,Criollo,32,447.2,sano,2024-12-11,Ana
+SA-0709,Santa Lucia,Normando,48,515.5,sano,2024-09-01,Ana
+LA-0710,La Esperanza,Criollo,94,466.0,sano,2024-07-29,Paola
+LO-0711,Los Guaduales,Holstein,105,314.7,sano,2024-09-27,Marta
+LA-0712,La Pradera,Jersey,33,314.1,sano,2024-12-16,Luis
+LA-0713,La Pradera,Normando,18,517.4,sano,2024-12-28,Jorge
+EL-0714,El Progreso,Criollo,45,298.8,sano,2024-08-16,Jorge
+EL-0715,El Progreso,Normando,110,600.5,tratamiento,2024-07-25,Marta
+LO-0716,Los Guaduales,Criollo,114,382.4,sano,2024-12-10,Ana
+SA-0717,San Miguel,Holstein,97,420.6,sano,2024-12-31,Paola
+LA-0718,La Esperanza,Normando,31,435.7,sano,2024-09-10,Jorge
+BU-0719,Buenos Aires,Gyr,114,461.4,sano,2024-12-26,Luis
+BU-0720,Buenos Aires,Holstein,12,494.4,sano,2024-11-12,Jorge
+LA-0721,La Pradera,Gyr,14,390.5,observacion,2024-07-20,Ana
+LA-0722,La Esperanza,Jersey,32,346.3,sano,2024-11-23,Luis
+LO-0723,Los Guaduales,Jersey,116,424.5,observacion,2024-08-22,Carlos
+EL-0724,El Roble,Normando,98,373.3,observacion,2024-11-03,Marta
+SA-0725,San Miguel,Holstein,61,267.4,sano,2024-09-14,Paola
+LO-0726,Los Guaduales,Gyr,116,468.1,sano,2024-07-10,Luis
+LA-0727,La Pradera,Normando,71,311.6,observacion,2024-08-28,Jorge
+SA-0728,San Miguel,Jersey,57,452.2,vacuna_pendiente,2024-08-02,Luis
+LO-0729,Los Guaduales,Jersey,35,494.1,sano,2024-11-16,Ana
+LO-0730,Los Guaduales,Holstein,9,486.5,sano,2024-11-11,Carlos
+LA-0731,La Pradera,Jersey,104,429.0,sano,2024-08-17,Ana
+EL-0732,El Roble,Normando,35,377.9,vacuna_pendiente,2024-12-07,Carlos
+BU-0733,Buenos Aires,Pardo Suizo,108,435.0,sano,2024-11-22,Luis
+SA-0734,Santa Lucia,Criollo,98,486.9,observacion,2024-10-17,Marta
+LO-0735,Los Guaduales,Criollo,29,260.0,sano,2024-09-06,Marta
+BU-0736,Buenos Aires,Pardo Suizo,79,357.2,sano,2024-12-26,Carlos
+EL-0737,El Roble,Jersey,19,379.6,observacion,2024-12-08,Marta
+SA-0738,Santa Lucia,Criollo,119,478.4,sano,2024-10-29,Jorge
+LA-0739,La Esperanza,Holstein,114,554.2,sano,2024-10-14,Ana
+EL-0740,El Progreso,Jersey,89,369.6,sano,2024-12-06,Paola
+EL-0741,El Progreso,Pardo Suizo,79,398.3,sano,2024-12-30,Jorge
+LO-0742,Los Guaduales,Holstein,10,418.5,sano,2024-07-14,Carlos
+LO-0743,Los Guaduales,Pardo Suizo,87,413.3,sano,2024-12-13,Jorge
+LO-0744,Los Guaduales,Normando,32,567.2,observacion,2024-07-29,Ana
+SA-0745,Santa Lucia,Pardo Suizo,67,285.3,observacion,2024-07-21,Jorge
+SA-0746,San Miguel,Criollo,71,309.9,sano,2024-08-25,Marta
+LA-0747,La Pradera,Pardo Suizo,39,424.7,sano,2024-11-25,Jorge
+LA-0748,La Pradera,Normando,16,511.3,observacion,2024-09-16,Marta
+SA-0749,San Miguel,Holstein,106,419.0,observacion,2024-09-23,Marta
+LA-0750,La Esperanza,Normando,21,486.6,sano,2024-12-13,Jorge
+BU-0751,Buenos Aires,Pardo Suizo,11,370.1,sano,2024-09-10,Jorge
+EL-0752,El Roble,Normando,100,431.9,observacion,2024-07-27,Carlos
+SA-0753,San Miguel,Criollo,93,343.1,sano,2024-12-30,Carlos
+LA-0754,La Esperanza,Jersey,85,625.2,sano,2024-09-19,Luis
+SA-0755,San Miguel,Gyr,20,517.5,sano,2024-09-24,Luis
+SA-0756,San Miguel,Pardo Suizo,119,499.8,sano,2024-09-13,Jorge
+SA-0757,San Miguel,Gyr,102,472.1,vacuna_pendiente,2024-12-29,Carlos
+SA-0758,San Miguel,Holstein,19,435.8,sano,2024-09-05,Luis
+BU-0759,Buenos Aires,Holstein,119,358.6,sano,2024-10-01,Paola
+LO-0760,Los Guaduales,Pardo Suizo,19,435.5,sano,2024-11-25,Carlos
+BU-0761,Buenos Aires,Normando,87,463.7,sano,2024-11-18,Carlos
+LA-0762,La Pradera,Pardo Suizo,100,623.4,observacion,2024-12-26,Ana
+LA-0763,La Pradera,Gyr,87,448.6,observacion,2024-11-13,Jorge
+LA-0764,La Esperanza,Criollo,74,442.6,sano,2024-10-12,Marta
+SA-0765,San Miguel,Criollo,79,520.4,sano,2024-08-08,Ana
+LA-0766,La Pradera,Pardo Suizo,27,517.3,observacion,2024-11-14,Ana
+LA-0767,La Esperanza,Holstein,81,418.8,sano,2024-10-23,Carlos
+LO-0768,Los Guaduales,Criollo,33,367.4,vacuna_pendiente,2024-11-10,Jorge
+BU-0769,Buenos Aires,Criollo,30,440.8,observacion,2024-12-07,Luis
+LA-0770,La Esperanza,Holstein,37,430.8,sano,2024-09-06,Ana
+SA-0771,Santa Lucia,Pardo Suizo,44,392.4,sano,2024-10-27,Marta
+LA-0772,La Pradera,Normando,74,449.3,sano,2024-11-07,Marta
+LO-0773,Los Guaduales,Gyr,73,292.4,observacion,2024-08-13,Paola
+LA-0774,La Pradera,Jersey,104,419.7,observacion,2024-12-21,Jorge
+LA-0775,La Pradera,Jersey,112,603.9,vacuna_pendiente,2024-09-17,Luis
+LA-0776,La Pradera,Criollo,20,489.4,sano,2024-08-17,Jorge
+LO-0777,Los Guaduales,Holstein,46,635.4,sano,2024-10-30,Ana
+LA-0778,La Pradera,Normando,19,474.5,tratamiento,2024-10-27,Carlos
+LA-0779,La Pradera,Pardo Suizo,90,469.9,sano,2024-11-21,Marta
+SA-0780,San Miguel,Holstein,24,430.4,sano,2024-10-24,Marta
+LO-0781,Los Guaduales,Normando,85,532.9,sano,2024-12-28,Jorge
+LA-0782,La Pradera,Jersey,17,483.8,sano,2024-12-11,Ana
+EL-0783,El Roble,Pardo Suizo,46,425.7,sano,2024-08-22,Luis
+LO-0784,Los Guaduales,Normando,24,250.8,vacuna_pendiente,2024-07-12,Marta
+EL-0785,El Roble,Jersey,60,367.6,sano,2024-07-26,Paola
+LA-0786,La Pradera,Gyr,30,454.9,observacion,2024-09-28,Ana
+EL-0787,El Progreso,Criollo,100,326.9,sano,2024-11-11,Jorge
+BU-0788,Buenos Aires,Gyr,30,495.2,sano,2024-10-04,Ana
+EL-0789,El Roble,Gyr,113,474.2,sano,2024-09-25,Paola
+EL-0790,El Roble,Holstein,98,326.5,observacion,2024-10-17,Ana
+EL-0791,El Roble,Gyr,53,283.0,vacuna_pendiente,2024-12-01,Jorge
+EL-0792,El Progreso,Gyr,64,310.7,sano,2024-07-17,Carlos
+BU-0793,Buenos Aires,Gyr,117,385.7,sano,2024-07-07,Paola
+LA-0794,La Pradera,Normando,32,342.3,tratamiento,2024-08-24,Marta
+EL-0795,El Roble,Jersey,85,431.5,sano,2024-07-27,Luis
+LA-0796,La Esperanza,Jersey,22,381.8,sano,2024-09-24,Jorge
+EL-0797,El Progreso,Holstein,88,479.7,observacion,2024-07-29,Ana
+BU-0798,Buenos Aires,Criollo,35,541.0,sano,2024-07-05,Ana
+SA-0799,Santa Lucia,Jersey,17,445.0,tratamiento,2024-08-27,Carlos
+SA-0800,Santa Lucia,Gyr,54,518.6,sano,2024-11-29,Marta
+LA-0801,La Esperanza,Normando,54,377.5,tratamiento,2024-12-10,Jorge
+SA-0802,San Miguel,Pardo Suizo,51,385.2,sano,2024-09-07,Carlos
+LA-0803,La Esperanza,Holstein,25,355.1,sano,2024-08-18,Carlos
+EL-0804,El Progreso,Gyr,95,484.3,observacion,2024-11-17,Jorge
+BU-0805,Buenos Aires,Criollo,83,378.7,sano,2024-09-03,Jorge
+LA-0806,La Pradera,Gyr,102,477.2,sano,2024-08-04,Carlos
+LA-0807,La Pradera,Gyr,101,385.7,observacion,2024-11-11,Luis
+SA-0808,Santa Lucia,Gyr,49,465.4,sano,2024-07-18,Carlos
+BU-0809,Buenos Aires,Criollo,70,405.6,sano,2024-12-16,Paola
+LO-0810,Los Guaduales,Criollo,45,443.8,sano,2024-09-03,Carlos
+BU-0811,Buenos Aires,Normando,19,420.7,sano,2024-09-12,Ana
+EL-0812,El Roble,Normando,46,568.8,sano,2024-08-07,Carlos
+SA-0813,Santa Lucia,Normando,10,586.7,observacion,2024-08-28,Marta
+EL-0814,El Progreso,Pardo Suizo,77,387.8,observacion,2024-09-30,Ana
+BU-0815,Buenos Aires,Pardo Suizo,49,467.2,sano,2024-11-19,Ana
+EL-0816,El Roble,Jersey,115,377.1,tratamiento,2024-09-20,Marta
+SA-0817,San Miguel,Criollo,57,331.4,sano,2024-08-27,Luis
+BU-0818,Buenos Aires,Pardo Suizo,85,485.3,sano,2024-07-22,Marta
+SA-0819,San Miguel,Normando,50,444.5,vacuna_pendiente,2024-11-24,Marta
+EL-0820,El Roble,Normando,58,511.7,observacion,2024-07-23,Jorge
+EL-0821,El Progreso,Gyr,106,321.6,sano,2024-07-05,Luis
+LA-0822,La Esperanza,Normando,92,274.2,tratamiento,2024-07-12,Carlos
+SA-0823,Santa Lucia,Jersey,83,463.9,sano,2024-08-06,Paola
+BU-0824,Buenos Aires,Normando,71,324.2,vacuna_pendiente,2024-12-01,Jorge
+EL-0825,El Roble,Pardo Suizo,12,248.8,vacuna_pendiente,2024-09-25,Carlos
+EL-0826,El Progreso,Criollo,18,310.7,sano,2024-11-21,Ana
+BU-0827,Buenos Aires,Jersey,34,415.9,sano,2024-12-08,Jorge
+SA-0828,San Miguel,Pardo Suizo,45,466.8,sano,2024-09-20,Paola
+LA-0829,La Esperanza,Gyr,38,469.1,sano,2024-08-12,Ana
+SA-0830,Santa Lucia,Gyr,91,354.7,tratamiento,2024-07-21,Jorge
+EL-0831,El Roble,Pardo Suizo,52,506.6,sano,2024-08-24,Marta
+SA-0832,San Miguel,Gyr,120,303.9,tratamiento,2024-09-02,Jorge
+EL-0833,El Roble,Jersey,110,437.4,sano,2024-09-17,Marta
+SA-0834,San Miguel,Jersey,84,485.4,sano,2024-07-10,Paola
+EL-0835,El Roble,Pardo Suizo,43,280.0,sano,2024-07-09,Marta
+SA-0836,San Miguel,Pardo Suizo,67,530.9,sano,2024-12-11,Carlos
+LO-0837,Los Guaduales,Normando,46,479.5,tratamiento,2024-11-28,Ana
+LA-0838,La Esperanza,Holstein,78,356.8,sano,2024-12-15,Ana
+LO-0839,Los Guaduales,Pardo Suizo,119,392.6,sano,2024-10-27,Marta
+LO-0840,Los Guaduales,Pardo Suizo,32,386.7,sano,2024-10-15,Marta
+EL-0841,El Roble,Jersey,108,278.5,sano,2024-08-01,Luis
+EL-0842,El Roble,Criollo,95,451.1,tratamiento,2024-09-21,Jorge
+BU-0843,Buenos Aires,Normando,118,469.0,sano,2024-08-01,Paola
+SA-0844,San Miguel,Jersey,73,496.9,sano,2024-11-19,Paola
+EL-0845,El Progreso,Normando,75,412.6,sano,2024-07-20,Luis
+SA-0846,Santa Lucia,Jersey,73,543.5,observacion,2024-09-10,Marta
+EL-0847,El Progreso,Jersey,91,303.1,sano,2024-08-14,Jorge
+EL-0848,El Roble,Jersey,48,366.1,sano,2024-11-24,Paola
+LA-0849,La Esperanza,Gyr,68,510.6,sano,2024-12-02,Luis
+SA-0850,Santa Lucia,Criollo,12,527.1,sano,2024-08-03,Marta
+EL-0851,El Progreso,Pardo Suizo,97,405.6,sano,2024-08-29,Jorge
+LA-0852,La Esperanza,Holstein,66,326.0,sano,2024-09-08,Ana
+LA-0853,La Pradera,Pardo Suizo,93,559.1,sano,2024-12-17,Jorge
+EL-0854,El Roble,Criollo,30,374.0,tratamiento,2024-10-03,Carlos
+BU-0855,Buenos Aires,Holstein,77,504.5,sano,2024-08-22,Luis
+EL-0856,El Progreso,Normando,50,548.0,sano,2024-11-04,Jorge
+BU-0857,Buenos Aires,Holstein,111,572.3,sano,2024-12-06,Luis
+LA-0858,La Esperanza,Criollo,19,450.9,sano,2024-09-19,Carlos
+EL-0859,El Roble,Holstein,37,273.0,sano,2024-12-26,Jorge
+BU-0860,Buenos Aires,Criollo,51,372.0,vacuna_pendiente,2024-12-02,Ana
+EL-0861,El Progreso,Jersey,40,492.3,sano,2024-10-24,Marta
+LA-0862,La Pradera,Holstein,28,345.2,sano,2024-12-10,Ana
+SA-0863,Santa Lucia,Pardo Suizo,42,483.2,observacion,2024-09-19,Paola
+EL-0864,El Roble,Criollo,71,333.2,sano,2024-08-01,Carlos
+SA-0865,San Miguel,Gyr,15,324.1,sano,2024-12-18,Carlos
+EL-0866,El Roble,Criollo,96,516.4,sano,2024-11-08,Marta
+EL-0867,El Progreso,Pardo Suizo,109,488.6,vacuna_pendiente,2024-12-31,Marta
+BU-0868,Buenos Aires,Gyr,39,340.4,observacion,2024-09-08,Luis
+SA-0869,San Miguel,Holstein,91,443.4,sano,2024-09-22,Carlos
+LA-0870,La Esperanza,Holstein,22,285.1,sano,2024-11-15,Carlos
+EL-0871,El Progreso,Holstein,103,288.2,sano,2024-12-11,Luis
+SA-0872,Santa Lucia,Normando,112,540.2,sano,2024-09-14,Jorge
+BU-0873,Buenos Aires,Normando,25,559.1,sano,2024-12-18,Marta
+SA-0874,San Miguel,Holstein,42,390.9,tratamiento,2024-07-25,Jorge
+EL-0875,El Progreso,Jersey,42,451.6,sano,2024-08-22,Paola
+LO-0876,Los Guaduales,Gyr,93,434.9,sano,2024-11-25,Paola
+SA-0877,San Miguel,Holstein,106,294.4,sano,2024-12-27,Jorge
+EL-0878,El Progreso,Holstein,69,465.4,sano,2024-09-18,Jorge
+LO-0879,Los Guaduales,Gyr,8,407.2,sano,2024-08-06,Luis
+LO-0880,Los Guaduales,Normando,57,464.8,observacion,2024-10-21,Luis
+LA-0881,La Esperanza,Criollo,109,464.7,sano,2024-09-15,Marta
+SA-0882,Santa Lucia,Gyr,107,479.5,observacion,2024-10-19,Luis
+BU-0883,Buenos Aires,Pardo Suizo,62,424.9,sano,2024-11-21,Paola
+BU-0884,Buenos Aires,Normando,92,361.4,sano,2024-10-17,Jorge
+BU-0885,Buenos Aires,Jersey,112,443.0,sano,2024-07-28,Paola
+SA-0886,San Miguel,Pardo Suizo,81,290.8,sano,2024-11-29,Jorge
+SA-0887,Santa Lucia,Jersey,15,429.9,sano,2024-10-03,Carlos
+BU-0888,Buenos Aires,Gyr,107,347.0,sano,2024-08-28,Carlos
+SA-0889,San Miguel,Jersey,54,449.2,sano,2024-09-11,Marta
+LO-0890,Los Guaduales,Criollo,12,318.2,vacuna_pendiente,2024-07-07,Marta
+EL-0891,El Progreso,Criollo,111,453.5,vacuna_pendiente,2024-08-27,Ana
+LO-0892,Los Guaduales,Holstein,68,228.3,sano,2024-07-26,Marta
+LA-0893,La Pradera,Pardo Suizo,51,282.0,tratamiento,2024-10-29,Marta
+LA-0894,La Pradera,Jersey,39,341.5,sano,2024-11-11,Marta
+LO-0895,Los Guaduales,Criollo,84,490.0,tratamiento,2024-10-24,Marta
+LA-0896,La Esperanza,Gyr,18,370.7,sano,2024-08-28,Ana
+EL-0897,El Progreso,Gyr,68,271.3,observacion,2024-10-29,Luis
+BU-0898,Buenos Aires,Criollo,90,277.8,sano,2024-11-30,Paola
+BU-0899,Buenos Aires,Jersey,18,369.8,sano,2024-09-02,Carlos
+SA-0900,San Miguel,Holstein,84,417.1,tratamiento,2024-09-10,Marta
+SA-0901,Santa Lucia,Pardo Suizo,25,402.9,sano,2024-12-12,Jorge
+BU-0902,Buenos Aires,Jersey,65,307.9,sano,2024-09-25,Luis
+EL-0903,El Progreso,Normando,111,440.6,sano,2024-08-21,Ana
+SA-0904,Santa Lucia,Jersey,78,384.5,sano,2024-08-01,Luis
+LO-0905,Los Guaduales,Holstein,40,337.2,sano,2024-11-03,Luis
+BU-0906,Buenos Aires,Jersey,57,452.9,sano,2024-07-19,Jorge
+LO-0907,Los Guaduales,Pardo Suizo,60,368.1,sano,2024-10-28,Luis
+LA-0908,La Pradera,Jersey,99,452.8,tratamiento,2024-11-30,Marta
+LA-0909,La Esperanza,Normando,100,347.7,observacion,2024-11-20,Ana
+LO-0910,Los Guaduales,Pardo Suizo,116,339.9,observacion,2024-11-26,Luis
+EL-0911,El Roble,Gyr,50,412.3,sano,2024-10-10,Ana
+EL-0912,El Roble,Gyr,118,559.2,sano,2024-09-12,Ana
+SA-0913,San Miguel,Jersey,82,389.5,sano,2024-10-04,Ana
+EL-0914,El Progreso,Normando,74,484.4,sano,2024-09-03,Ana
+LA-0915,La Pradera,Jersey,91,253.2,sano,2024-08-15,Paola
+BU-0916,Buenos Aires,Jersey,92,380.8,sano,2024-07-25,Carlos
+LA-0917,La Esperanza,Normando,7,433.5,sano,2024-09-11,Jorge
+EL-0918,El Progreso,Normando,76,431.2,sano,2024-11-15,Luis
+EL-0919,El Roble,Holstein,107,455.6,sano,2024-08-27,Luis
+BU-0920,Buenos Aires,Normando,94,353.3,sano,2024-10-06,Paola
+BU-0921,Buenos Aires,Gyr,43,470.5,sano,2024-12-19,Carlos
+LO-0922,Los Guaduales,Criollo,53,487.0,sano,2024-09-20,Luis
+LA-0923,La Esperanza,Gyr,116,346.4,sano,2024-10-16,Carlos
+SA-0924,San Miguel,Gyr,25,323.0,sano,2024-09-21,Luis
+SA-0925,San Miguel,Holstein,20,434.5,sano,2024-08-30,Marta
+EL-0926,El Roble,Normando,29,569.6,observacion,2024-08-04,Paola
+EL-0927,El Progreso,Criollo,35,327.1,sano,2024-12-04,Carlos
+LO-0928,Los Guaduales,Jersey,89,414.3,observacion,2024-08-23,Jorge
+SA-0929,Santa Lucia,Pardo Suizo,104,387.3,sano,2024-11-05,Paola
+BU-0930,Buenos Aires,Criollo,98,485.0,vacuna_pendiente,2024-07-05,Ana
+BU-0931,Buenos Aires,Criollo,56,384.7,observacion,2024-09-22,Jorge
+EL-0932,El Progreso,Holstein,14,500.0,sano,2024-07-25,Ana
+LA-0933,La Pradera,Gyr,11,456.2,sano,2024-12-05,Jorge
+LA-0934,La Pradera,Pardo Suizo,24,391.5,vacuna_pendiente,2024-09-25,Carlos
+LA-0935,La Esperanza,Holstein,107,447.6,sano,2024-10-14,Carlos
+BU-0936,Buenos Aires,Gyr,56,299.0,sano,2024-07-06,Paola
+EL-0937,El Progreso,Criollo,105,526.7,sano,2024-11-04,Luis
+EL-0938,El Roble,Gyr,82,478.5,sano,2024-10-30,Ana
+EL-0939,El Progreso,Holstein,86,346.8,sano,2024-08-25,Luis
+EL-0940,El Roble,Holstein,69,446.4,sano,2024-10-31,Marta
+LO-0941,Los Guaduales,Criollo,80,242.4,sano,2024-11-27,Ana
+BU-0942,Buenos Aires,Jersey,59,523.1,sano,2024-12-14,Ana
+BU-0943,Buenos Aires,Normando,44,410.2,sano,2024-10-08,Ana
+LA-0944,La Esperanza,Pardo Suizo,95,586.4,vacuna_pendiente,2024-07-05,Carlos
+LA-0945,La Esperanza,Gyr,102,484.0,sano,2024-08-19,Paola
+EL-0946,El Progreso,Criollo,101,430.7,tratamiento,2024-12-20,Luis
+EL-0947,El Progreso,Holstein,10,428.3,sano,2024-11-04,Luis
+EL-0948,El Progreso,Holstein,109,373.8,sano,2024-12-09,Ana
+LO-0949,Los Guaduales,Pardo Suizo,94,438.5,sano,2024-09-06,Jorge
+LA-0950,La Esperanza,Holstein,34,350.4,sano,2024-09-02,Jorge
+EL-0951,El Progreso,Gyr,104,301.8,sano,2024-07-16,Paola
+BU-0952,Buenos Aires,Pardo Suizo,105,474.8,observacion,2024-10-19,Ana
+LA-0953,La Esperanza,Normando,92,385.0,sano,2024-11-25,Carlos
+LA-0954,La Pradera,Pardo Suizo,87,329.6,sano,2024-12-30,Marta
+SA-0955,San Miguel,Normando,89,455.6,sano,2024-10-03,Carlos
+EL-0956,El Progreso,Gyr,94,369.6,sano,2024-08-13,Paola
+EL-0957,El Roble,Gyr,58,404.0,sano,2024-09-15,Paola
+LA-0958,La Pradera,Criollo,47,646.3,sano,2024-11-03,Luis
+LA-0959,La Esperanza,Criollo,87,483.1,sano,2024-12-11,Marta
+LA-0960,La Pradera,Jersey,42,362.2,tratamiento,2024-12-01,Ana
+BU-0961,Buenos Aires,Pardo Suizo,101,376.0,observacion,2024-12-23,Jorge
+EL-0962,El Roble,Jersey,30,478.1,sano,2024-08-02,Carlos
+EL-0963,El Roble,Criollo,23,504.7,sano,2024-12-24,Jorge
+LA-0964,La Pradera,Holstein,51,490.0,sano,2024-11-12,Ana
+SA-0965,Santa Lucia,Pardo Suizo,56,407.9,sano,2024-08-23,Ana
+LA-0966,La Esperanza,Jersey,70,485.0,observacion,2024-11-19,Jorge
+SA-0967,Santa Lucia,Pardo Suizo,50,285.2,vacuna_pendiente,2024-07-07,Carlos
+LA-0968,La Esperanza,Holstein,23,411.2,sano,2024-10-20,Ana
+SA-0969,San Miguel,Holstein,38,395.6,sano,2024-09-19,Paola
+BU-0970,Buenos Aires,Holstein,75,268.6,tratamiento,2024-07-10,Marta
+EL-0971,El Progreso,Jersey,29,556.7,sano,2024-11-29,Marta
+LO-0972,Los Guaduales,Normando,37,512.1,tratamiento,2024-10-10,Paola
+LA-0973,La Pradera,Jersey,62,353.1,tratamiento,2024-11-22,Jorge
+BU-0974,Buenos Aires,Criollo,115,431.4,sano,2024-09-27,Luis
+LA-0975,La Esperanza,Criollo,17,393.7,sano,2024-10-27,Paola
+SA-0976,Santa Lucia,Gyr,94,273.7,sano,2024-09-12,Jorge
+BU-0977,Buenos Aires,Holstein,72,271.0,sano,2024-10-22,Paola
+EL-0978,El Roble,Pardo Suizo,41,361.2,observacion,2024-10-20,Paola
+BU-0979,Buenos Aires,Gyr,63,483.3,observacion,2024-11-24,Jorge
+SA-0980,San Miguel,Criollo,96,510.5,sano,2024-09-16,Ana
+BU-0981,Buenos Aires,Pardo Suizo,73,320.9,sano,2024-12-22,Luis
+LA-0982,La Esperanza,Pardo Suizo,29,382.5,sano,2024-10-23,Jorge
+EL-0983,El Progreso,Jersey,100,290.6,sano,2024-08-28,Carlos
+LA-0984,La Pradera,Holstein,62,376.5,sano,2024-11-13,Luis
+SA-0985,San Miguel,Jersey,25,395.4,sano,2024-10-25,Luis
+BU-0986,Buenos Aires,Jersey,116,335.0,sano,2024-08-31,Carlos
+LO-0987,Los Guaduales,Criollo,72,385.8,sano,2024-10-23,Jorge
+EL-0988,El Progreso,Holstein,17,328.2,vacuna_pendiente,2024-11-19,Ana
+EL-0989,El Roble,Criollo,84,367.0,tratamiento,2024-08-10,Marta
+BU-0990,Buenos Aires,Normando,84,482.6,observacion,2024-09-29,Jorge
+SA-0991,Santa Lucia,Criollo,12,453.1,sano,2024-09-03,Jorge
+EL-0992,El Progreso,Jersey,43,346.4,sano,2024-10-20,Marta
+LO-0993,Los Guaduales,Gyr,14,304.8,sano,2024-09-07,Jorge
+EL-0994,El Progreso,Normando,71,504.3,sano,2024-11-26,Jorge
+BU-0995,Buenos Aires,Holstein,57,485.8,sano,2024-08-10,Jorge
+LA-0996,La Esperanza,Criollo,119,481.2,sano,2024-10-30,Carlos
+SA-0997,Santa Lucia,Holstein,77,308.7,observacion,2024-09-20,Ana
+LA-0998,La Pradera,Holstein,14,375.1,observacion,2024-11-27,Carlos
+BU-0999,Buenos Aires,Gyr,53,354.4,sano,2024-09-15,Carlos
+EL-1000,El Progreso,Criollo,98,408.9,sano,2024-11-10,Paola
+SA-1001,Santa Lucia,Jersey,44,500.1,sano,2024-12-02,Ana
+BU-1002,Buenos Aires,Normando,37,359.3,observacion,2024-11-18,Carlos
+BU-1003,Buenos Aires,Normando,104,294.1,sano,2024-08-11,Carlos
+SA-1004,San Miguel,Criollo,53,369.5,sano,2024-09-09,Luis
+SA-1005,San Miguel,Jersey,10,544.3,sano,2024-11-14,Ana
+SA-1006,Santa Lucia,Normando,85,318.8,sano,2024-10-27,Marta
+EL-1007,El Roble,Gyr,49,217.7,sano,2024-11-02,Carlos
+EL-1008,El Progreso,Normando,76,330.0,sano,2024-12-07,Paola
+BU-1009,Buenos Aires,Jersey,117,376.4,sano,2024-08-09,Paola
+SA-1010,Santa Lucia,Criollo,15,408.1,tratamiento,2024-12-13,Carlos
+BU-1011,Buenos Aires,Jersey,50,552.2,sano,2024-12-19,Carlos
+LA-1012,La Esperanza,Pardo Suizo,74,286.6,sano,2024-07-08,Ana
+LO-1013,Los Guaduales,Gyr,75,384.3,observacion,2024-12-09,Luis
+LO-1014,Los Guaduales,Criollo,74,384.7,sano,2024-12-23,Luis
+SA-1015,San Miguel,Normando,103,324.4,sano,2024-08-19,Carlos
+BU-1016,Buenos Aires,Normando,39,384.8,observacion,2024-09-26,Ana
+LA-1017,La Esperanza,Criollo,56,411.2,sano,2024-11-07,Carlos
+SA-1018,San Miguel,Gyr,36,442.9,sano,2024-07-05,Luis
+LA-1019,La Pradera,Holstein,7,508.5,sano,2024-11-23,Ana
+BU-1020,Buenos Aires,Normando,13,349.6,sano,2024-10-26,Ana
+SA-1021,San Miguel,Criollo,78,276.8,sano,2024-08-06,Jorge
+LA-1022,La Esperanza,Normando,30,535.8,sano,2024-10-14,Ana
+SA-1023,Santa Lucia,Jersey,97,336.0,sano,2024-07-05,Carlos
+EL-1024,El Progreso,Criollo,86,446.6,vacuna_pendiente,2024-07-29,Marta
+EL-1025,El Progreso,Criollo,104,428.3,observacion,2024-07-21,Jorge
+LA-1026,La Esperanza,Jersey,67,459.8,sano,2024-12-21,Paola
+SA-1027,San Miguel,Jersey,84,310.7,observacion,2024-11-24,Marta
+BU-1028,Buenos Aires,Jersey,75,585.1,sano,2024-09-11,Luis
+LO-1029,Los Guaduales,Jersey,79,393.0,sano,2024-10-13,Jorge
+BU-1030,Buenos Aires,Pardo Suizo,94,362.8,sano,2024-10-26,Luis
+LO-1031,Los Guaduales,Gyr,102,464.2,sano,2024-07-27,Ana
+LA-1032,La Pradera,Gyr,67,251.1,sano,2024-12-30,Luis
+LA-1033,La Pradera,Jersey,23,507.6,sano,2024-08-11,Marta
+EL-1034,El Roble,Pardo Suizo,58,463.2,sano,2024-08-20,Ana
+LA-1035,La Esperanza,Criollo,57,267.3,sano,2024-08-19,Luis
+LO-1036,Los Guaduales,Criollo,20,493.0,sano,2024-12-24,Ana
+EL-1037,El Roble,Holstein,95,395.2,sano,2024-09-10,Luis
+SA-1038,San Miguel,Normando,111,375.3,sano,2024-10-18,Paola
+SA-1039,Santa Lucia,Criollo,64,399.2,sano,2024-07-28,Marta
+BU-1040,Buenos Aires,Normando,106,597.5,observacion,2024-09-12,Luis
+SA-1041,San Miguel,Criollo,21,476.7,sano,2024-12-29,Jorge
+EL-1042,El Progreso,Gyr,106,375.3,observacion,2024-10-25,Paola
+EL-1043,El Roble,Normando,46,317.6,sano,2024-07-26,Jorge
+SA-1044,San Miguel,Normando,55,442.5,sano,2024-08-03,Luis
+LA-1045,La Esperanza,Holstein,47,546.1,sano,2024-11-17,Carlos
+SA-1046,San Miguel,Gyr,83,460.1,sano,2024-12-15,Paola
+LA-1047,La Esperanza,Gyr,96,541.6,sano,2024-10-11,Luis
+EL-1048,El Roble,Pardo Suizo,95,524.3,sano,2024-07-12,Carlos
+EL-1049,El Progreso,Normando,106,466.9,sano,2024-10-05,Paola
+EL-1050,El Progreso,Jersey,39,468.9,sano,2024-09-25,Ana
+BU-1051,Buenos Aires,Jersey,106,387.6,sano,2024-07-07,Ana
+EL-1052,El Progreso,Normando,97,393.7,sano,2024-07-14,Ana
+EL-1053,El Progreso,Gyr,43,327.8,observacion,2024-08-12,Carlos
+LA-1054,La Pradera,Criollo,104,393.9,sano,2024-07-17,Jorge
+LA-1055,La Esperanza,Criollo,37,501.4,sano,2024-07-10,Ana
+LA-1056,La Esperanza,Holstein,86,442.5,sano,2024-11-23,Carlos
+EL-1057,El Roble,Gyr,28,405.0,sano,2024-10-22,Ana
+LA-1058,La Esperanza,Normando,113,371.7,sano,2024-08-17,Ana
+SA-1059,San Miguel,Holstein,67,545.9,sano,2024-07-05,Jorge
+EL-1060,El Progreso,Pardo Suizo,68,160.5,observacion,2024-11-11,Jorge
+LA-1061,La Pradera,Normando,41,591.4,tratamiento,2024-08-18,Paola
+EL-1062,El Roble,Holstein,65,603.3,sano,2024-08-11,Jorge
+EL-1063,El Progreso,Holstein,46,626.4,sano,2024-08-17,Luis
+LA-1064,La Pradera,Jersey,103,463.5,sano,2024-10-25,Paola
+SA-1065,Santa Lucia,Normando,7,373.2,sano,2024-08-21,Paola
+LO-1066,Los Guaduales,Jersey,74,314.5,sano,2024-08-10,Carlos
+LO-1067,Los Guaduales,Gyr,35,265.7,sano,2024-12-28,Jorge
+LO-1068,Los Guaduales,Gyr,99,210.2,sano,2024-12-23,Luis
+LO-1069,Los Guaduales,Normando,84,453.5,sano,2024-10-25,Marta
+BU-1070,Buenos Aires,Pardo Suizo,44,447.6,vacuna_pendiente,2024-11-25,Luis
+LA-1071,La Pradera,Gyr,108,358.0,tratamiento,2024-07-15,Carlos
+LA-1072,La Esperanza,Gyr,102,481.4,sano,2024-12-24,Ana
+LA-1073,La Pradera,Normando,74,380.6,sano,2024-08-16,Marta
+EL-1074,El Progreso,Holstein,47,432.7,tratamiento,2024-11-26,Jorge
+BU-1075,Buenos Aires,Normando,78,396.2,observacion,2024-08-06,Luis
+SA-1076,Santa Lucia,Normando,77,505.4,sano,2024-08-28,Luis
+EL-1077,El Progreso,Gyr,99,302.4,sano,2024-08-06,Luis
+BU-1078,Buenos Aires,Holstein,75,470.5,sano,2024-11-21,Marta
+EL-1079,El Roble,Normando,83,418.2,observacion,2024-12-22,Ana
+EL-1080,El Roble,Jersey,28,380.7,sano,2024-07-08,Luis
+LA-1081,La Esperanza,Holstein,85,405.5,observacion,2024-12-01,Carlos
+LO-1082,Los Guaduales,Jersey,6,416.0,observacion,2024-08-12,Ana
+SA-1083,Santa Lucia,Jersey,54,522.9,sano,2024-11-17,Jorge
+SA-1084,Santa Lucia,Normando,92,323.8,sano,2024-07-30,Marta
+BU-1085,Buenos Aires,Normando,38,279.5,vacuna_pendiente,2024-10-06,Carlos
+EL-1086,El Progreso,Criollo,66,675.3,sano,2024-10-20,Paola
+LA-1087,La Esperanza,Normando,100,342.6,sano,2024-09-15,Ana
+LO-1088,Los Guaduales,Holstein,120,331.0,sano,2024-10-19,Paola
+LA-1089,La Esperanza,Normando,76,298.3,tratamiento,2024-09-17,Luis
+LA-1090,La Esperanza,Pardo Suizo,37,293.6,sano,2024-10-28,Jorge
+EL-1091,El Roble,Pardo Suizo,24,449.0,sano,2024-09-25,Marta
+EL-1092,El Roble,Jersey,17,585.2,sano,2024-07-14,Marta
+EL-1093,El Roble,Criollo,66,466.0,observacion,2024-10-22,Carlos
+SA-1094,Santa Lucia,Pardo Suizo,41,387.3,sano,2024-08-09,Jorge
+EL-1095,El Progreso,Pardo Suizo,98,615.0,sano,2024-12-10,Ana
+LO-1096,Los Guaduales,Holstein,95,460.7,sano,2024-11-29,Luis
+BU-1097,Buenos Aires,Normando,77,398.4,sano,2024-10-07,Paola
+BU-1098,Buenos Aires,Criollo,103,464.6,sano,2024-08-22,Luis
+LA-1099,La Pradera,Criollo,85,521.2,sano,2024-08-04,Marta
+LO-1100,Los Guaduales,Jersey,120,439.7,vacuna_pendiente,2024-10-28,Marta
+LA-1101,La Esperanza,Gyr,15,307.8,sano,2024-07-17,Jorge
+SA-1102,Santa Lucia,Normando,51,387.8,sano,2024-07-29,Jorge
+EL-1103,El Progreso,Gyr,16,385.8,sano,2024-11-16,Paola
+EL-1104,El Roble,Pardo Suizo,46,396.5,vacuna_pendiente,2024-10-26,Paola
+EL-1105,El Roble,Holstein,7,507.4,observacion,2024-11-24,Luis
+BU-1106,Buenos Aires,Holstein,68,529.8,sano,2024-09-28,Jorge
+LO-1107,Los Guaduales,Criollo,96,348.2,observacion,2024-07-10,Paola
+BU-1108,Buenos Aires,Gyr,71,482.9,sano,2024-11-14,Jorge
+EL-1109,El Progreso,Jersey,111,417.7,sano,2024-09-24,Ana
+LO-1110,Los Guaduales,Gyr,85,491.5,sano,2024-10-12,Paola
+EL-1111,El Progreso,Jersey,117,402.3,sano,2024-12-15,Carlos
+LO-1112,Los Guaduales,Jersey,84,532.2,sano,2024-11-18,Jorge
+SA-1113,San Miguel,Criollo,15,384.2,sano,2024-12-26,Luis
+LA-1114,La Esperanza,Pardo Suizo,115,381.2,observacion,2024-10-31,Carlos
+LA-1115,La Esperanza,Gyr,47,440.9,sano,2024-09-03,Luis
+SA-1116,Santa Lucia,Pardo Suizo,61,387.8,sano,2024-10-06,Marta
+LA-1117,La Pradera,Jersey,106,231.0,sano,2024-11-04,Luis
+LA-1118,La Pradera,Criollo,45,534.5,vacuna_pendiente,2024-08-12,Marta
+EL-1119,El Roble,Gyr,105,468.9,sano,2024-08-27,Marta
+SA-1120,Santa Lucia,Normando,108,391.9,sano,2024-08-13,Paola
+EL-1121,El Progreso,Pardo Suizo,25,380.7,vacuna_pendiente,2024-12-25,Paola
+LA-1122,La Pradera,Criollo,6,426.0,sano,2024-10-21,Marta
+EL-1123,El Progreso,Jersey,45,541.0,tratamiento,2024-11-21,Jorge
+SA-1124,San Miguel,Pardo Suizo,20,454.9,vacuna_pendiente,2024-10-06,Ana
+LA-1125,La Esperanza,Normando,100,318.5,observacion,2024-08-01,Luis
+LA-1126,La Esperanza,Criollo,93,406.9,observacion,2024-10-16,Ana
+SA-1127,Santa Lucia,Jersey,61,375.6,sano,2024-08-11,Carlos
+SA-1128,Santa Lucia,Normando,64,274.7,sano,2024-07-23,Paola
+EL-1129,El Progreso,Gyr,73,415.4,sano,2024-10-18,Jorge
+EL-1130,El Roble,Jersey,108,349.2,sano,2024-12-30,Ana
+LA-1131,La Esperanza,Pardo Suizo,73,499.7,sano,2024-07-30,Ana
+EL-1132,El Progreso,Normando,57,358.5,sano,2024-11-05,Paola
+SA-1133,Santa Lucia,Gyr,84,505.9,sano,2024-07-27,Jorge
+SA-1134,San Miguel,Criollo,27,402.8,observacion,2024-07-07,Ana
+LA-1135,La Esperanza,Pardo Suizo,40,444.6,sano,2024-09-19,Ana
+LO-1136,Los Guaduales,Normando,27,363.9,tratamiento,2024-07-15,Ana
+EL-1137,El Roble,Normando,80,423.7,tratamiento,2024-12-30,Carlos
+EL-1138,El Roble,Criollo,31,391.3,sano,2024-12-11,Paola
+SA-1139,San Miguel,Gyr,116,533.4,observacion,2024-11-12,Ana
+LA-1140,La Esperanza,Normando,69,413.2,sano,2024-09-01,Jorge
+EL-1141,El Progreso,Normando,48,437.8,sano,2024-07-22,Carlos
+EL-1142,El Progreso,Jersey,76,389.1,observacion,2024-08-13,Paola
+LA-1143,La Esperanza,Gyr,58,454.2,sano,2024-08-10,Luis
+SA-1144,Santa Lucia,Gyr,6,315.6,vacuna_pendiente,2024-11-29,Carlos
+EL-1145,El Progreso,Jersey,99,493.6,sano,2024-12-09,Paola
+EL-1146,El Progreso,Gyr,107,487.3,tratamiento,2024-12-12,Luis
+EL-1147,El Progreso,Holstein,107,259.8,sano,2024-07-25,Paola
+BU-1148,Buenos Aires,Gyr,76,446.2,observacion,2024-11-17,Paola
+SA-1149,Santa Lucia,Normando,60,298.1,sano,2024-08-13,Marta
+LA-1150,La Pradera,Normando,113,386.2,observacion,2024-11-24,Carlos
+LO-1151,Los Guaduales,Jersey,22,496.0,sano,2024-12-06,Jorge
+SA-1152,Santa Lucia,Jersey,94,453.1,tratamiento,2024-10-22,Luis
+LO-1153,Los Guaduales,Jersey,79,528.9,sano,2024-10-28,Marta
+SA-1154,Santa Lucia,Jersey,118,545.3,sano,2024-11-16,Carlos
+EL-1155,El Roble,Pardo Suizo,57,442.8,sano,2024-09-16,Ana
+BU-1156,Buenos Aires,Gyr,21,461.0,vacuna_pendiente,2024-07-20,Luis
+LA-1157,La Esperanza,Normando,53,439.6,sano,2024-07-07,Marta
+SA-1158,Santa Lucia,Gyr,46,628.4,sano,2024-10-24,Luis
+LA-1159,La Esperanza,Pardo Suizo,94,372.5,sano,2024-10-25,Jorge
+LA-1160,La Pradera,Gyr,30,511.0,sano,2024-11-29,Luis
+SA-1161,Santa Lucia,Gyr,20,263.5,sano,2024-08-18,Luis
+SA-1162,San Miguel,Holstein,16,374.9,sano,2024-11-14,Luis
+EL-1163,El Roble,Criollo,21,422.9,sano,2024-08-06,Jorge
+LO-1164,Los Guaduales,Pardo Suizo,91,487.9,sano,2024-12-07,Carlos
+LA-1165,La Esperanza,Pardo Suizo,23,666.7,sano,2024-11-30,Carlos
+SA-1166,San Miguel,Gyr,94,464.3,sano,2024-12-19,Marta
+BU-1167,Buenos Aires,Criollo,99,556.6,sano,2024-10-21,Jorge
+EL-1168,El Roble,Holstein,120,384.5,sano,2024-10-31,Ana
+SA-1169,Santa Lucia,Pardo Suizo,116,463.0,sano,2024-12-24,Jorge
+SA-1170,Santa Lucia,Gyr,87,289.1,sano,2024-11-22,Jorge
+SA-1171,Santa Lucia,Gyr,9,494.3,sano,2024-07-05,Ana
+EL-1172,El Progreso,Holstein,111,429.7,sano,2024-09-01,Luis
+LA-1173,La Pradera,Criollo,37,324.8,sano,2024-07-17,Paola
+SA-1174,Santa Lucia,Pardo Suizo,31,368.8,sano,2024-07-08,Carlos
+SA-1175,San Miguel,Pardo Suizo,64,419.0,tratamiento,2024-07-09,Carlos
+SA-1176,Santa Lucia,Normando,22,450.4,sano,2024-07-06,Paola
+LA-1177,La Pradera,Jersey,115,461.4,sano,2024-09-09,Jorge
+EL-1178,El Progreso,Criollo,60,347.0,sano,2024-12-07,Marta
+SA-1179,San Miguel,Pardo Suizo,86,474.4,vacuna_pendiente,2024-12-11,Marta
+SA-1180,Santa Lucia,Gyr,23,372.3,vacuna_pendiente,2024-12-26,Carlos
+SA-1181,San Miguel,Jersey,31,413.2,observacion,2024-09-22,Jorge
+SA-1182,San Miguel,Pardo Suizo,97,321.0,sano,2024-12-22,Jorge
+SA-1183,Santa Lucia,Criollo,14,359.8,sano,2024-10-29,Luis
+EL-1184,El Roble,Holstein,110,330.6,vacuna_pendiente,2024-11-07,Ana
+SA-1185,Santa Lucia,Jersey,61,428.3,observacion,2024-07-14,Ana
+LO-1186,Los Guaduales,Holstein,93,477.3,sano,2024-07-25,Paola
+SA-1187,Santa Lucia,Pardo Suizo,74,374.6,sano,2024-07-13,Carlos
+SA-1188,San Miguel,Jersey,64,391.3,sano,2024-09-23,Marta
+LA-1189,La Esperanza,Gyr,70,274.6,observacion,2024-09-30,Ana
+SA-1190,San Miguel,Jersey,31,500.9,sano,2024-09-08,Paola
+LA-1191,La Pradera,Jersey,83,477.7,observacion,2024-11-29,Ana
+EL-1192,El Roble,Holstein,31,404.8,sano,2024-11-24,Luis
+LO-1193,Los Guaduales,Jersey,31,382.1,sano,2024-11-27,Carlos
+SA-1194,Santa Lucia,Criollo,29,422.8,sano,2024-12-18,Marta
+SA-1195,San Miguel,Pardo Suizo,37,386.8,sano,2024-07-07,Paola
+SA-1196,Santa Lucia,Jersey,25,245.1,sano,2024-09-19,Jorge
+BU-1197,Buenos Aires,Normando,118,370.1,sano,2024-10-05,Ana
+LA-1198,La Esperanza,Gyr,71,416.7,sano,2024-11-25,Jorge
+EL-1199,El Roble,Jersey,12,477.9,sano,2024-07-30,Paola
+BU-1200,Buenos Aires,Normando,108,455.0,sano,2024-08-12,Carlos
+BU-1201,Buenos Aires,Gyr,10,406.2,tratamiento,2024-09-12,Marta
+BU-1202,Buenos Aires,Normando,15,362.6,observacion,2024-07-17,Marta
+EL-1203,El Roble,Holstein,101,460.1,sano,2024-12-16,Jorge
+LA-1204,La Esperanza,Gyr,116,419.1,sano,2024-08-12,Marta
+EL-1205,El Progreso,Holstein,35,275.0,sano,2024-09-22,Carlos
+LA-1206,La Esperanza,Gyr,20,379.3,sano,2024-10-27,Luis
+LA-1207,La Pradera,Criollo,70,429.6,sano,2024-08-09,Carlos
+EL-1208,El Roble,Holstein,119,364.9,sano,2024-09-19,Paola
+LO-1209,Los Guaduales,Normando,81,467.1,observacion,2024-09-18,Jorge
+EL-1210,El Progreso,Criollo,43,359.5,sano,2024-11-23,Carlos
+LO-1211,Los Guaduales,Pardo Suizo,80,405.5,vacuna_pendiente,2024-10-20,Carlos
+SA-1212,San Miguel,Normando,29,389.9,sano,2024-11-12,Ana
+SA-1213,San Miguel,Gyr,19,497.1,observacion,2024-07-14,Ana
+EL-1214,El Progreso,Holstein,77,451.4,sano,2024-10-27,Ana
+LO-1215,Los Guaduales,Pardo Suizo,56,554.8,sano,2024-10-22,Jorge
+LA-1216,La Pradera,Pardo Suizo,21,352.2,sano,2024-07-29,Jorge
+SA-1217,Santa Lucia,Criollo,86,334.8,sano,2024-09-20,Ana
+LA-1218,La Esperanza,Holstein,111,270.8,sano,2024-11-16,Paola
+SA-1219,San Miguel,Gyr,60,281.4,observacion,2024-08-28,Marta
+EL-1220,El Progreso,Criollo,21,461.6,sano,2024-09-28,Carlos
+SA-1221,San Miguel,Holstein,82,338.7,sano,2024-12-07,Jorge
+LA-1222,La Pradera,Jersey,93,443.7,sano,2024-12-28,Paola
+EL-1223,El Progreso,Pardo Suizo,79,456.3,sano,2024-08-09,Paola
+SA-1224,Santa Lucia,Holstein,98,462.9,vacuna_pendiente,2024-10-10,Marta
+EL-1225,El Roble,Criollo,30,299.9,tratamiento,2024-12-08,Marta
+SA-1226,San Miguel,Gyr,55,432.7,sano,2024-12-04,Paola
+LA-1227,La Pradera,Holstein,112,543.1,observacion,2024-11-26,Ana
+LO-1228,Los Guaduales,Pardo Suizo,62,269.5,sano,2024-11-16,Ana
+SA-1229,San Miguel,Holstein,26,331.2,sano,2024-08-23,Carlos
+LA-1230,La Esperanza,Holstein,97,508.3,sano,2024-12-15,Ana
+EL-1231,El Roble,Gyr,43,451.8,sano,2024-09-22,Jorge
+LA-1232,La Pradera,Criollo,46,308.6,sano,2024-10-08,Jorge
+BU-1233,Buenos Aires,Jersey,100,416.4,sano,2024-08-20,Paola
+EL-1234,El Progreso,Holstein,100,418.1,vacuna_pendiente,2024-07-10,Carlos
+LO-1235,Los Guaduales,Holstein,52,351.6,observacion,2024-12-02,Luis
+LO-1236,Los Guaduales,Normando,70,352.9,sano,2024-12-19,Carlos
+SA-1237,San Miguel,Holstein,35,508.1,sano,2024-10-02,Paola
+BU-1238,Buenos Aires,Gyr,73,447.1,sano,2024-08-20,Jorge
+SA-1239,San Miguel,Criollo,42,427.0,sano,2024-08-19,Carlos
+EL-1240,El Progreso,Normando,17,422.5,sano,2024-07-14,Paola
+SA-1241,Santa Lucia,Holstein,53,419.9,sano,2024-11-05,Jorge
+LA-1242,La Pradera,Gyr,112,554.2,observacion,2024-09-28,Marta
+BU-1243,Buenos Aires,Gyr,15,381.3,sano,2024-08-05,Ana
+BU-1244,Buenos Aires,Gyr,45,417.6,sano,2024-08-29,Luis
+SA-1245,Santa Lucia,Normando,70,396.3,tratamiento,2024-10-07,Carlos
+EL-1246,El Progreso,Pardo Suizo,20,393.7,tratamiento,2024-12-26,Marta
+EL-1247,El Roble,Pardo Suizo,63,278.6,observacion,2024-09-11,Luis
+EL-1248,El Progreso,Gyr,91,263.3,observacion,2024-12-08,Marta
+EL-1249,El Progreso,Gyr,36,464.5,sano,2024-10-12,Marta
+EL-1250,El Progreso,Holstein,110,534.5,vacuna_pendiente,2024-07-06,Ana
+LA-1251,La Esperanza,Gyr,61,570.6,sano,2024-09-28,Marta
+EL-1252,El Progreso,Pardo Suizo,66,436.3,sano,2024-10-13,Ana
+EL-1253,El Progreso,Normando,36,564.3,sano,2024-10-20,Marta
+LA-1254,La Esperanza,Gyr,67,340.8,sano,2024-07-14,Jorge
+LA-1255,La Esperanza,Holstein,116,386.2,sano,2024-09-15,Carlos
+EL-1256,El Roble,Holstein,119,515.4,sano,2024-07-27,Jorge
+LA-1257,La Esperanza,Holstein,66,582.3,sano,2024-07-05,Marta
+LA-1258,La Esperanza,Holstein,20,509.6,sano,2024-11-03,Luis
+LA-1259,La Esperanza,Pardo Suizo,51,491.5,sano,2024-12-11,Jorge
+LO-1260,Los Guaduales,Jersey,111,423.6,observacion,2024-09-08,Paola
+SA-1261,San Miguel,Gyr,69,375.9,vacuna_pendiente,2024-09-18,Luis
+EL-1262,El Progreso,Gyr,31,379.4,sano,2024-08-19,Ana
+EL-1263,El Roble,Pardo Suizo,18,401.0,vacuna_pendiente,2024-09-22,Paola
+EL-1264,El Roble,Jersey,71,477.1,sano,2024-09-08,Carlos
+SA-1265,San Miguel,Holstein,77,328.7,sano,2024-10-02,Paola
+LA-1266,La Pradera,Holstein,29,311.2,sano,2024-09-19,Jorge
+SA-1267,Santa Lucia,Jersey,68,467.6,sano,2024-08-02,Paola
+LA-1268,La Esperanza,Criollo,106,400.4,vacuna_pendiente,2024-10-23,Marta
+EL-1269,El Progreso,Holstein,103,366.5,sano,2024-08-05,Ana
+LA-1270,La Pradera,Criollo,44,469.6,sano,2024-09-19,Luis
+BU-1271,Buenos Aires,Pardo Suizo,109,454.1,observacion,2024-08-13,Paola
+SA-1272,Santa Lucia,Jersey,61,531.9,sano,2024-08-04,Paola
+SA-1273,Santa Lucia,Gyr,30,402.4,sano,2024-07-05,Carlos
+LA-1274,La Pradera,Holstein,106,437.7,sano,2024-07-07,Marta
+EL-1275,El Progreso,Criollo,46,230.9,sano,2024-10-31,Paola
+SA-1276,Santa Lucia,Normando,73,288.7,sano,2024-12-17,Luis
+LA-1277,La Esperanza,Criollo,109,239.3,sano,2024-07-18,Marta
+BU-1278,Buenos Aires,Holstein,98,293.7,vacuna_pendiente,2024-07-24,Paola
+SA-1279,Santa Lucia,Pardo Suizo,96,315.3,observacion,2024-10-01,Paola
+EL-1280,El Roble,Criollo,111,352.3,sano,2024-10-18,Carlos
+LA-1281,La Pradera,Holstein,83,332.2,sano,2024-09-03,Paola
+LA-1282,La Esperanza,Pardo Suizo,23,357.3,sano,2024-09-20,Paola
+EL-1283,El Roble,Jersey,47,444.6,observacion,2024-08-26,Carlos
+LA-1284,La Esperanza,Jersey,17,280.0,sano,2024-08-13,Carlos
+EL-1285,El Progreso,Criollo,112,609.6,sano,2024-08-06,Carlos
+LA-1286,La Esperanza,Holstein,74,441.1,sano,2024-11-20,Carlos
+EL-1287,El Progreso,Holstein,84,353.6,sano,2024-09-06,Jorge
+LA-1288,La Pradera,Jersey,79,427.2,sano,2024-08-23,Luis
+LO-1289,Los Guaduales,Gyr,102,340.2,observacion,2024-07-16,Paola
+LA-1290,La Pradera,Pardo Suizo,107,465.8,sano,2024-12-01,Jorge
+SA-1291,San Miguel,Normando,107,554.4,sano,2024-07-30,Marta
+LO-1292,Los Guaduales,Gyr,80,383.9,sano,2024-08-10,Luis
+LA-1293,La Esperanza,Gyr,40,372.6,vacuna_pendiente,2024-07-13,Luis
+LA-1294,La Pradera,Holstein,19,402.7,sano,2024-08-24,Ana
+SA-1295,Santa Lucia,Jersey,23,395.4,sano,2024-08-06,Marta
+EL-1296,El Progreso,Holstein,25,387.0,vacuna_pendiente,2024-08-30,Luis
+EL-1297,El Roble,Normando,115,577.3,tratamiento,2024-09-08,Marta
+LA-1298,La Pradera,Normando,48,626.1,vacuna_pendiente,2024-08-31,Luis
+BU-1299,Buenos Aires,Jersey,94,468.6,sano,2024-11-12,Marta
+LA-1300,La Esperanza,Holstein,40,439.2,sano,2024-11-18,Paola
+LO-1301,Los Guaduales,Jersey,86,357.9,vacuna_pendiente,2024-09-24,Carlos
+LA-1302,La Esperanza,Gyr,91,290.2,sano,2024-10-30,Paola
+BU-1303,Buenos Aires,Pardo Suizo,114,438.5,sano,2024-12-16,Luis
+SA-1304,Santa Lucia,Pardo Suizo,18,577.8,sano,2024-12-16,Ana
+EL-1305,El Roble,Gyr,56,395.7,sano,2024-09-15,Paola
+SA-1306,Santa Lucia,Pardo Suizo,48,386.9,vacuna_pendiente,2024-11-21,Luis
+SA-1307,Santa Lucia,Jersey,118,330.7,tratamiento,2024-10-20,Paola
+LA-1308,La Pradera,Gyr,110,376.6,sano,2024-08-16,Paola
+SA-1309,Santa Lucia,Holstein,102,282.1,sano,2024-09-27,Carlos
+LO-1310,Los Guaduales,Criollo,35,343.5,sano,2024-12-23,Luis
+SA-1311,San Miguel,Criollo,100,483.0,observacion,2024-12-04,Paola
+EL-1312,El Roble,Jersey,78,453.2,sano,2024-08-22,Marta
+EL-1313,El Roble,Jersey,68,565.6,observacion,2024-11-15,Marta
+LA-1314,La Pradera,Pardo Suizo,102,428.7,vacuna_pendiente,2024-12-15,Paola
+EL-1315,El Progreso,Pardo Suizo,91,509.2,sano,2024-09-22,Ana
+SA-1316,San Miguel,Jersey,105,590.3,observacion,2024-09-15,Luis
+LA-1317,La Esperanza,Gyr,20,413.7,sano,2024-12-11,Paola
+EL-1318,El Progreso,Normando,47,377.6,sano,2024-10-03,Jorge
+EL-1319,El Progreso,Normando,6,329.6,tratamiento,2024-07-16,Carlos
+LA-1320,La Esperanza,Normando,64,359.0,sano,2024-08-16,Carlos
+LA-1321,La Esperanza,Criollo,104,395.8,sano,2024-11-14,Paola
+SA-1322,Santa Lucia,Jersey,82,395.9,sano,2024-08-26,Carlos
+BU-1323,Buenos Aires,Normando,65,369.5,sano,2024-11-22,Ana
+LA-1324,La Esperanza,Gyr,75,587.9,sano,2024-07-28,Ana
+EL-1325,El Roble,Jersey,60,333.6,sano,2024-11-10,Jorge
+EL-1326,El Roble,Holstein,99,355.7,vacuna_pendiente,2024-12-02,Marta
+SA-1327,Santa Lucia,Normando,36,336.3,sano,2024-08-03,Marta
+LA-1328,La Pradera,Jersey,100,321.6,sano,2024-08-25,Carlos
+SA-1329,San Miguel,Normando,25,469.9,sano,2024-08-12,Marta
+LA-1330,La Pradera,Holstein,37,548.3,sano,2024-11-23,Jorge
+BU-1331,Buenos Aires,Criollo,11,494.0,observacion,2024-10-21,Marta
+LA-1332,La Pradera,Jersey,54,334.8,sano,2024-10-12,Carlos
+SA-1333,Santa Lucia,Normando,66,632.2,sano,2024-10-02,Luis
+LA-1334,La Esperanza,Pardo Suizo,114,521.5,sano,2024-08-23,Marta
+EL-1335,El Roble,Jersey,56,459.1,sano,2024-12-24,Ana
+LA-1336,La Esperanza,Holstein,56,471.2,sano,2024-12-02,Jorge
+LA-1337,La Pradera,Holstein,105,443.4,sano,2024-09-26,Jorge
+SA-1338,Santa Lucia,Jersey,14,307.0,sano,2024-12-18,Jorge
+BU-1339,Buenos Aires,Normando,99,446.6,observacion,2024-11-18,Marta
+BU-1340,Buenos Aires,Gyr,80,319.6,sano,2024-12-13,Jorge
+EL-1341,El Roble,Jersey,72,301.7,sano,2024-11-02,Paola
+LA-1342,La Pradera,Normando,99,388.5,sano,2024-12-28,Ana
+LA-1343,La Pradera,Jersey,82,372.9,sano,2024-11-05,Marta
+EL-1344,El Progreso,Normando,11,455.1,sano,2024-07-22,Jorge
+SA-1345,San Miguel,Pardo Suizo,44,293.7,observacion,2024-12-05,Carlos
+EL-1346,El Roble,Gyr,58,342.2,sano,2024-07-27,Carlos
+SA-1347,Santa Lucia,Gyr,8,444.7,tratamiento,2024-09-10,Ana
+LA-1348,La Pradera,Normando,27,476.0,sano,2024-07-25,Jorge
+EL-1349,El Progreso,Normando,102,364.8,sano,2024-10-30,Jorge
+EL-1350,El Progreso,Normando,64,260.1,vacuna_pendiente,2024-10-15,Marta
+LA-1351,La Pradera,Normando,19,390.6,sano,2024-07-16,Luis
+EL-1352,El Roble,Pardo Suizo,44,244.5,sano,2024-09-30,Carlos
+SA-1353,Santa Lucia,Pardo Suizo,53,411.2,sano,2024-11-23,Paola
+SA-1354,San Miguel,Criollo,91,316.4,observacion,2024-12-10,Marta
+LA-1355,La Esperanza,Normando,100,473.6,sano,2024-11-04,Carlos
+LO-1356,Los Guaduales,Holstein,16,435.7,sano,2024-09-12,Paola
+EL-1357,El Roble,Holstein,15,628.0,sano,2024-07-28,Luis
+LA-1358,La Pradera,Gyr,66,521.8,observacion,2024-12-23,Jorge
+EL-1359,El Roble,Normando,81,333.4,sano,2024-08-26,Marta
+LA-1360,La Esperanza,Pardo Suizo,29,411.3,observacion,2024-10-10,Carlos
+EL-1361,El Roble,Gyr,28,396.1,sano,2024-08-09,Jorge
+LO-1362,Los Guaduales,Holstein,93,329.3,observacion,2024-09-24,Jorge
+LA-1363,La Pradera,Holstein,38,237.6,sano,2024-10-18,Ana
+BU-1364,Buenos Aires,Normando,118,409.5,observacion,2024-08-26,Luis
+SA-1365,Santa Lucia,Gyr,17,301.1,observacion,2024-11-10,Jorge
+SA-1366,San Miguel,Criollo,31,313.1,sano,2024-07-18,Ana
+LA-1367,La Pradera,Pardo Suizo,113,537.5,vacuna_pendiente,2024-11-06,Luis
+BU-1368,Buenos Aires,Jersey,33,457.9,sano,2024-07-19,Jorge
+SA-1369,Santa Lucia,Criollo,36,549.7,sano,2024-07-11,Ana
+EL-1370,El Progreso,Holstein,102,356.0,tratamiento,2024-10-17,Jorge
+LA-1371,La Pradera,Pardo Suizo,118,438.1,sano,2024-09-03,Carlos
+SA-1372,San Miguel,Jersey,27,306.5,sano,2024-11-23,Paola
+LO-1373,Los Guaduales,Jersey,47,393.1,sano,2024-07-22,Marta
+LO-1374,Los Guaduales,Criollo,90,330.4,sano,2024-11-09,Ana
+SA-1375,Santa Lucia,Pardo Suizo,101,279.3,sano,2024-08-27,Marta
+LA-1376,La Esperanza,Normando,89,422.0,sano,2024-07-13,Marta
+EL-1377,El Roble,Gyr,90,379.7,sano,2024-08-30,Jorge
+SA-1378,Santa Lucia,Jersey,46,553.0,sano,2024-10-23,Carlos
+LA-1379,La Pradera,Holstein,91,378.3,sano,2024-12-24,Carlos
+EL-1380,El Roble,Normando,7,398.0,sano,2024-11-23,Luis
+EL-1381,El Roble,Criollo,54,584.2,sano,2024-12-06,Luis
+BU-1382,Buenos Aires,Pardo Suizo,84,556.1,tratamiento,2024-07-26,Jorge
+EL-1383,El Progreso,Holstein,76,329.6,observacion,2024-07-10,Carlos
+LO-1384,Los Guaduales,Normando,32,472.7,tratamiento,2024-08-29,Jorge
+SA-1385,Santa Lucia,Normando,28,415.9,tratamiento,2024-12-06,Jorge
+LA-1386,La Pradera,Jersey,9,490.7,vacuna_pendiente,2024-12-19,Ana
+EL-1387,El Progreso,Criollo,40,426.2,sano,2024-09-05,Jorge
+LO-1388,Los Guaduales,Jersey,102,494.5,sano,2024-10-13,Paola
+SA-1389,San Miguel,Pardo Suizo,92,437.4,sano,2024-09-05,Ana
+LA-1390,La Pradera,Normando,35,172.8,observacion,2024-09-07,Ana
+SA-1391,San Miguel,Jersey,73,389.6,sano,2024-11-30,Marta
+SA-1392,San Miguel,Pardo Suizo,31,295.6,sano,2024-07-18,Marta
+SA-1393,Santa Lucia,Gyr,44,509.3,sano,2024-10-17,Carlos
+EL-1394,El Progreso,Normando,42,499.4,sano,2024-07-21,Paola
+EL-1395,El Roble,Jersey,42,410.3,sano,2024-10-03,Ana
+BU-1396,Buenos Aires,Pardo Suizo,98,423.6,vacuna_pendiente,2024-10-29,Carlos
+EL-1397,El Roble,Holstein,116,532.2,observacion,2024-07-10,Ana
+EL-1398,El Progreso,Gyr,114,485.3,sano,2024-07-19,Luis
+SA-1399,San Miguel,Gyr,21,513.8,sano,2024-10-19,Jorge
+LA-1400,La Pradera,Holstein,83,420.3,sano,2024-12-30,Paola
+LO-1401,Los Guaduales,Gyr,43,296.5,sano,2024-09-24,Paola
+EL-1402,El Progreso,Holstein,52,300.4,sano,2024-08-31,Ana
+LA-1403,La Pradera,Criollo,22,362.8,tratamiento,2024-12-14,Carlos
+SA-1404,Santa Lucia,Holstein,61,464.6,sano,2024-12-18,Luis
+EL-1405,El Roble,Holstein,53,352.3,observacion,2024-07-23,Luis
+LA-1406,La Pradera,Criollo,117,439.8,sano,2024-11-02,Luis
+LO-1407,Los Guaduales,Gyr,80,427.9,sano,2024-11-03,Marta
+EL-1408,El Progreso,Jersey,80,438.0,observacion,2024-09-25,Paola
+SA-1409,San Miguel,Normando,118,410.8,sano,2024-11-05,Marta
+BU-1410,Buenos Aires,Holstein,27,461.9,sano,2024-07-31,Paola
+LA-1411,La Pradera,Gyr,109,465.9,observacion,2024-12-08,Ana
+EL-1412,El Progreso,Criollo,101,312.1,sano,2024-08-09,Paola
+LA-1413,La Esperanza,Gyr,62,361.1,sano,2024-07-27,Marta
+BU-1414,Buenos Aires,Criollo,22,467.6,sano,2024-07-31,Carlos
+EL-1415,El Progreso,Gyr,25,321.9,sano,2024-12-26,Luis
+EL-1416,El Roble,Gyr,56,475.1,sano,2024-11-22,Marta
+SA-1417,Santa Lucia,Holstein,55,402.1,vacuna_pendiente,2024-12-05,Luis
+BU-1418,Buenos Aires,Holstein,25,614.5,vacuna_pendiente,2024-12-05,Jorge
+LA-1419,La Pradera,Criollo,73,374.3,sano,2024-11-28,Marta
+EL-1420,El Progreso,Pardo Suizo,112,561.0,sano,2024-08-11,Paola
+EL-1421,El Progreso,Gyr,18,441.3,vacuna_pendiente,2024-12-01,Ana
+LA-1422,La Pradera,Jersey,40,447.9,sano,2024-10-13,Luis
+EL-1423,El Progreso,Holstein,16,343.8,sano,2024-11-30,Luis
+SA-1424,San Miguel,Holstein,33,396.6,observacion,2024-12-21,Luis
+EL-1425,El Roble,Holstein,79,489.2,sano,2024-12-02,Luis
+EL-1426,El Roble,Criollo,7,453.7,observacion,2024-10-10,Jorge
+LA-1427,La Pradera,Jersey,50,415.1,sano,2024-08-09,Paola
+BU-1428,Buenos Aires,Jersey,66,461.7,sano,2024-09-18,Luis
+SA-1429,Santa Lucia,Jersey,36,303.4,observacion,2024-08-11,Jorge
+BU-1430,Buenos Aires,Criollo,12,294.1,tratamiento,2024-07-14,Ana
+EL-1431,El Progreso,Normando,101,460.1,vacuna_pendiente,2024-12-07,Carlos
+SA-1432,San Miguel,Pardo Suizo,114,453.9,sano,2024-12-27,Ana
+LO-1433,Los Guaduales,Criollo,113,455.2,sano,2024-08-18,Paola
+LO-1434,Los Guaduales,Criollo,71,180.3,vacuna_pendiente,2024-11-29,Paola
+LO-1435,Los Guaduales,Gyr,31,430.9,sano,2024-10-08,Ana
+LA-1436,La Pradera,Criollo,28,446.5,vacuna_pendiente,2024-10-29,Paola
+EL-1437,El Roble,Jersey,96,507.1,sano,2024-08-30,Ana
+EL-1438,El Roble,Holstein,106,465.6,tratamiento,2024-12-06,Paola
+LO-1439,Los Guaduales,Holstein,49,461.2,tratamiento,2024-07-30,Luis
+LA-1440,La Pradera,Normando,84,459.7,sano,2024-11-11,Jorge
+LO-1441,Los Guaduales,Pardo Suizo,69,456.6,sano,2024-11-23,Marta
+BU-1442,Buenos Aires,Pardo Suizo,31,301.0,sano,2024-12-27,Ana
+SA-1443,San Miguel,Pardo Suizo,65,369.1,tratamiento,2024-09-30,Jorge
+EL-1444,El Progreso,Pardo Suizo,78,384.7,sano,2024-10-17,Jorge
+LA-1445,La Esperanza,Criollo,87,498.7,observacion,2024-09-27,Carlos
+SA-1446,San Miguel,Jersey,40,349.2,sano,2024-10-10,Paola
+LA-1447,La Pradera,Pardo Suizo,55,563.2,sano,2024-07-11,Ana
+EL-1448,El Roble,Holstein,97,647.9,sano,2024-08-09,Paola
+LA-1449,La Pradera,Holstein,39,471.7,sano,2024-12-28,Paola
+LA-1450,La Pradera,Gyr,60,456.7,observacion,2024-09-18,Jorge
+SA-1451,Santa Lucia,Normando,90,354.8,sano,2024-09-11,Luis
+EL-1452,El Roble,Holstein,33,401.0,sano,2024-10-04,Carlos
+LA-1453,La Pradera,Holstein,115,276.7,sano,2024-12-30,Marta
+EL-1454,El Roble,Gyr,24,558.9,observacion,2024-08-14,Ana
+EL-1455,El Roble,Criollo,94,374.9,sano,2024-12-02,Carlos
+EL-1456,El Roble,Criollo,13,487.3,sano,2024-09-26,Ana
+SA-1457,Santa Lucia,Normando,47,240.0,sano,2024-12-18,Luis
+SA-1458,San Miguel,Gyr,105,537.7,sano,2024-10-07,Ana
+LA-1459,La Esperanza,Gyr,34,429.0,tratamiento,2024-11-10,Jorge
+EL-1460,El Roble,Gyr,33,491.5,sano,2024-10-19,Jorge
+BU-1461,Buenos Aires,Jersey,70,459.1,sano,2024-09-18,Jorge
+LA-1462,La Esperanza,Pardo Suizo,83,280.2,tratamiento,2024-09-16,Carlos
+LO-1463,Los Guaduales,Gyr,69,499.8,observacion,2024-09-26,Jorge
+BU-1464,Buenos Aires,Jersey,106,463.6,sano,2024-10-20,Paola
+LO-1465,Los Guaduales,Jersey,13,508.8,tratamiento,2024-11-20,Luis
+LA-1466,La Esperanza,Normando,55,399.6,vacuna_pendiente,2024-11-03,Paola
+EL-1467,El Progreso,Holstein,101,443.7,sano,2024-10-12,Jorge
+EL-1468,El Progreso,Gyr,82,462.7,sano,2024-09-17,Luis
+LO-1469,Los Guaduales,Holstein,20,546.1,sano,2024-11-06,Jorge
+EL-1470,El Progreso,Holstein,39,392.6,sano,2024-10-30,Paola
+LO-1471,Los Guaduales,Jersey,54,492.2,vacuna_pendiente,2024-11-03,Jorge
+EL-1472,El Progreso,Pardo Suizo,51,366.8,sano,2024-10-30,Carlos
+SA-1473,Santa Lucia,Criollo,56,334.8,sano,2024-09-21,Paola
+SA-1474,Santa Lucia,Criollo,7,290.1,sano,2024-11-08,Carlos
+EL-1475,El Roble,Criollo,95,424.1,sano,2024-12-29,Carlos
+BU-1476,Buenos Aires,Gyr,10,340.6,sano,2024-08-31,Paola
+EL-1477,El Progreso,Pardo Suizo,26,483.4,sano,2024-09-23,Marta
+EL-1478,El Roble,Criollo,49,440.8,sano,2024-11-10,Jorge
+LA-1479,La Pradera,Pardo Suizo,67,355.8,vacuna_pendiente,2024-08-19,Ana
+EL-1480,El Roble,Criollo,91,303.0,tratamiento,2024-09-14,Marta
+LA-1481,La Pradera,Holstein,77,244.4,sano,2024-11-06,Luis
+BU-1482,Buenos Aires,Criollo,94,547.1,sano,2024-09-10,Luis
+BU-1483,Buenos Aires,Criollo,106,460.7,vacuna_pendiente,2024-11-06,Marta
+LA-1484,La Esperanza,Criollo,50,296.4,sano,2024-12-01,Carlos
+EL-1485,El Roble,Criollo,77,410.7,tratamiento,2024-08-24,Luis
+LO-1486,Los Guaduales,Pardo Suizo,64,420.3,sano,2024-08-13,Carlos
+LA-1487,La Esperanza,Normando,30,551.1,tratamiento,2024-08-07,Marta
+EL-1488,El Progreso,Holstein,26,342.3,tratamiento,2024-11-22,Paola
+EL-1489,El Roble,Jersey,86,427.3,sano,2024-09-27,Jorge
+LA-1490,La Esperanza,Criollo,9,360.3,sano,2024-10-15,Marta
+EL-1491,El Roble,Criollo,44,381.3,sano,2024-09-14,Carlos
+SA-1492,San Miguel,Gyr,73,411.0,sano,2024-08-07,Marta
+BU-1493,Buenos Aires,Normando,68,512.2,sano,2024-11-16,Luis
+SA-1494,Santa Lucia,Holstein,61,405.6,sano,2024-11-10,Ana
+LA-1495,La Esperanza,Criollo,93,419.8,sano,2024-08-13,Luis
+EL-1496,El Roble,Jersey,64,214.6,sano,2024-07-21,Luis
+LA-1497,La Esperanza,Pardo Suizo,68,416.4,observacion,2024-09-26,Jorge
+LO-1498,Los Guaduales,Jersey,114,381.1,tratamiento,2024-10-14,Paola
+EL-1499,El Progreso,Pardo Suizo,69,456.4,sano,2024-10-08,Marta
+EL-1500,El Roble,Pardo Suizo,42,425.7,sano,2024-08-04,Carlos
+SA-1501,Santa Lucia,Jersey,14,466.2,sano,2024-08-06,Carlos
+LA-1502,La Esperanza,Pardo Suizo,25,241.4,observacion,2024-11-15,Ana
+EL-1503,El Roble,Criollo,45,361.3,sano,2024-07-25,Luis
+LA-1504,La Esperanza,Pardo Suizo,13,513.6,sano,2024-08-17,Ana
+BU-1505,Buenos Aires,Normando,63,253.2,sano,2024-11-15,Luis
+SA-1506,Santa Lucia,Criollo,51,323.1,sano,2024-08-19,Luis
+SA-1507,Santa Lucia,Pardo Suizo,107,461.5,sano,2024-11-05,Jorge
+BU-1508,Buenos Aires,Holstein,31,299.1,sano,2024-12-01,Marta
+LA-1509,La Pradera,Normando,48,502.4,vacuna_pendiente,2024-08-01,Ana
+LA-1510,La Esperanza,Criollo,39,449.9,sano,2024-12-16,Marta
+LA-1511,La Pradera,Normando,34,421.6,sano,2024-07-23,Ana
+SA-1512,Santa Lucia,Gyr,91,514.3,sano,2024-11-25,Ana
+EL-1513,El Roble,Gyr,102,547.4,vacuna_pendiente,2024-11-13,Marta
+SA-1514,Santa Lucia,Holstein,47,503.3,observacion,2024-08-26,Carlos
+LO-1515,Los Guaduales,Gyr,64,434.7,observacion,2024-10-15,Marta
+LO-1516,Los Guaduales,Gyr,44,322.9,sano,2024-08-19,Jorge
+SA-1517,Santa Lucia,Pardo Suizo,78,438.1,sano,2024-07-31,Marta
+BU-1518,Buenos Aires,Holstein,112,307.5,sano,2024-07-21,Jorge
+SA-1519,San Miguel,Gyr,19,447.2,sano,2024-09-24,Carlos
+BU-1520,Buenos Aires,Normando,18,405.4,vacuna_pendiente,2024-08-08,Jorge
+LA-1521,La Pradera,Normando,39,408.8,sano,2024-08-15,Marta
+SA-1522,San Miguel,Normando,100,321.2,observacion,2024-09-13,Marta
+LO-1523,Los Guaduales,Gyr,57,290.4,sano,2024-07-06,Carlos
+SA-1524,San Miguel,Holstein,54,370.9,vacuna_pendiente,2024-11-14,Marta
+BU-1525,Buenos Aires,Pardo Suizo,47,277.4,observacion,2024-11-07,Paola
+LO-1526,Los Guaduales,Jersey,63,471.4,vacuna_pendiente,2024-08-16,Marta
+BU-1527,Buenos Aires,Criollo,71,314.4,sano,2024-10-24,Paola
+BU-1528,Buenos Aires,Gyr,14,354.6,vacuna_pendiente,2024-08-31,Paola
+LA-1529,La Esperanza,Normando,37,538.6,sano,2024-08-07,Luis
+LA-1530,La Esperanza,Holstein,33,440.9,sano,2024-12-13,Ana
+LA-1531,La Pradera,Pardo Suizo,55,437.8,tratamiento,2024-08-29,Luis
+LA-1532,La Pradera,Normando,43,377.7,sano,2024-11-17,Carlos
+LA-1533,La Esperanza,Gyr,27,361.0,sano,2024-07-28,Paola
+BU-1534,Buenos Aires,Criollo,116,430.5,sano,2024-09-27,Marta
+SA-1535,San Miguel,Normando,57,352.1,observacion,2024-08-29,Carlos
+EL-1536,El Roble,Holstein,20,373.5,observacion,2024-12-30,Ana
+LA-1537,La Esperanza,Gyr,94,328.2,observacion,2024-11-27,Marta
+EL-1538,El Roble,Holstein,54,419.7,sano,2024-11-03,Ana
+EL-1539,El Roble,Criollo,18,472.3,sano,2024-07-06,Paola
+EL-1540,El Roble,Criollo,40,438.7,tratamiento,2024-09-21,Paola
+SA-1541,San Miguel,Gyr,111,432.1,sano,2024-11-03,Ana
+EL-1542,El Progreso,Pardo Suizo,76,530.3,sano,2024-10-15,Carlos
+EL-1543,El Progreso,Pardo Suizo,16,462.3,sano,2024-12-07,Carlos
+SA-1544,Santa Lucia,Normando,40,522.4,sano,2024-10-14,Carlos
+SA-1545,Santa Lucia,Gyr,56,605.5,sano,2024-07-18,Carlos
+EL-1546,El Roble,Jersey,42,377.5,observacion,2024-07-08,Paola
+BU-1547,Buenos Aires,Pardo Suizo,30,496.1,tratamiento,2024-11-06,Ana
+LA-1548,La Pradera,Holstein,26,389.2,tratamiento,2024-07-26,Luis
+SA-1549,San Miguel,Gyr,99,447.5,tratamiento,2024-09-10,Jorge
+SA-1550,Santa Lucia,Criollo,46,386.4,observacion,2024-12-06,Carlos
+LA-1551,La Pradera,Gyr,99,220.2,sano,2024-07-30,Paola
+SA-1552,San Miguel,Criollo,115,565.2,sano,2024-12-22,Ana
+EL-1553,El Progreso,Normando,55,440.4,sano,2024-12-25,Luis
+LA-1554,La Pradera,Holstein,115,222.1,sano,2024-09-29,Jorge
+BU-1555,Buenos Aires,Criollo,67,400.4,tratamiento,2024-12-30,Ana
+LA-1556,La Esperanza,Gyr,19,526.5,sano,2024-08-11,Carlos
+BU-1557,Buenos Aires,Pardo Suizo,86,393.3,sano,2024-10-07,Ana
+EL-1558,El Roble,Criollo,21,339.8,sano,2024-09-24,Luis
+SA-1559,Santa Lucia,Holstein,66,371.8,sano,2024-10-13,Carlos
+SA-1560,San Miguel,Holstein,105,319.5,vacuna_pendiente,2024-12-03,Luis
+EL-1561,El Roble,Holstein,118,341.1,vacuna_pendiente,2024-10-28,Paola
+EL-1562,El Progreso,Normando,98,411.9,sano,2024-07-15,Ana
+EL-1563,El Roble,Gyr,96,342.4,sano,2024-12-24,Jorge
+SA-1564,Santa Lucia,Holstein,23,406.7,sano,2024-12-26,Jorge
+LA-1565,La Esperanza,Jersey,76,509.0,observacion,2024-11-11,Ana
+EL-1566,El Progreso,Pardo Suizo,47,371.0,sano,2024-09-24,Jorge
+SA-1567,Santa Lucia,Criollo,104,297.6,observacion,2024-12-13,Ana
+SA-1568,Santa Lucia,Jersey,48,421.7,sano,2024-07-29,Luis
+LA-1569,La Pradera,Pardo Suizo,115,469.4,sano,2024-07-13,Ana
+LO-1570,Los Guaduales,Holstein,111,502.7,sano,2024-07-24,Ana
+EL-1571,El Roble,Holstein,108,461.2,sano,2024-07-12,Ana
+LO-1572,Los Guaduales,Criollo,53,362.1,observacion,2024-08-29,Paola
+EL-1573,El Progreso,Pardo Suizo,56,422.4,sano,2024-09-06,Jorge
+LA-1574,La Pradera,Criollo,45,419.8,sano,2024-07-20,Jorge
+SA-1575,San Miguel,Pardo Suizo,118,518.3,sano,2024-11-01,Jorge
+BU-1576,Buenos Aires,Criollo,52,372.4,sano,2024-12-24,Marta
+BU-1577,Buenos Aires,Normando,99,358.5,observacion,2024-12-25,Paola
+SA-1578,San Miguel,Holstein,31,394.4,vacuna_pendiente,2024-10-15,Ana
+SA-1579,San Miguel,Holstein,39,515.1,sano,2024-07-23,Carlos
+SA-1580,San Miguel,Gyr,7,474.6,sano,2024-11-08,Carlos
+BU-1581,Buenos Aires,Pardo Suizo,90,385.0,sano,2024-12-29,Jorge
+SA-1582,San Miguel,Normando,20,396.9,sano,2024-09-11,Luis
+EL-1583,El Roble,Gyr,103,411.4,sano,2024-12-18,Paola
+EL-1584,El Progreso,Criollo,63,471.6,sano,2024-10-02,Marta
+LO-1585,Los Guaduales,Gyr,11,493.3,tratamiento,2024-11-04,Marta
+LA-1586,La Esperanza,Gyr,40,550.8,sano,2024-08-15,Marta
+LA-1587,La Esperanza,Pardo Suizo,7,311.5,sano,2024-12-30,Marta
+SA-1588,San Miguel,Gyr,112,610.8,sano,2024-12-01,Jorge
+BU-1589,Buenos Aires,Pardo Suizo,88,359.5,vacuna_pendiente,2024-11-11,Marta
+EL-1590,El Progreso,Criollo,16,292.9,observacion,2024-09-22,Luis
+LA-1591,La Pradera,Normando,47,499.7,sano,2024-12-20,Carlos
+SA-1592,San Miguel,Jersey,60,412.2,sano,2024-09-22,Jorge
+LO-1593,Los Guaduales,Jersey,82,510.0,sano,2024-07-26,Marta
+BU-1594,Buenos Aires,Criollo,60,444.7,sano,2024-11-30,Jorge
+EL-1595,El Roble,Gyr,65,485.6,sano,2024-12-15,Luis
+SA-1596,San Miguel,Normando,70,489.6,tratamiento,2024-07-08,Jorge
+EL-1597,El Roble,Pardo Suizo,59,520.3,sano,2024-08-29,Jorge
+BU-1598,Buenos Aires,Gyr,77,442.9,sano,2024-08-15,Ana
+EL-1599,El Roble,Normando,28,472.5,sano,2024-09-21,Luis
+BU-1600,Buenos Aires,Jersey,54,452.5,sano,2024-12-19,Marta
+SA-1601,Santa Lucia,Pardo Suizo,82,539.5,observacion,2024-07-20,Marta
+LA-1602,La Esperanza,Criollo,12,470.3,sano,2024-12-05,Carlos
+BU-1603,Buenos Aires,Holstein,34,434.3,sano,2024-12-27,Marta
+LA-1604,La Esperanza,Criollo,93,337.1,observacion,2024-08-02,Marta
+SA-1605,San Miguel,Pardo Suizo,11,304.5,sano,2024-08-31,Luis
+LA-1606,La Pradera,Normando,53,340.9,sano,2024-11-23,Marta
+LO-1607,Los Guaduales,Holstein,91,475.2,sano,2024-11-04,Ana
+LA-1608,La Esperanza,Gyr,120,464.1,sano,2024-12-03,Luis
+BU-1609,Buenos Aires,Jersey,11,496.8,sano,2024-10-20,Carlos
+EL-1610,El Roble,Criollo,118,543.6,sano,2024-10-04,Marta
+SA-1611,San Miguel,Criollo,114,416.1,observacion,2024-10-02,Marta
+SA-1612,Santa Lucia,Holstein,102,545.3,sano,2024-08-05,Carlos
+LA-1613,La Esperanza,Criollo,34,369.2,sano,2024-10-12,Jorge
+LO-1614,Los Guaduales,Gyr,98,431.3,tratamiento,2024-10-28,Luis
+BU-1615,Buenos Aires,Holstein,104,563.4,sano,2024-09-09,Paola
+LA-1616,La Esperanza,Holstein,79,417.9,sano,2024-12-30,Carlos
+BU-1617,Buenos Aires,Holstein,13,442.2,tratamiento,2024-08-08,Carlos
+EL-1618,El Roble,Pardo Suizo,80,444.7,vacuna_pendiente,2024-10-29,Luis
+LO-1619,Los Guaduales,Gyr,106,343.7,tratamiento,2024-10-17,Marta
+LO-1620,Los Guaduales,Pardo Suizo,111,582.5,sano,2024-10-15,Luis
+SA-1621,San Miguel,Criollo,48,488.2,sano,2024-10-15,Carlos
+LA-1622,La Pradera,Normando,29,265.8,vacuna_pendiente,2024-12-11,Luis
+SA-1623,Santa Lucia,Gyr,83,430.9,sano,2024-07-22,Ana
+LA-1624,La Pradera,Normando,38,553.5,sano,2024-11-10,Marta
+BU-1625,Buenos Aires,Gyr,13,419.5,sano,2024-11-09,Luis
+SA-1626,Santa Lucia,Jersey,110,235.8,sano,2024-12-04,Carlos
+BU-1627,Buenos Aires,Gyr,53,372.1,sano,2024-11-13,Carlos
+EL-1628,El Progreso,Holstein,99,454.0,sano,2024-12-08,Ana
+SA-1629,Santa Lucia,Pardo Suizo,95,356.6,sano,2024-09-27,Luis
+SA-1630,Santa Lucia,Criollo,80,250.5,sano,2024-11-06,Luis
+SA-1631,San Miguel,Criollo,62,322.6,sano,2024-08-19,Ana
+EL-1632,El Roble,Criollo,98,453.0,sano,2024-11-21,Marta
+BU-1633,Buenos Aires,Gyr,39,284.4,sano,2024-07-31,Paola
+LA-1634,La Esperanza,Normando,108,387.3,sano,2024-12-22,Luis
+LA-1635,La Esperanza,Gyr,104,481.0,sano,2024-09-27,Marta
+SA-1636,Santa Lucia,Pardo Suizo,28,467.2,tratamiento,2024-08-27,Paola
+LA-1637,La Esperanza,Gyr,34,397.4,sano,2024-12-28,Carlos
+SA-1638,Santa Lucia,Gyr,67,455.3,tratamiento,2024-10-12,Paola
+LA-1639,La Pradera,Holstein,46,371.4,sano,2024-11-26,Marta
+LA-1640,La Esperanza,Holstein,76,514.0,vacuna_pendiente,2024-07-18,Paola
+LA-1641,La Esperanza,Criollo,74,573.8,vacuna_pendiente,2024-12-14,Jorge
+LA-1642,La Esperanza,Jersey,55,328.8,sano,2024-07-24,Carlos
+SA-1643,San Miguel,Pardo Suizo,16,422.5,sano,2024-09-30,Jorge
+LA-1644,La Pradera,Normando,98,390.6,sano,2024-12-13,Ana
+EL-1645,El Roble,Pardo Suizo,27,425.9,sano,2024-08-07,Ana
+SA-1646,San Miguel,Holstein,60,210.4,vacuna_pendiente,2024-11-29,Jorge
+BU-1647,Buenos Aires,Pardo Suizo,34,377.9,sano,2024-08-28,Paola
+SA-1648,San Miguel,Normando,93,434.5,sano,2024-10-03,Luis
+EL-1649,El Roble,Normando,49,483.8,sano,2024-11-01,Paola
+LA-1650,La Pradera,Normando,106,359.7,sano,2024-09-19,Jorge
+EL-1651,El Progreso,Gyr,76,250.6,observacion,2024-11-05,Ana
+LA-1652,La Esperanza,Holstein,62,442.6,sano,2024-08-29,Luis
+SA-1653,Santa Lucia,Holstein,16,531.6,observacion,2024-08-03,Ana
+LA-1654,La Esperanza,Normando,82,413.9,sano,2024-09-08,Ana
+EL-1655,El Roble,Criollo,114,467.9,observacion,2024-08-16,Ana
+SA-1656,Santa Lucia,Holstein,114,527.3,sano,2024-12-04,Carlos
+BU-1657,Buenos Aires,Normando,73,256.9,sano,2024-11-07,Luis
+LA-1658,La Esperanza,Gyr,74,342.9,observacion,2024-09-10,Paola
+SA-1659,San Miguel,Gyr,60,457.1,sano,2024-09-14,Paola
+LO-1660,Los Guaduales,Criollo,8,564.9,sano,2024-08-25,Ana
+LA-1661,La Esperanza,Gyr,64,480.9,observacion,2024-12-27,Ana
+LA-1662,La Esperanza,Holstein,26,580.2,observacion,2024-08-09,Paola
+EL-1663,El Progreso,Criollo,104,443.5,tratamiento,2024-09-20,Jorge
+SA-1664,San Miguel,Normando,97,595.0,sano,2024-10-18,Ana
+SA-1665,Santa Lucia,Pardo Suizo,65,438.5,sano,2024-09-12,Carlos
+EL-1666,El Progreso,Pardo Suizo,18,499.5,vacuna_pendiente,2024-09-06,Jorge
+SA-1667,Santa Lucia,Jersey,30,416.2,sano,2024-09-08,Carlos
+EL-1668,El Roble,Criollo,7,295.1,vacuna_pendiente,2024-09-25,Paola
+EL-1669,El Roble,Gyr,102,458.9,sano,2024-10-10,Luis
+LO-1670,Los Guaduales,Jersey,20,205.3,observacion,2024-09-09,Carlos
+EL-1671,El Roble,Holstein,22,360.5,sano,2024-11-22,Luis
+SA-1672,Santa Lucia,Criollo,77,496.5,observacion,2024-08-31,Paola
+BU-1673,Buenos Aires,Pardo Suizo,83,378.9,sano,2024-10-19,Carlos
+EL-1674,El Progreso,Jersey,54,365.8,sano,2024-07-25,Jorge
+EL-1675,El Progreso,Pardo Suizo,120,596.2,observacion,2024-10-05,Paola
+LA-1676,La Esperanza,Pardo Suizo,30,533.0,sano,2024-09-12,Ana
+BU-1677,Buenos Aires,Holstein,33,473.3,observacion,2024-08-19,Carlos
+SA-1678,San Miguel,Criollo,92,311.2,sano,2024-08-05,Ana
+SA-1679,Santa Lucia,Jersey,79,298.5,sano,2024-10-09,Marta
+LA-1680,La Esperanza,Normando,38,456.4,vacuna_pendiente,2024-08-11,Jorge
+LO-1681,Los Guaduales,Holstein,107,581.6,sano,2024-12-04,Marta
+BU-1682,Buenos Aires,Pardo Suizo,39,428.4,sano,2024-12-06,Luis
+LA-1683,La Esperanza,Gyr,25,306.9,observacion,2024-09-29,Carlos
+SA-1684,San Miguel,Pardo Suizo,54,427.1,sano,2024-09-13,Luis
+SA-1685,Santa Lucia,Criollo,53,489.5,tratamiento,2024-09-24,Paola
+SA-1686,San Miguel,Gyr,21,408.0,sano,2024-12-14,Jorge
+SA-1687,San Miguel,Holstein,35,442.5,sano,2024-08-25,Jorge
+LA-1688,La Esperanza,Gyr,71,357.8,sano,2024-07-27,Carlos
+LO-1689,Los Guaduales,Normando,27,468.4,observacion,2024-10-07,Jorge
+SA-1690,Santa Lucia,Gyr,79,438.9,vacuna_pendiente,2024-09-09,Paola
+LA-1691,La Pradera,Criollo,77,231.3,observacion,2024-09-20,Paola
+EL-1692,El Roble,Pardo Suizo,29,262.3,observacion,2024-12-27,Marta
+EL-1693,El Roble,Criollo,63,230.1,vacuna_pendiente,2024-12-17,Paola
+BU-1694,Buenos Aires,Pardo Suizo,32,387.0,sano,2024-10-13,Jorge
+SA-1695,San Miguel,Normando,87,439.9,sano,2024-09-05,Luis
+EL-1696,El Progreso,Criollo,24,396.4,sano,2024-11-10,Luis
+EL-1697,El Progreso,Pardo Suizo,108,495.0,observacion,2024-09-22,Ana
+EL-1698,El Roble,Pardo Suizo,85,497.8,sano,2024-08-20,Carlos
+SA-1699,Santa Lucia,Gyr,67,287.3,observacion,2024-09-10,Carlos
+LA-1700,La Pradera,Jersey,69,508.4,sano,2024-10-16,Paola
+SA-1701,San Miguel,Normando,110,511.3,sano,2024-10-29,Ana
+SA-1702,San Miguel,Normando,117,319.2,sano,2024-11-04,Carlos
+LA-1703,La Pradera,Pardo Suizo,45,404.9,sano,2024-08-19,Carlos
+EL-1704,El Progreso,Normando,88,584.5,sano,2024-07-17,Luis
+SA-1705,San Miguel,Gyr,101,316.7,sano,2024-12-20,Ana
+SA-1706,Santa Lucia,Gyr,102,302.4,sano,2024-12-17,Jorge
+BU-1707,Buenos Aires,Jersey,84,495.1,observacion,2024-08-17,Marta
+LA-1708,La Pradera,Gyr,91,230.1,sano,2024-10-15,Jorge
+SA-1709,San Miguel,Pardo Suizo,52,507.4,sano,2024-12-09,Ana
+SA-1710,San Miguel,Holstein,51,396.3,sano,2024-12-03,Ana
+LA-1711,La Pradera,Criollo,72,538.6,vacuna_pendiente,2024-10-29,Carlos
+BU-1712,Buenos Aires,Normando,115,420.8,sano,2024-10-23,Paola
+EL-1713,El Progreso,Gyr,102,388.9,observacion,2024-09-08,Carlos
+EL-1714,El Roble,Jersey,60,493.7,sano,2024-09-26,Carlos
+EL-1715,El Progreso,Jersey,84,329.8,sano,2024-10-16,Marta
+BU-1716,Buenos Aires,Holstein,74,385.1,observacion,2024-11-28,Jorge
+EL-1717,El Roble,Criollo,63,360.4,sano,2024-07-08,Marta
+LA-1718,La Pradera,Normando,78,510.5,sano,2024-07-05,Marta
+LA-1719,La Pradera,Pardo Suizo,32,416.6,sano,2024-10-17,Carlos
+SA-1720,Santa Lucia,Holstein,90,446.2,tratamiento,2024-08-22,Carlos
+EL-1721,El Progreso,Jersey,33,461.1,sano,2024-08-11,Paola
+EL-1722,El Roble,Criollo,92,448.1,sano,2024-07-30,Ana
+SA-1723,San Miguel,Pardo Suizo,112,381.4,sano,2024-09-20,Jorge
+LO-1724,Los Guaduales,Pardo Suizo,41,359.4,sano,2024-10-14,Luis
+SA-1725,San Miguel,Normando,44,436.0,sano,2024-11-06,Jorge
+SA-1726,Santa Lucia,Normando,19,521.6,sano,2024-11-27,Carlos
+SA-1727,San Miguel,Pardo Suizo,83,457.9,sano,2024-10-01,Jorge
+SA-1728,Santa Lucia,Normando,9,486.4,sano,2024-09-07,Ana
+LA-1729,La Pradera,Pardo Suizo,116,464.0,sano,2024-11-14,Luis
+LA-1730,La Pradera,Criollo,76,445.6,observacion,2024-12-18,Ana
+SA-1731,Santa Lucia,Gyr,53,424.9,tratamiento,2024-07-16,Jorge
+LA-1732,La Esperanza,Pardo Suizo,7,552.5,sano,2024-12-16,Carlos
+EL-1733,El Progreso,Gyr,80,349.5,sano,2024-09-08,Paola
+BU-1734,Buenos Aires,Criollo,35,333.1,observacion,2024-08-01,Marta
+EL-1735,El Roble,Holstein,20,457.9,sano,2024-08-07,Ana
+LO-1736,Los Guaduales,Gyr,34,524.0,sano,2024-11-26,Marta
+SA-1737,San Miguel,Holstein,67,528.5,observacion,2024-07-07,Carlos
+EL-1738,El Roble,Criollo,89,448.6,sano,2024-11-20,Jorge
+LA-1739,La Esperanza,Normando,23,485.3,sano,2024-07-05,Luis
+LO-1740,Los Guaduales,Holstein,19,492.6,sano,2024-11-18,Jorge
+BU-1741,Buenos Aires,Normando,48,483.7,sano,2024-11-19,Ana
+LO-1742,Los Guaduales,Gyr,54,450.8,vacuna_pendiente,2024-08-18,Marta
+EL-1743,El Roble,Holstein,25,343.6,sano,2024-10-20,Carlos
+EL-1744,El Progreso,Normando,115,418.9,observacion,2024-08-05,Marta
+SA-1745,San Miguel,Jersey,105,525.0,sano,2024-12-24,Carlos
+BU-1746,Buenos Aires,Gyr,50,441.3,observacion,2024-12-14,Luis
+BU-1747,Buenos Aires,Jersey,17,528.2,observacion,2024-11-29,Ana
+EL-1748,El Roble,Gyr,75,399.9,sano,2024-09-18,Marta
+EL-1749,El Roble,Normando,57,558.0,sano,2024-09-19,Paola
+EL-1750,El Roble,Jersey,69,408.5,tratamiento,2024-10-16,Ana
+EL-1751,El Progreso,Gyr,50,315.7,observacion,2024-11-01,Carlos
+SA-1752,San Miguel,Gyr,74,350.8,sano,2024-11-06,Jorge
+SA-1753,San Miguel,Gyr,71,433.3,vacuna_pendiente,2024-12-04,Paola
+LA-1754,La Esperanza,Gyr,78,488.7,sano,2024-10-23,Carlos
+SA-1755,San Miguel,Normando,49,364.6,sano,2024-12-16,Luis
+SA-1756,San Miguel,Pardo Suizo,86,437.9,observacion,2024-07-18,Ana
+LA-1757,La Pradera,Jersey,84,307.3,sano,2024-07-14,Paola
+EL-1758,El Progreso,Normando,39,476.0,observacion,2024-07-25,Jorge
+SA-1759,Santa Lucia,Jersey,89,486.4,sano,2024-10-07,Jorge
+EL-1760,El Roble,Pardo Suizo,16,189.5,sano,2024-12-04,Jorge
+SA-1761,Santa Lucia,Criollo,32,414.3,sano,2024-07-20,Marta
+EL-1762,El Roble,Criollo,86,472.1,tratamiento,2024-12-19,Paola
+LO-1763,Los Guaduales,Pardo Suizo,70,339.8,observacion,2024-11-19,Carlos
+SA-1764,Santa Lucia,Normando,14,419.8,sano,2024-09-24,Carlos
+LA-1765,La Esperanza,Jersey,66,500.9,sano,2024-09-10,Jorge
+LA-1766,La Esperanza,Gyr,116,391.9,sano,2024-09-05,Paola
+EL-1767,El Progreso,Normando,42,467.5,tratamiento,2024-12-01,Paola
+SA-1768,San Miguel,Gyr,17,386.4,sano,2024-11-10,Marta
+SA-1769,Santa Lucia,Normando,35,444.6,tratamiento,2024-09-13,Paola
+EL-1770,El Roble,Pardo Suizo,32,386.9,sano,2024-11-08,Marta
+LA-1771,La Pradera,Holstein,96,395.0,sano,2024-12-04,Jorge
+EL-1772,El Progreso,Holstein,38,332.1,sano,2024-08-05,Jorge
+SA-1773,San Miguel,Criollo,106,391.0,sano,2024-09-04,Carlos
+SA-1774,Santa Lucia,Normando,46,654.0,sano,2024-08-24,Carlos
+LO-1775,Los Guaduales,Criollo,12,518.6,sano,2024-12-17,Jorge
+EL-1776,El Progreso,Holstein,13,436.4,sano,2024-08-28,Marta
+LA-1777,La Pradera,Criollo,112,309.6,observacion,2024-12-04,Ana
+BU-1778,Buenos Aires,Criollo,103,430.5,vacuna_pendiente,2024-11-12,Marta
+LO-1779,Los Guaduales,Pardo Suizo,63,492.5,sano,2024-09-20,Marta
+BU-1780,Buenos Aires,Jersey,106,453.4,sano,2024-08-22,Marta
+SA-1781,San Miguel,Criollo,114,512.6,observacion,2024-09-04,Ana
+BU-1782,Buenos Aires,Holstein,101,395.5,sano,2024-11-23,Luis
+EL-1783,El Progreso,Gyr,65,296.0,sano,2024-08-09,Marta
+LA-1784,La Esperanza,Normando,66,382.6,sano,2024-08-29,Marta
+BU-1785,Buenos Aires,Holstein,89,316.9,sano,2024-12-07,Jorge
+EL-1786,El Roble,Gyr,43,556.9,observacion,2024-08-07,Ana
+EL-1787,El Progreso,Normando,18,287.7,sano,2024-07-18,Ana
+EL-1788,El Progreso,Gyr,94,477.2,sano,2024-09-04,Luis
+SA-1789,San Miguel,Pardo Suizo,99,449.8,sano,2024-11-25,Carlos
+BU-1790,Buenos Aires,Normando,31,441.1,sano,2024-07-19,Marta
+LA-1791,La Pradera,Pardo Suizo,78,422.3,vacuna_pendiente,2024-11-19,Luis
+SA-1792,Santa Lucia,Pardo Suizo,106,417.2,observacion,2024-10-24,Luis
+EL-1793,El Roble,Jersey,84,482.1,sano,2024-11-11,Ana
+SA-1794,San Miguel,Pardo Suizo,50,472.6,sano,2024-11-08,Jorge
+EL-1795,El Roble,Gyr,120,336.2,sano,2024-08-28,Paola
+SA-1796,Santa Lucia,Pardo Suizo,89,520.8,sano,2024-11-11,Luis
+SA-1797,Santa Lucia,Normando,10,388.4,vacuna_pendiente,2024-10-06,Carlos
+EL-1798,El Progreso,Holstein,80,339.7,sano,2024-11-03,Jorge
+EL-1799,El Roble,Normando,33,433.1,sano,2024-12-08,Ana
+SA-1800,San Miguel,Gyr,9,380.4,sano,2024-08-27,Paola
+SA-1801,Santa Lucia,Normando,12,489.0,sano,2024-11-14,Ana
+BU-1802,Buenos Aires,Jersey,35,402.4,sano,2024-07-20,Jorge
+LO-1803,Los Guaduales,Normando,98,274.0,tratamiento,2024-11-12,Carlos
+SA-1804,San Miguel,Jersey,50,395.4,sano,2024-11-24,Carlos
+LA-1805,La Esperanza,Normando,10,546.6,sano,2024-11-17,Marta
+LO-1806,Los Guaduales,Criollo,116,415.2,sano,2024-12-08,Luis
+EL-1807,El Progreso,Gyr,103,477.7,sano,2024-07-08,Jorge
+LA-1808,La Esperanza,Normando,54,453.4,sano,2024-10-19,Ana
+SA-1809,San Miguel,Pardo Suizo,18,408.8,observacion,2024-12-25,Paola
+EL-1810,El Progreso,Pardo Suizo,46,238.1,sano,2024-10-04,Carlos
+EL-1811,El Roble,Gyr,83,290.6,sano,2024-10-15,Marta
+EL-1812,El Roble,Gyr,92,413.7,sano,2024-11-09,Luis
+EL-1813,El Roble,Normando,29,452.5,sano,2024-09-19,Ana
+EL-1814,El Progreso,Normando,79,456.4,sano,2024-08-24,Ana
+EL-1815,El Progreso,Criollo,14,396.9,observacion,2024-08-04,Jorge
+EL-1816,El Roble,Pardo Suizo,108,401.5,tratamiento,2024-10-18,Jorge
+SA-1817,San Miguel,Gyr,32,369.6,sano,2024-08-16,Paola
+SA-1818,Santa Lucia,Criollo,71,457.6,sano,2024-10-16,Ana
+EL-1819,El Progreso,Pardo Suizo,103,418.6,sano,2024-08-09,Ana
+SA-1820,San Miguel,Pardo Suizo,36,310.0,sano,2024-10-08,Carlos
+EL-1821,El Progreso,Holstein,109,350.3,sano,2024-10-19,Marta
+LA-1822,La Pradera,Criollo,98,360.0,observacion,2024-10-25,Carlos
+LA-1823,La Pradera,Holstein,87,448.6,sano,2024-07-20,Luis
+LA-1824,La Pradera,Jersey,102,530.8,sano,2024-08-21,Marta
+LA-1825,La Pradera,Holstein,61,384.0,sano,2024-10-24,Carlos
+LO-1826,Los Guaduales,Pardo Suizo,103,511.6,sano,2024-11-06,Jorge
+SA-1827,Santa Lucia,Pardo Suizo,47,521.9,sano,2024-09-18,Jorge
+EL-1828,El Roble,Gyr,83,585.1,observacion,2024-10-10,Marta
+LO-1829,Los Guaduales,Gyr,39,390.0,sano,2024-08-06,Jorge
+BU-1830,Buenos Aires,Criollo,62,415.4,sano,2024-10-23,Paola
+LA-1831,La Esperanza,Criollo,92,431.6,sano,2024-11-09,Marta
+EL-1832,El Progreso,Normando,56,304.1,vacuna_pendiente,2024-08-10,Carlos
+LA-1833,La Pradera,Normando,23,441.1,sano,2024-12-16,Ana
+LA-1834,La Pradera,Jersey,105,300.6,sano,2024-12-07,Jorge
+LO-1835,Los Guaduales,Jersey,32,307.2,sano,2024-09-25,Carlos
+EL-1836,El Roble,Jersey,104,420.3,sano,2024-12-15,Ana
+LA-1837,La Esperanza,Normando,26,356.4,tratamiento,2024-07-05,Carlos
+LA-1838,La Esperanza,Gyr,50,441.9,sano,2024-12-27,Carlos
+SA-1839,San Miguel,Pardo Suizo,72,408.0,tratamiento,2024-12-09,Marta
+BU-1840,Buenos Aires,Holstein,29,344.7,observacion,2024-08-12,Jorge
+BU-1841,Buenos Aires,Pardo Suizo,97,430.9,vacuna_pendiente,2024-11-30,Jorge
+LA-1842,La Esperanza,Holstein,105,417.0,sano,2024-07-16,Ana
+BU-1843,Buenos Aires,Pardo Suizo,8,408.7,sano,2024-08-14,Jorge
+SA-1844,Santa Lucia,Criollo,44,367.6,sano,2024-07-31,Marta
+LA-1845,La Esperanza,Holstein,85,605.9,sano,2024-09-23,Marta
+LA-1846,La Pradera,Gyr,28,424.2,sano,2024-09-01,Jorge
+LA-1847,La Esperanza,Criollo,83,399.7,sano,2024-11-04,Paola
+LA-1848,La Pradera,Normando,35,447.9,sano,2024-12-15,Paola
+LA-1849,La Esperanza,Normando,62,305.3,vacuna_pendiente,2024-10-11,Jorge
+SA-1850,Santa Lucia,Holstein,7,480.4,sano,2024-11-26,Carlos
+LO-1851,Los Guaduales,Pardo Suizo,41,512.8,vacuna_pendiente,2024-11-28,Carlos
+SA-1852,San Miguel,Pardo Suizo,82,596.2,sano,2024-08-17,Luis
+LA-1853,La Esperanza,Criollo,49,341.4,vacuna_pendiente,2024-09-11,Ana
+BU-1854,Buenos Aires,Holstein,55,380.7,vacuna_pendiente,2024-07-07,Paola
+SA-1855,Santa Lucia,Jersey,76,532.6,sano,2024-10-10,Paola
+BU-1856,Buenos Aires,Jersey,71,407.3,sano,2024-11-02,Luis
+SA-1857,Santa Lucia,Jersey,26,427.3,sano,2024-08-29,Carlos
+EL-1858,El Roble,Criollo,33,492.9,sano,2024-11-13,Marta
+SA-1859,San Miguel,Jersey,71,372.8,observacion,2024-10-31,Luis
+SA-1860,San Miguel,Pardo Suizo,101,477.1,sano,2024-10-26,Carlos
+EL-1861,El Progreso,Pardo Suizo,77,391.8,observacion,2024-12-28,Jorge
+LO-1862,Los Guaduales,Holstein,35,363.6,sano,2024-07-18,Luis
+EL-1863,El Progreso,Gyr,34,406.7,sano,2024-11-16,Luis
+BU-1864,Buenos Aires,Gyr,48,512.5,sano,2024-08-24,Marta
+BU-1865,Buenos Aires,Jersey,49,490.3,sano,2024-07-26,Paola
+LA-1866,La Esperanza,Normando,113,429.4,vacuna_pendiente,2024-08-03,Luis
+EL-1867,El Progreso,Holstein,103,404.6,sano,2024-12-22,Jorge
+SA-1868,Santa Lucia,Holstein,32,285.0,sano,2024-10-27,Paola
+SA-1869,Santa Lucia,Gyr,86,407.6,vacuna_pendiente,2024-07-26,Marta
+EL-1870,El Roble,Gyr,43,402.8,sano,2024-10-14,Ana
+LO-1871,Los Guaduales,Normando,88,599.6,sano,2024-08-06,Jorge
+LA-1872,La Esperanza,Gyr,21,467.0,sano,2024-11-07,Ana
+BU-1873,Buenos Aires,Pardo Suizo,47,470.7,sano,2024-08-10,Ana
+EL-1874,El Progreso,Gyr,102,567.4,sano,2024-08-09,Luis
+BU-1875,Buenos Aires,Normando,41,313.3,sano,2024-12-22,Marta
+LA-1876,La Esperanza,Normando,119,281.4,sano,2024-07-09,Jorge
+LO-1877,Los Guaduales,Gyr,50,461.8,sano,2024-09-17,Carlos
+LA-1878,La Pradera,Criollo,101,458.8,sano,2024-09-20,Carlos
+SA-1879,Santa Lucia,Pardo Suizo,58,469.2,observacion,2024-12-02,Ana
+SA-1880,San Miguel,Normando,86,298.2,sano,2024-12-25,Ana
+LA-1881,La Pradera,Pardo Suizo,30,397.1,sano,2024-10-08,Carlos
+LA-1882,La Pradera,Criollo,44,530.6,sano,2024-09-08,Luis
+LA-1883,La Pradera,Holstein,114,401.4,sano,2024-10-04,Paola
+EL-1884,El Roble,Jersey,90,311.4,sano,2024-09-14,Paola
+LO-1885,Los Guaduales,Normando,34,391.6,sano,2024-08-12,Ana
+BU-1886,Buenos Aires,Normando,12,375.6,sano,2024-08-19,Ana
+SA-1887,Santa Lucia,Criollo,26,336.8,sano,2024-08-01,Paola
+BU-1888,Buenos Aires,Jersey,40,335.8,tratamiento,2024-08-08,Marta
+EL-1889,El Progreso,Normando,66,300.7,vacuna_pendiente,2024-12-30,Marta
+SA-1890,Santa Lucia,Holstein,19,470.4,tratamiento,2024-11-13,Carlos
+EL-1891,El Progreso,Pardo Suizo,62,410.1,sano,2024-09-09,Jorge
+BU-1892,Buenos Aires,Pardo Suizo,11,446.3,sano,2024-09-30,Carlos
+SA-1893,San Miguel,Criollo,28,535.1,sano,2024-11-21,Jorge
+LA-1894,La Pradera,Pardo Suizo,41,393.4,tratamiento,2024-12-14,Luis
+SA-1895,San Miguel,Criollo,40,402.1,vacuna_pendiente,2024-11-13,Marta
+EL-1896,El Roble,Criollo,49,487.0,sano,2024-07-25,Carlos
+LO-1897,Los Guaduales,Normando,92,595.7,observacion,2024-09-11,Marta
+SA-1898,San Miguel,Normando,67,328.8,sano,2024-11-15,Ana
+EL-1899,El Roble,Criollo,75,592.5,sano,2024-12-11,Jorge
+SA-1900,Santa Lucia,Gyr,48,424.1,observacion,2024-11-19,Jorge
+SA-1901,Santa Lucia,Gyr,118,502.7,sano,2024-08-26,Ana
+LO-1902,Los Guaduales,Normando,26,459.3,sano,2024-12-03,Luis
+SA-1903,Santa Lucia,Jersey,63,485.7,vacuna_pendiente,2024-10-11,Marta
+LO-1904,Los Guaduales,Holstein,97,338.5,tratamiento,2024-10-03,Jorge
+LA-1905,La Pradera,Criollo,88,487.4,sano,2024-11-13,Carlos
+BU-1906,Buenos Aires,Normando,79,542.5,sano,2024-08-19,Jorge
+LA-1907,La Pradera,Jersey,7,375.6,sano,2024-08-26,Carlos
+LA-1908,La Esperanza,Gyr,37,536.3,sano,2024-09-29,Luis
+LO-1909,Los Guaduales,Holstein,108,435.9,sano,2024-08-16,Luis
+SA-1910,San Miguel,Jersey,26,328.0,sano,2024-12-20,Luis
+SA-1911,Santa Lucia,Gyr,66,359.7,sano,2024-07-05,Ana
+LA-1912,La Pradera,Holstein,12,392.7,vacuna_pendiente,2024-10-05,Ana
+SA-1913,Santa Lucia,Holstein,113,557.9,tratamiento,2024-08-11,Luis
+LO-1914,Los Guaduales,Normando,49,508.0,sano,2024-11-25,Marta
+BU-1915,Buenos Aires,Normando,110,428.4,sano,2024-08-20,Carlos
+SA-1916,San Miguel,Criollo,117,292.2,observacion,2024-08-01,Jorge
+SA-1917,Santa Lucia,Criollo,73,449.3,sano,2024-10-07,Paola
+EL-1918,El Progreso,Gyr,30,499.4,sano,2024-09-26,Jorge
+SA-1919,Santa Lucia,Normando,113,549.6,sano,2024-08-31,Luis
+SA-1920,Santa Lucia,Criollo,66,379.5,sano,2024-09-08,Jorge
+BU-1921,Buenos Aires,Gyr,27,483.3,sano,2024-11-25,Luis
+EL-1922,El Roble,Normando,75,253.5,sano,2024-11-20,Luis
+LA-1923,La Esperanza,Normando,54,429.1,observacion,2024-12-30,Paola
+EL-1924,El Progreso,Jersey,77,499.3,observacion,2024-07-18,Jorge
+LA-1925,La Pradera,Gyr,46,425.1,vacuna_pendiente,2024-11-24,Marta
+EL-1926,El Roble,Gyr,41,435.4,sano,2024-12-20,Marta
+EL-1927,El Progreso,Gyr,82,523.2,sano,2024-11-08,Marta
+SA-1928,San Miguel,Gyr,66,391.2,sano,2024-10-15,Paola
+SA-1929,Santa Lucia,Holstein,102,497.1,tratamiento,2024-12-12,Paola
+EL-1930,El Progreso,Criollo,117,510.2,sano,2024-07-23,Jorge
+SA-1931,Santa Lucia,Criollo,32,454.2,sano,2024-10-14,Carlos
+SA-1932,Santa Lucia,Holstein,14,501.5,sano,2024-08-03,Paola
+BU-1933,Buenos Aires,Criollo,105,498.1,sano,2024-12-19,Carlos
+LA-1934,La Pradera,Pardo Suizo,18,356.3,sano,2024-09-11,Jorge
+EL-1935,El Progreso,Jersey,65,357.6,vacuna_pendiente,2024-09-15,Carlos
+BU-1936,Buenos Aires,Normando,33,567.8,observacion,2024-11-14,Luis
+LA-1937,La Pradera,Normando,65,451.3,sano,2024-09-16,Marta
+LA-1938,La Pradera,Jersey,104,489.4,sano,2024-10-11,Luis
+EL-1939,El Roble,Holstein,69,538.8,vacuna_pendiente,2024-07-06,Paola
+BU-1940,Buenos Aires,Normando,87,404.3,tratamiento,2024-08-26,Carlos
+BU-1941,Buenos Aires,Criollo,72,387.1,sano,2024-09-08,Jorge
+SA-1942,San Miguel,Pardo Suizo,21,470.4,sano,2024-07-29,Jorge
+BU-1943,Buenos Aires,Jersey,110,392.7,tratamiento,2024-07-13,Ana
+EL-1944,El Progreso,Normando,53,436.9,sano,2024-08-22,Marta
+BU-1945,Buenos Aires,Normando,65,516.2,sano,2024-12-20,Luis
+BU-1946,Buenos Aires,Holstein,7,368.5,observacion,2024-09-09,Carlos
+BU-1947,Buenos Aires,Jersey,17,457.1,sano,2024-10-21,Ana
+SA-1948,San Miguel,Holstein,27,422.4,sano,2024-08-06,Marta
+EL-1949,El Roble,Gyr,95,580.5,tratamiento,2024-11-22,Ana
+BU-1950,Buenos Aires,Holstein,60,462.7,observacion,2024-07-10,Carlos
+EL-1951,El Roble,Normando,43,262.8,observacion,2024-07-29,Carlos
+EL-1952,El Progreso,Holstein,73,450.0,sano,2024-10-26,Luis
+LO-1953,Los Guaduales,Criollo,105,473.6,sano,2024-08-24,Carlos
+LA-1954,La Esperanza,Criollo,19,339.9,sano,2024-12-07,Luis
+SA-1955,Santa Lucia,Jersey,11,403.8,observacion,2024-07-12,Marta
+SA-1956,Santa Lucia,Jersey,115,315.0,sano,2024-07-15,Marta
+LO-1957,Los Guaduales,Gyr,32,500.9,sano,2024-10-26,Carlos
+SA-1958,San Miguel,Holstein,18,366.2,sano,2024-12-22,Marta
+SA-1959,San Miguel,Holstein,21,354.3,sano,2024-12-17,Paola
+LA-1960,La Esperanza,Jersey,46,329.4,sano,2024-08-20,Marta
+EL-1961,El Roble,Jersey,88,334.0,vacuna_pendiente,2024-08-13,Jorge
+LA-1962,La Pradera,Jersey,83,376.2,sano,2024-12-02,Jorge
+EL-1963,El Roble,Normando,13,430.7,sano,2024-08-30,Marta
+SA-1964,San Miguel,Criollo,29,421.9,tratamiento,2024-07-16,Carlos
+SA-1965,Santa Lucia,Pardo Suizo,15,381.0,observacion,2024-12-11,Luis
+LA-1966,La Pradera,Gyr,85,275.8,sano,2024-07-23,Carlos
+BU-1967,Buenos Aires,Normando,91,300.5,vacuna_pendiente,2024-09-15,Luis
+LA-1968,La Esperanza,Normando,64,425.2,observacion,2024-07-23,Luis
+LA-1969,La Pradera,Gyr,67,338.5,sano,2024-09-10,Paola
+SA-1970,Santa Lucia,Normando,39,496.2,sano,2024-07-26,Ana
+EL-1971,El Progreso,Jersey,7,184.9,tratamiento,2024-07-30,Paola
+LO-1972,Los Guaduales,Holstein,70,457.4,sano,2024-08-22,Jorge
+LO-1973,Los Guaduales,Criollo,72,446.0,sano,2024-10-21,Carlos
+SA-1974,San Miguel,Jersey,105,481.9,sano,2024-12-05,Luis
+SA-1975,Santa Lucia,Normando,112,369.5,sano,2024-12-28,Marta
+EL-1976,El Progreso,Jersey,120,470.7,sano,2024-10-04,Ana
+SA-1977,Santa Lucia,Jersey,45,496.8,sano,2024-11-05,Ana
+EL-1978,El Roble,Normando,74,448.8,observacion,2024-11-08,Carlos
+LA-1979,La Esperanza,Criollo,68,495.0,sano,2024-08-13,Marta
+LA-1980,La Esperanza,Pardo Suizo,38,452.6,sano,2024-09-11,Ana
+EL-1981,El Roble,Criollo,94,464.5,sano,2024-09-03,Jorge
+LA-1982,La Esperanza,Jersey,29,458.7,sano,2024-09-24,Carlos
+EL-1983,El Progreso,Criollo,83,431.5,sano,2024-12-29,Paola
+LO-1984,Los Guaduales,Gyr,109,376.7,sano,2024-07-11,Luis
+BU-1985,Buenos Aires,Criollo,57,377.6,sano,2024-10-04,Marta
+EL-1986,El Progreso,Jersey,62,402.6,sano,2024-12-12,Paola
+LA-1987,La Pradera,Jersey,28,423.8,sano,2024-07-14,Ana
+SA-1988,San Miguel,Gyr,34,354.2,sano,2024-11-18,Ana
+LA-1989,La Pradera,Jersey,57,354.5,tratamiento,2024-10-19,Ana
+SA-1990,Santa Lucia,Normando,56,255.0,sano,2024-08-17,Jorge
+BU-1991,Buenos Aires,Holstein,68,591.4,sano,2024-10-12,Paola
+EL-1992,El Roble,Jersey,112,320.1,sano,2024-09-04,Marta
+LA-1993,La Pradera,Jersey,82,450.7,sano,2024-07-21,Paola
+EL-1994,El Progreso,Pardo Suizo,42,345.9,vacuna_pendiente,2024-09-15,Jorge
+EL-1995,El Roble,Holstein,10,501.3,vacuna_pendiente,2024-08-05,Ana
+BU-1996,Buenos Aires,Pardo Suizo,75,409.2,sano,2024-11-05,Marta
+LO-1997,Los Guaduales,Jersey,48,342.6,tratamiento,2024-07-28,Marta
+LA-1998,La Esperanza,Normando,33,542.6,observacion,2024-12-11,Carlos
+SA-1999,San Miguel,Criollo,42,324.0,sano,2024-09-06,Jorge
+LA-2000,La Esperanza,Gyr,56,386.3,sano,2024-08-29,Jorge
+LA-2001,La Pradera,Criollo,13,327.8,sano,2024-09-17,Carlos
+SA-2002,Santa Lucia,Gyr,21,351.5,sano,2024-11-24,Luis
+SA-2003,Santa Lucia,Holstein,46,264.1,sano,2024-09-02,Marta
+SA-2004,San Miguel,Gyr,59,488.9,tratamiento,2024-12-01,Luis
+SA-2005,San Miguel,Normando,87,434.2,sano,2024-11-03,Marta
+EL-2006,El Progreso,Jersey,100,490.9,sano,2024-08-15,Jorge
+LA-2007,La Esperanza,Criollo,118,455.0,sano,2024-12-25,Luis
+SA-2008,San Miguel,Gyr,86,312.3,sano,2024-07-21,Carlos
+LA-2009,La Esperanza,Normando,55,486.7,vacuna_pendiente,2024-10-08,Ana
+LA-2010,La Pradera,Jersey,83,403.6,sano,2024-09-01,Paola
+EL-2011,El Roble,Gyr,42,332.7,sano,2024-11-27,Jorge
+SA-2012,Santa Lucia,Pardo Suizo,32,395.7,tratamiento,2024-07-26,Jorge
+EL-2013,El Progreso,Criollo,39,203.9,sano,2024-07-27,Marta
+SA-2014,San Miguel,Normando,34,312.8,sano,2024-11-27,Marta
+LO-2015,Los Guaduales,Jersey,57,397.1,sano,2024-08-13,Paola
+SA-2016,Santa Lucia,Holstein,57,563.1,sano,2024-07-13,Jorge
+EL-2017,El Progreso,Pardo Suizo,9,325.0,vacuna_pendiente,2024-11-21,Paola
+EL-2018,El Roble,Gyr,40,401.1,vacuna_pendiente,2024-08-16,Ana
+LO-2019,Los Guaduales,Criollo,95,440.1,vacuna_pendiente,2024-12-12,Jorge
+LA-2020,La Pradera,Criollo,62,524.4,sano,2024-11-07,Carlos
+SA-2021,Santa Lucia,Criollo,113,433.6,sano,2024-07-30,Ana
+EL-2022,El Progreso,Gyr,98,543.2,sano,2024-08-30,Luis
+EL-2023,El Roble,Criollo,7,464.0,sano,2024-10-06,Marta
+LA-2024,La Pradera,Gyr,7,476.6,sano,2024-11-26,Ana
+LA-2025,La Pradera,Gyr,105,492.8,sano,2024-09-25,Ana
+LA-2026,La Pradera,Holstein,21,411.3,sano,2024-11-06,Carlos
+SA-2027,San Miguel,Criollo,66,351.5,sano,2024-10-21,Luis
+SA-2028,Santa Lucia,Normando,10,505.2,sano,2024-07-28,Paola
+EL-2029,El Progreso,Jersey,58,248.9,tratamiento,2024-11-09,Carlos
+BU-2030,Buenos Aires,Normando,116,365.2,sano,2024-12-17,Luis
+EL-2031,El Roble,Criollo,71,424.9,sano,2024-11-26,Marta
+SA-2032,San Miguel,Normando,98,330.7,sano,2024-08-27,Luis
+EL-2033,El Roble,Pardo Suizo,88,469.5,sano,2024-09-15,Paola
+EL-2034,El Progreso,Jersey,70,207.8,sano,2024-10-20,Ana
+SA-2035,San Miguel,Criollo,42,540.8,tratamiento,2024-08-17,Paola
+LA-2036,La Esperanza,Gyr,99,490.9,sano,2024-11-26,Luis
+BU-2037,Buenos Aires,Gyr,82,441.0,observacion,2024-11-09,Jorge
+BU-2038,Buenos Aires,Criollo,114,510.0,sano,2024-12-24,Luis
+LA-2039,La Esperanza,Gyr,87,369.1,sano,2024-07-17,Luis
+SA-2040,San Miguel,Holstein,10,401.9,sano,2024-10-25,Luis
+SA-2041,San Miguel,Pardo Suizo,14,452.9,sano,2024-11-24,Jorge
+BU-2042,Buenos Aires,Criollo,103,475.3,observacion,2024-12-27,Paola
+LA-2043,La Pradera,Pardo Suizo,34,364.3,sano,2024-10-19,Marta
+LO-2044,Los Guaduales,Normando,85,342.1,sano,2024-12-25,Luis
+LO-2045,Los Guaduales,Holstein,24,455.7,vacuna_pendiente,2024-10-09,Carlos
+EL-2046,El Roble,Holstein,22,541.5,sano,2024-11-04,Luis
+LO-2047,Los Guaduales,Pardo Suizo,12,345.4,sano,2024-10-08,Jorge
+BU-2048,Buenos Aires,Jersey,80,333.5,sano,2024-08-21,Luis
+EL-2049,El Progreso,Jersey,43,335.2,sano,2024-08-23,Ana
+EL-2050,El Progreso,Gyr,28,450.1,observacion,2024-11-29,Ana
+LA-2051,La Pradera,Criollo,108,254.5,sano,2024-08-16,Carlos
+EL-2052,El Progreso,Pardo Suizo,53,384.0,vacuna_pendiente,2024-11-30,Marta
+EL-2053,El Progreso,Pardo Suizo,120,330.3,sano,2024-07-07,Jorge
+LO-2054,Los Guaduales,Jersey,84,453.2,observacion,2024-09-17,Luis
+EL-2055,El Roble,Pardo Suizo,47,439.2,sano,2024-11-22,Jorge
+LO-2056,Los Guaduales,Gyr,60,535.6,sano,2024-10-22,Carlos
+LA-2057,La Esperanza,Gyr,64,604.8,observacion,2024-09-26,Marta
+BU-2058,Buenos Aires,Holstein,20,468.2,sano,2024-12-20,Marta
+EL-2059,El Roble,Pardo Suizo,85,429.5,sano,2024-10-27,Marta
+EL-2060,El Roble,Gyr,29,568.0,sano,2024-09-03,Luis
+SA-2061,Santa Lucia,Gyr,18,396.3,sano,2024-10-09,Luis
+BU-2062,Buenos Aires,Pardo Suizo,111,343.0,vacuna_pendiente,2024-09-27,Marta
+LA-2063,La Esperanza,Criollo,28,526.4,sano,2024-11-24,Carlos
+LO-2064,Los Guaduales,Holstein,13,449.5,observacion,2024-09-08,Marta
+EL-2065,El Progreso,Holstein,22,473.1,sano,2024-07-08,Jorge
+LO-2066,Los Guaduales,Gyr,31,427.3,vacuna_pendiente,2024-12-30,Luis
+SA-2067,San Miguel,Pardo Suizo,112,548.7,sano,2024-11-16,Paola
+EL-2068,El Progreso,Gyr,74,451.9,sano,2024-09-22,Carlos
+EL-2069,El Progreso,Jersey,67,349.9,sano,2024-07-27,Paola
+SA-2070,Santa Lucia,Normando,76,495.2,sano,2024-07-06,Jorge
+LA-2071,La Pradera,Normando,95,346.1,vacuna_pendiente,2024-09-17,Ana
+EL-2072,El Progreso,Normando,22,556.6,sano,2024-08-15,Carlos
+EL-2073,El Progreso,Holstein,30,393.0,observacion,2024-12-03,Marta
+LO-2074,Los Guaduales,Jersey,39,381.2,observacion,2024-10-17,Luis
+LA-2075,La Esperanza,Criollo,109,469.6,observacion,2024-10-02,Jorge
+EL-2076,El Roble,Normando,19,394.2,sano,2024-11-19,Carlos
+LA-2077,La Pradera,Gyr,105,327.7,sano,2024-12-07,Ana
+EL-2078,El Roble,Normando,47,390.8,sano,2024-07-27,Paola
+EL-2079,El Roble,Normando,11,387.1,sano,2024-12-06,Paola
+BU-2080,Buenos Aires,Jersey,26,404.1,vacuna_pendiente,2024-08-03,Carlos
+EL-2081,El Progreso,Jersey,66,508.1,sano,2024-07-29,Marta
+EL-2082,El Progreso,Holstein,107,403.2,observacion,2024-09-19,Marta
+SA-2083,Santa Lucia,Gyr,110,584.4,sano,2024-08-06,Paola
+BU-2084,Buenos Aires,Pardo Suizo,43,510.1,sano,2024-12-25,Luis
+EL-2085,El Roble,Gyr,23,287.4,sano,2024-11-29,Ana
+SA-2086,San Miguel,Pardo Suizo,75,431.0,sano,2024-11-09,Jorge
+LA-2087,La Esperanza,Gyr,71,379.8,sano,2024-07-20,Marta
+SA-2088,San Miguel,Criollo,96,452.8,sano,2024-11-19,Paola
+LA-2089,La Pradera,Pardo Suizo,61,422.7,observacion,2024-08-21,Luis
+LA-2090,La Pradera,Criollo,58,236.2,sano,2024-11-18,Marta
+EL-2091,El Progreso,Normando,29,612.5,observacion,2024-07-08,Luis
+LO-2092,Los Guaduales,Jersey,12,453.9,observacion,2024-09-20,Ana
+LA-2093,La Esperanza,Gyr,11,516.8,sano,2024-11-04,Luis
+LA-2094,La Esperanza,Jersey,56,468.5,observacion,2024-10-09,Marta
+LA-2095,La Esperanza,Pardo Suizo,7,501.4,vacuna_pendiente,2024-09-03,Luis
+SA-2096,Santa Lucia,Normando,103,410.6,observacion,2024-07-26,Ana
+SA-2097,San Miguel,Normando,101,495.7,sano,2024-12-13,Jorge
+EL-2098,El Progreso,Normando,43,295.5,vacuna_pendiente,2024-12-09,Paola
+LA-2099,La Esperanza,Jersey,37,494.7,tratamiento,2024-12-22,Marta
+SA-2100,Santa Lucia,Gyr,84,392.8,sano,2024-09-23,Marta
+EL-2101,El Progreso,Gyr,38,465.3,sano,2024-09-19,Paola
+EL-2102,El Progreso,Criollo,101,502.5,sano,2024-11-04,Ana
+LA-2103,La Esperanza,Criollo,14,494.0,sano,2024-07-13,Marta
+EL-2104,El Roble,Holstein,82,443.2,sano,2024-10-27,Ana
+EL-2105,El Roble,Jersey,117,433.1,tratamiento,2024-10-07,Ana
+LA-2106,La Esperanza,Criollo,98,520.1,sano,2024-10-07,Paola
+BU-2107,Buenos Aires,Holstein,6,459.6,sano,2024-10-05,Carlos
+EL-2108,El Roble,Holstein,64,429.5,sano,2024-12-09,Jorge
+SA-2109,San Miguel,Criollo,44,416.2,sano,2024-09-01,Luis
+SA-2110,San Miguel,Gyr,84,356.2,vacuna_pendiente,2024-12-20,Marta
+SA-2111,Santa Lucia,Normando,8,482.9,sano,2024-08-08,Luis
+EL-2112,El Progreso,Gyr,112,517.8,sano,2024-07-14,Carlos
+EL-2113,El Roble,Jersey,120,311.5,tratamiento,2024-07-26,Jorge
+EL-2114,El Progreso,Gyr,55,444.5,sano,2024-08-13,Jorge
+EL-2115,El Roble,Holstein,8,374.1,observacion,2024-10-07,Marta
+LA-2116,La Esperanza,Holstein,31,424.7,sano,2024-11-24,Jorge
+LA-2117,La Pradera,Normando,84,435.2,sano,2024-10-10,Ana
+LO-2118,Los Guaduales,Normando,118,407.1,observacion,2024-08-14,Luis
+EL-2119,El Progreso,Jersey,112,419.4,sano,2024-12-01,Paola
+EL-2120,El Progreso,Criollo,75,550.6,sano,2024-10-12,Carlos
+LA-2121,La Pradera,Pardo Suizo,112,456.0,sano,2024-12-25,Ana
+BU-2122,Buenos Aires,Criollo,111,434.2,vacuna_pendiente,2024-09-20,Carlos
+SA-2123,San Miguel,Pardo Suizo,102,208.5,sano,2024-10-25,Carlos
+EL-2124,El Roble,Holstein,21,439.1,observacion,2024-11-06,Luis
+LO-2125,Los Guaduales,Criollo,118,480.7,sano,2024-09-15,Ana
+LA-2126,La Pradera,Gyr,28,291.5,sano,2024-12-03,Marta
+BU-2127,Buenos Aires,Holstein,84,307.9,sano,2024-08-24,Jorge
+EL-2128,El Roble,Criollo,50,370.4,sano,2024-09-18,Ana
+EL-2129,El Roble,Normando,100,408.5,sano,2024-11-17,Marta
+SA-2130,Santa Lucia,Holstein,105,517.4,sano,2024-10-24,Marta
+EL-2131,El Progreso,Normando,35,392.5,sano,2024-11-11,Jorge
+LO-2132,Los Guaduales,Normando,117,421.4,tratamiento,2024-12-05,Ana
+LO-2133,Los Guaduales,Normando,70,482.6,sano,2024-12-25,Marta
+LA-2134,La Esperanza,Gyr,114,462.5,sano,2024-10-03,Luis
+LO-2135,Los Guaduales,Normando,51,344.8,sano,2024-08-07,Carlos
+BU-2136,Buenos Aires,Normando,79,503.8,sano,2024-09-08,Luis
+SA-2137,Santa Lucia,Gyr,103,466.6,sano,2024-10-25,Ana
+LO-2138,Los Guaduales,Pardo Suizo,33,415.0,observacion,2024-12-29,Carlos
+EL-2139,El Progreso,Pardo Suizo,14,371.6,tratamiento,2024-11-28,Paola
+SA-2140,San Miguel,Gyr,64,450.6,tratamiento,2024-07-18,Paola
+BU-2141,Buenos Aires,Pardo Suizo,6,616.5,sano,2024-08-12,Jorge
+EL-2142,El Progreso,Pardo Suizo,92,444.3,sano,2024-08-19,Carlos
+BU-2143,Buenos Aires,Pardo Suizo,37,487.0,sano,2024-07-26,Paola
+LO-2144,Los Guaduales,Criollo,46,401.1,observacion,2024-09-11,Luis
+SA-2145,Santa Lucia,Criollo,15,343.9,sano,2024-07-30,Ana
+EL-2146,El Progreso,Jersey,102,513.7,sano,2024-10-26,Jorge
+BU-2147,Buenos Aires,Criollo,40,417.8,sano,2024-10-04,Luis
+EL-2148,El Progreso,Normando,39,502.6,sano,2024-09-03,Ana
+LA-2149,La Esperanza,Criollo,32,351.1,sano,2024-08-01,Carlos
+BU-2150,Buenos Aires,Jersey,87,520.6,sano,2024-12-08,Paola
+LA-2151,La Pradera,Pardo Suizo,8,458.5,vacuna_pendiente,2024-07-08,Luis
+LA-2152,La Pradera,Pardo Suizo,7,461.6,tratamiento,2024-08-20,Carlos
+SA-2153,San Miguel,Jersey,54,458.3,sano,2024-11-01,Marta
+BU-2154,Buenos Aires,Gyr,8,496.5,vacuna_pendiente,2024-12-11,Ana
+EL-2155,El Roble,Jersey,37,269.3,sano,2024-09-05,Jorge
+BU-2156,Buenos Aires,Gyr,104,407.2,observacion,2024-07-25,Luis
+EL-2157,El Roble,Pardo Suizo,96,247.9,observacion,2024-08-05,Ana
+LA-2158,La Esperanza,Jersey,16,469.1,sano,2024-12-01,Marta
+LA-2159,La Pradera,Criollo,110,451.0,observacion,2024-09-08,Paola
+SA-2160,Santa Lucia,Holstein,64,340.7,sano,2024-11-19,Carlos
+LA-2161,La Esperanza,Criollo,56,432.0,sano,2024-12-07,Luis
+LA-2162,La Pradera,Holstein,110,532.4,sano,2024-12-06,Paola
+SA-2163,San Miguel,Pardo Suizo,102,578.2,sano,2024-10-13,Paola
+EL-2164,El Roble,Normando,66,521.6,sano,2024-08-29,Luis
+LA-2165,La Esperanza,Pardo Suizo,12,365.3,sano,2024-10-13,Carlos
+EL-2166,El Roble,Holstein,41,334.0,observacion,2024-11-04,Paola
+LA-2167,La Pradera,Normando,41,445.5,observacion,2024-07-11,Marta
+LA-2168,La Pradera,Holstein,35,478.8,vacuna_pendiente,2024-12-08,Luis
+LA-2169,La Esperanza,Pardo Suizo,33,427.2,sano,2024-11-01,Jorge
+SA-2170,San Miguel,Jersey,53,376.8,observacion,2024-08-18,Luis
+LO-2171,Los Guaduales,Gyr,11,432.3,sano,2024-07-06,Carlos
+LA-2172,La Esperanza,Gyr,95,363.5,sano,2024-07-19,Luis
+BU-2173,Buenos Aires,Holstein,14,422.6,sano,2024-09-06,Ana
+EL-2174,El Roble,Normando,13,302.1,sano,2024-09-25,Paola
+SA-2175,Santa Lucia,Pardo Suizo,78,509.4,observacion,2024-08-19,Luis
+SA-2176,San Miguel,Pardo Suizo,18,465.1,sano,2024-08-06,Carlos
+SA-2177,San Miguel,Criollo,23,233.3,sano,2024-10-09,Carlos
+EL-2178,El Progreso,Pardo Suizo,47,415.4,tratamiento,2024-11-04,Jorge
+SA-2179,San Miguel,Pardo Suizo,75,457.0,observacion,2024-08-23,Paola
+LA-2180,La Esperanza,Jersey,78,554.5,sano,2024-12-27,Marta
+SA-2181,San Miguel,Normando,58,625.4,sano,2024-08-23,Paola
+LO-2182,Los Guaduales,Gyr,68,430.4,tratamiento,2024-08-27,Jorge
+EL-2183,El Progreso,Normando,92,276.4,sano,2024-11-13,Paola
+SA-2184,San Miguel,Holstein,34,483.4,sano,2024-11-22,Jorge
+EL-2185,El Roble,Normando,20,388.8,sano,2024-08-31,Carlos
+LA-2186,La Pradera,Criollo,81,588.5,sano,2024-12-21,Luis
+EL-2187,El Roble,Pardo Suizo,27,451.0,vacuna_pendiente,2024-12-14,Luis
+BU-2188,Buenos Aires,Pardo Suizo,66,466.7,observacion,2024-10-20,Marta
+SA-2189,Santa Lucia,Normando,67,354.9,vacuna_pendiente,2024-11-28,Marta
+SA-2190,Santa Lucia,Normando,49,458.6,sano,2024-09-06,Carlos
+EL-2191,El Roble,Normando,41,433.9,sano,2024-10-06,Jorge
+BU-2192,Buenos Aires,Holstein,8,387.7,sano,2024-07-31,Luis
+LA-2193,La Pradera,Normando,92,414.4,vacuna_pendiente,2024-12-14,Paola
+LA-2194,La Pradera,Jersey,58,508.5,sano,2024-09-13,Paola
+SA-2195,Santa Lucia,Gyr,57,405.2,sano,2024-12-21,Carlos
+SA-2196,Santa Lucia,Criollo,84,415.3,sano,2024-10-22,Jorge
+EL-2197,El Progreso,Gyr,90,354.2,observacion,2024-12-11,Marta
+SA-2198,San Miguel,Jersey,32,432.8,sano,2024-10-16,Carlos
+EL-2199,El Roble,Normando,81,394.1,observacion,2024-10-17,Ana
+EL-2200,El Roble,Pardo Suizo,79,353.4,vacuna_pendiente,2024-08-06,Paola
+SA-2201,Santa Lucia,Criollo,112,432.4,sano,2024-07-13,Paola
+SA-2202,Santa Lucia,Gyr,72,261.8,vacuna_pendiente,2024-08-28,Paola
+LA-2203,La Pradera,Holstein,43,422.2,sano,2024-10-19,Ana
+SA-2204,Santa Lucia,Pardo Suizo,64,375.7,sano,2024-08-09,Luis
+SA-2205,Santa Lucia,Normando,62,313.2,sano,2024-08-03,Jorge
+BU-2206,Buenos Aires,Holstein,65,423.2,sano,2024-07-17,Carlos
+LO-2207,Los Guaduales,Jersey,120,462.9,sano,2024-08-06,Paola
+EL-2208,El Roble,Normando,26,524.8,sano,2024-09-01,Jorge
+EL-2209,El Progreso,Gyr,14,551.7,observacion,2024-09-23,Ana
+EL-2210,El Roble,Pardo Suizo,113,346.9,observacion,2024-10-18,Carlos
+EL-2211,El Roble,Gyr,66,442.4,sano,2024-09-14,Luis
+LO-2212,Los Guaduales,Criollo,47,352.6,observacion,2024-10-12,Luis
+SA-2213,Santa Lucia,Pardo Suizo,19,568.4,observacion,2024-08-23,Paola
+BU-2214,Buenos Aires,Holstein,63,491.3,observacion,2024-10-09,Carlos
+LO-2215,Los Guaduales,Criollo,115,447.3,sano,2024-10-22,Carlos
+LA-2216,La Esperanza,Criollo,34,458.0,observacion,2024-08-07,Paola
+LA-2217,La Pradera,Holstein,34,262.6,sano,2024-12-30,Carlos
+SA-2218,Santa Lucia,Gyr,44,492.2,sano,2024-12-28,Jorge
+EL-2219,El Roble,Normando,12,353.0,observacion,2024-12-22,Jorge
+EL-2220,El Progreso,Gyr,103,299.6,tratamiento,2024-08-03,Jorge
+EL-2221,El Progreso,Jersey,117,356.1,sano,2024-08-10,Luis
+LA-2222,La Pradera,Normando,82,471.2,observacion,2024-10-23,Paola
+LO-2223,Los Guaduales,Jersey,45,457.4,sano,2024-12-20,Luis
+EL-2224,El Roble,Criollo,108,549.3,sano,2024-11-12,Carlos
+LA-2225,La Esperanza,Normando,99,657.5,observacion,2024-11-24,Paola
+EL-2226,El Roble,Holstein,33,558.7,vacuna_pendiente,2024-07-13,Jorge
+EL-2227,El Roble,Normando,18,237.0,sano,2024-11-06,Marta
+EL-2228,El Progreso,Normando,21,494.8,sano,2024-10-24,Jorge
+EL-2229,El Progreso,Gyr,89,393.9,sano,2024-07-31,Jorge
+SA-2230,San Miguel,Jersey,108,508.4,sano,2024-10-29,Ana
+BU-2231,Buenos Aires,Gyr,117,434.6,sano,2024-08-07,Carlos
+SA-2232,Santa Lucia,Gyr,45,430.5,sano,2024-10-26,Jorge
+LA-2233,La Pradera,Criollo,99,387.3,sano,2024-10-15,Carlos
+EL-2234,El Roble,Holstein,69,319.0,sano,2024-11-24,Carlos
+LA-2235,La Pradera,Holstein,115,365.6,observacion,2024-08-28,Ana
+LA-2236,La Esperanza,Normando,18,350.5,sano,2024-11-15,Paola
+LA-2237,La Esperanza,Holstein,106,495.5,sano,2024-07-17,Carlos
+EL-2238,El Roble,Jersey,6,572.9,tratamiento,2024-10-28,Jorge
+SA-2239,Santa Lucia,Criollo,63,315.5,observacion,2024-07-11,Ana
+LA-2240,La Pradera,Jersey,59,389.9,sano,2024-10-14,Carlos
+LA-2241,La Pradera,Gyr,18,438.3,sano,2024-07-09,Ana
+LO-2242,Los Guaduales,Holstein,41,718.1,sano,2024-12-16,Jorge
+LA-2243,La Esperanza,Jersey,80,328.0,sano,2024-08-18,Marta
+LO-2244,Los Guaduales,Jersey,103,338.0,sano,2024-08-14,Jorge
+SA-2245,San Miguel,Normando,89,326.6,sano,2024-11-19,Jorge
+BU-2246,Buenos Aires,Holstein,89,318.0,sano,2024-12-31,Paola
+LO-2247,Los Guaduales,Pardo Suizo,40,298.0,sano,2024-12-14,Jorge
+BU-2248,Buenos Aires,Pardo Suizo,93,417.4,sano,2024-10-14,Jorge
+LA-2249,La Pradera,Jersey,120,328.6,sano,2024-09-22,Luis
+SA-2250,Santa Lucia,Holstein,79,406.5,sano,2024-07-31,Paola
+LA-2251,La Pradera,Holstein,95,526.4,sano,2024-11-16,Carlos
+EL-2252,El Progreso,Holstein,65,499.7,sano,2024-09-15,Ana
+SA-2253,Santa Lucia,Gyr,82,518.7,vacuna_pendiente,2024-12-08,Marta
+LA-2254,La Pradera,Gyr,79,533.7,observacion,2024-12-02,Marta
+EL-2255,El Progreso,Pardo Suizo,105,432.8,sano,2024-10-28,Ana
+LA-2256,La Pradera,Gyr,47,485.9,sano,2024-07-13,Ana
+LA-2257,La Pradera,Jersey,35,574.2,vacuna_pendiente,2024-08-20,Ana
+LA-2258,La Esperanza,Pardo Suizo,78,433.1,tratamiento,2024-10-09,Marta
+EL-2259,El Roble,Normando,93,373.2,sano,2024-08-26,Marta
+SA-2260,Santa Lucia,Normando,18,426.7,sano,2024-12-13,Jorge
+LA-2261,La Esperanza,Gyr,43,518.0,sano,2024-11-25,Marta
+EL-2262,El Progreso,Holstein,51,477.2,tratamiento,2024-10-27,Carlos
+LA-2263,La Pradera,Normando,66,416.6,vacuna_pendiente,2024-10-05,Ana
+EL-2264,El Roble,Jersey,18,472.5,sano,2024-12-16,Luis
+SA-2265,San Miguel,Gyr,61,504.4,sano,2024-11-06,Marta
+BU-2266,Buenos Aires,Holstein,34,531.6,vacuna_pendiente,2024-12-06,Ana
+LO-2267,Los Guaduales,Normando,52,406.0,vacuna_pendiente,2024-09-04,Ana
+EL-2268,El Roble,Jersey,60,448.0,sano,2024-07-25,Jorge
+SA-2269,Santa Lucia,Normando,88,371.6,sano,2024-09-04,Carlos
+SA-2270,San Miguel,Jersey,52,260.6,sano,2024-11-30,Marta
+BU-2271,Buenos Aires,Criollo,39,345.7,sano,2024-10-28,Carlos
+SA-2272,San Miguel,Holstein,107,477.4,sano,2024-09-20,Jorge
+SA-2273,San Miguel,Normando,98,480.6,vacuna_pendiente,2024-10-25,Paola
+LA-2274,La Pradera,Pardo Suizo,51,448.7,sano,2024-10-28,Carlos
+SA-2275,San Miguel,Normando,110,484.2,sano,2024-11-22,Ana
+SA-2276,Santa Lucia,Gyr,95,481.7,sano,2024-10-24,Ana
+EL-2277,El Progreso,Holstein,75,416.8,tratamiento,2024-10-29,Ana
+EL-2278,El Progreso,Jersey,115,375.6,observacion,2024-12-07,Marta
+LA-2279,La Pradera,Jersey,68,351.3,sano,2024-10-25,Paola
+BU-2280,Buenos Aires,Normando,96,540.8,tratamiento,2024-09-14,Marta
+LO-2281,Los Guaduales,Normando,61,205.3,observacion,2024-11-19,Luis
+EL-2282,El Roble,Pardo Suizo,83,519.6,sano,2024-08-30,Jorge
+BU-2283,Buenos Aires,Normando,117,276.2,observacion,2024-07-06,Marta
+EL-2284,El Roble,Jersey,98,481.7,sano,2024-11-22,Paola
+SA-2285,San Miguel,Criollo,94,391.5,sano,2024-09-24,Marta
+LO-2286,Los Guaduales,Criollo,104,275.8,observacion,2024-08-05,Paola
+LO-2287,Los Guaduales,Gyr,44,494.6,sano,2024-08-05,Luis
+LA-2288,La Pradera,Normando,53,489.8,sano,2024-09-26,Marta
+EL-2289,El Progreso,Normando,111,349.6,sano,2024-08-18,Ana
+BU-2290,Buenos Aires,Pardo Suizo,14,483.1,sano,2024-11-02,Carlos
+BU-2291,Buenos Aires,Gyr,71,531.5,sano,2024-09-20,Paola
+BU-2292,Buenos Aires,Pardo Suizo,21,421.3,sano,2024-09-22,Jorge
+SA-2293,Santa Lucia,Gyr,114,430.5,sano,2024-12-06,Ana
+SA-2294,San Miguel,Holstein,35,516.8,sano,2024-07-16,Carlos
+EL-2295,El Roble,Gyr,106,402.9,sano,2024-09-27,Jorge
+SA-2296,Santa Lucia,Gyr,68,388.1,sano,2024-12-15,Carlos
+LA-2297,La Esperanza,Gyr,45,456.7,sano,2024-12-19,Luis
+LA-2298,La Esperanza,Normando,110,360.1,sano,2024-08-16,Luis
+EL-2299,El Roble,Gyr,25,400.9,sano,2024-08-03,Ana
+LO-2300,Los Guaduales,Holstein,50,418.2,sano,2024-09-04,Jorge
+BU-2301,Buenos Aires,Jersey,42,458.2,sano,2024-08-18,Luis
+EL-2302,El Progreso,Gyr,100,416.7,sano,2024-10-14,Carlos
+LO-2303,Los Guaduales,Gyr,119,442.7,observacion,2024-12-28,Jorge
+LO-2304,Los Guaduales,Gyr,117,440.2,vacuna_pendiente,2024-08-18,Ana
+EL-2305,El Progreso,Jersey,41,520.8,sano,2024-12-03,Marta
+LA-2306,La Esperanza,Gyr,83,354.8,sano,2024-08-07,Marta
+BU-2307,Buenos Aires,Pardo Suizo,99,392.8,sano,2024-08-23,Marta
+LA-2308,La Esperanza,Gyr,72,274.8,sano,2024-09-13,Ana
+SA-2309,Santa Lucia,Criollo,114,440.4,sano,2024-10-12,Marta
+LA-2310,La Esperanza,Pardo Suizo,88,250.9,sano,2024-10-07,Paola
+EL-2311,El Progreso,Jersey,46,614.7,sano,2024-11-06,Jorge
+SA-2312,San Miguel,Normando,72,474.4,sano,2024-10-02,Luis
+SA-2313,Santa Lucia,Gyr,42,459.9,sano,2024-12-27,Carlos
+EL-2314,El Roble,Jersey,104,426.1,tratamiento,2024-08-03,Ana
+BU-2315,Buenos Aires,Holstein,59,456.1,sano,2024-12-03,Luis
+BU-2316,Buenos Aires,Criollo,43,459.7,sano,2024-07-06,Luis
+SA-2317,Santa Lucia,Normando,16,434.5,observacion,2024-12-16,Luis
+BU-2318,Buenos Aires,Criollo,99,573.5,sano,2024-12-31,Ana
+BU-2319,Buenos Aires,Holstein,109,489.7,sano,2024-10-13,Marta
+EL-2320,El Progreso,Gyr,84,400.1,sano,2024-07-18,Luis
+LO-2321,Los Guaduales,Normando,90,399.9,tratamiento,2024-09-14,Luis
+LA-2322,La Pradera,Jersey,76,422.7,sano,2024-09-27,Ana
+LO-2323,Los Guaduales,Gyr,34,435.3,observacion,2024-11-18,Ana
+SA-2324,Santa Lucia,Normando,77,373.2,sano,2024-08-28,Ana
+EL-2325,El Progreso,Jersey,9,449.9,tratamiento,2024-11-28,Carlos
+BU-2326,Buenos Aires,Jersey,57,294.2,observacion,2024-11-19,Ana
+LA-2327,La Pradera,Normando,97,308.3,sano,2024-11-04,Ana
+LA-2328,La Esperanza,Holstein,28,433.8,sano,2024-09-10,Paola
+EL-2329,El Progreso,Holstein,119,468.6,sano,2024-10-27,Jorge
+SA-2330,San Miguel,Jersey,16,417.5,observacion,2024-07-25,Marta
+EL-2331,El Roble,Holstein,21,378.2,sano,2024-08-30,Marta
+EL-2332,El Roble,Gyr,110,418.5,tratamiento,2024-10-08,Marta
+LO-2333,Los Guaduales,Gyr,102,493.0,sano,2024-10-26,Luis
+SA-2334,Santa Lucia,Normando,48,435.1,sano,2024-10-02,Paola
+EL-2335,El Roble,Gyr,41,561.9,sano,2024-09-08,Ana
+LA-2336,La Esperanza,Criollo,97,453.9,sano,2024-08-07,Marta
+EL-2337,El Roble,Jersey,10,472.7,sano,2024-10-18,Jorge
+SA-2338,Santa Lucia,Normando,80,585.0,sano,2024-11-04,Jorge
+SA-2339,San Miguel,Jersey,70,519.8,sano,2024-07-30,Carlos
+EL-2340,El Progreso,Normando,97,426.1,sano,2024-08-11,Marta
+LA-2341,La Pradera,Normando,31,342.7,tratamiento,2024-10-29,Luis
+LA-2342,La Pradera,Normando,60,351.0,sano,2024-12-29,Ana
+EL-2343,El Progreso,Criollo,103,412.3,sano,2024-12-27,Carlos
+SA-2344,Santa Lucia,Jersey,27,397.3,sano,2024-12-13,Ana
+EL-2345,El Progreso,Criollo,113,514.2,sano,2024-12-13,Luis
+LA-2346,La Esperanza,Jersey,84,263.7,sano,2024-09-29,Ana
+SA-2347,Santa Lucia,Gyr,92,343.6,observacion,2024-12-04,Paola
+LA-2348,La Esperanza,Holstein,9,409.2,sano,2024-10-04,Luis
+LO-2349,Los Guaduales,Gyr,61,368.3,sano,2024-09-27,Marta
+LA-2350,La Esperanza,Pardo Suizo,91,473.9,observacion,2024-12-21,Ana
+LO-2351,Los Guaduales,Normando,82,300.5,vacuna_pendiente,2024-11-26,Carlos
+LA-2352,La Esperanza,Criollo,40,295.6,vacuna_pendiente,2024-09-14,Jorge
+EL-2353,El Progreso,Holstein,101,293.8,sano,2024-12-30,Luis
+BU-2354,Buenos Aires,Jersey,71,355.4,tratamiento,2024-09-16,Ana
+SA-2355,San Miguel,Gyr,28,573.4,sano,2024-12-09,Marta
+BU-2356,Buenos Aires,Gyr,89,446.3,sano,2024-12-16,Jorge
+LO-2357,Los Guaduales,Jersey,41,470.0,tratamiento,2024-11-02,Luis
+BU-2358,Buenos Aires,Gyr,63,381.5,sano,2024-08-06,Ana
+SA-2359,San Miguel,Jersey,42,438.6,tratamiento,2024-09-26,Jorge
+SA-2360,San Miguel,Pardo Suizo,12,467.0,sano,2024-09-27,Luis
+BU-2361,Buenos Aires,Pardo Suizo,21,414.9,sano,2024-12-11,Jorge
+LO-2362,Los Guaduales,Gyr,49,434.0,sano,2024-09-30,Jorge
+LA-2363,La Pradera,Criollo,99,468.7,observacion,2024-11-29,Paola
+EL-2364,El Progreso,Jersey,42,351.0,observacion,2024-07-10,Luis
+EL-2365,El Roble,Gyr,92,514.5,sano,2024-10-09,Jorge
+LA-2366,La Esperanza,Criollo,118,305.1,sano,2024-07-23,Jorge
+SA-2367,San Miguel,Holstein,75,492.9,tratamiento,2024-07-09,Carlos
+EL-2368,El Progreso,Normando,53,370.0,sano,2024-12-17,Paola
+LO-2369,Los Guaduales,Holstein,38,447.4,tratamiento,2024-09-18,Paola
+SA-2370,Santa Lucia,Pardo Suizo,48,267.9,sano,2024-08-28,Paola
+LA-2371,La Esperanza,Holstein,6,442.6,sano,2024-10-03,Ana
+BU-2372,Buenos Aires,Criollo,9,508.6,sano,2024-09-13,Jorge
+LA-2373,La Esperanza,Jersey,80,457.8,vacuna_pendiente,2024-08-25,Carlos
+LO-2374,Los Guaduales,Normando,32,625.1,sano,2024-09-25,Ana
+EL-2375,El Progreso,Normando,19,363.4,sano,2024-12-25,Luis
+EL-2376,El Progreso,Pardo Suizo,67,398.5,sano,2024-07-12,Carlos
+SA-2377,San Miguel,Jersey,34,476.2,vacuna_pendiente,2024-10-02,Carlos
+SA-2378,Santa Lucia,Holstein,74,381.4,sano,2024-10-04,Carlos
+LA-2379,La Esperanza,Gyr,92,503.2,sano,2024-08-19,Marta
+LA-2380,La Pradera,Normando,77,451.0,sano,2024-08-31,Carlos
+LA-2381,La Esperanza,Holstein,59,395.9,sano,2024-11-26,Luis
+LO-2382,Los Guaduales,Gyr,82,420.1,observacion,2024-11-15,Marta
+SA-2383,Santa Lucia,Criollo,42,428.0,tratamiento,2024-12-12,Carlos
+SA-2384,Santa Lucia,Gyr,86,503.7,sano,2024-11-10,Jorge
+BU-2385,Buenos Aires,Criollo,51,426.6,sano,2024-11-20,Luis
+EL-2386,El Progreso,Normando,105,450.1,vacuna_pendiente,2024-11-26,Paola
+SA-2387,San Miguel,Jersey,68,373.5,observacion,2024-09-18,Luis
+LA-2388,La Esperanza,Criollo,41,380.7,sano,2024-09-30,Jorge
+LA-2389,La Esperanza,Holstein,48,429.1,observacion,2024-10-10,Ana
+LO-2390,Los Guaduales,Gyr,35,509.3,vacuna_pendiente,2024-11-21,Ana
+SA-2391,Santa Lucia,Jersey,47,276.1,sano,2024-08-22,Carlos
+SA-2392,San Miguel,Criollo,86,362.6,observacion,2024-11-24,Paola
+LA-2393,La Pradera,Pardo Suizo,26,469.6,observacion,2024-08-01,Luis
+EL-2394,El Progreso,Gyr,56,424.9,vacuna_pendiente,2024-12-22,Jorge
+SA-2395,Santa Lucia,Criollo,67,503.8,observacion,2024-08-29,Carlos
+LA-2396,La Esperanza,Jersey,29,305.4,vacuna_pendiente,2024-12-30,Jorge
+LA-2397,La Pradera,Pardo Suizo,65,520.0,sano,2024-09-17,Luis
+LA-2398,La Esperanza,Normando,34,374.6,vacuna_pendiente,2024-10-18,Jorge
+EL-2399,El Progreso,Pardo Suizo,27,452.2,sano,2024-08-01,Jorge
+LO-2400,Los Guaduales,Normando,12,583.4,sano,2024-08-28,Jorge
+BU-2401,Buenos Aires,Holstein,75,381.1,sano,2024-11-27,Luis
+LA-2402,La Esperanza,Holstein,82,543.5,vacuna_pendiente,2024-10-29,Marta
+EL-2403,El Progreso,Criollo,96,410.3,sano,2024-07-05,Marta
+LO-2404,Los Guaduales,Normando,13,573.0,observacion,2024-07-22,Ana
+BU-2405,Buenos Aires,Criollo,21,401.4,sano,2024-10-09,Marta
+EL-2406,El Progreso,Holstein,99,258.8,sano,2024-10-02,Luis
+BU-2407,Buenos Aires,Gyr,72,377.9,tratamiento,2024-12-28,Carlos
+LA-2408,La Esperanza,Holstein,68,313.4,tratamiento,2024-08-18,Ana
+EL-2409,El Progreso,Jersey,40,520.8,sano,2024-10-12,Paola
+SA-2410,Santa Lucia,Pardo Suizo,40,391.3,sano,2024-09-12,Jorge
+BU-2411,Buenos Aires,Gyr,85,505.8,sano,2024-08-08,Luis
+SA-2412,San Miguel,Pardo Suizo,29,379.4,sano,2024-11-29,Jorge
+LA-2413,La Esperanza,Gyr,67,594.2,sano,2024-08-29,Ana
+LA-2414,La Esperanza,Holstein,83,347.3,sano,2024-09-13,Marta
+LO-2415,Los Guaduales,Normando,39,443.2,sano,2024-11-11,Paola
+EL-2416,El Roble,Normando,100,438.7,sano,2024-10-03,Jorge
+LO-2417,Los Guaduales,Gyr,113,344.5,sano,2024-11-09,Luis
+LA-2418,La Esperanza,Pardo Suizo,83,430.7,observacion,2024-07-15,Paola
+LO-2419,Los Guaduales,Normando,68,546.1,sano,2024-12-17,Paola
+LO-2420,Los Guaduales,Pardo Suizo,28,326.6,tratamiento,2024-07-29,Ana
+LA-2421,La Esperanza,Jersey,7,362.4,sano,2024-11-23,Jorge
+SA-2422,San Miguel,Pardo Suizo,86,362.5,sano,2024-07-08,Luis
+EL-2423,El Roble,Gyr,80,340.0,observacion,2024-09-27,Paola
+SA-2424,San Miguel,Jersey,8,416.3,sano,2024-11-28,Ana
+EL-2425,El Roble,Holstein,67,565.3,sano,2024-11-17,Paola
+LO-2426,Los Guaduales,Jersey,46,347.2,sano,2024-07-26,Paola
+LA-2427,La Esperanza,Gyr,77,405.7,sano,2024-08-05,Luis
+LA-2428,La Esperanza,Criollo,113,390.2,vacuna_pendiente,2024-11-02,Ana
+LA-2429,La Pradera,Pardo Suizo,94,552.3,sano,2024-10-15,Marta
+SA-2430,San Miguel,Gyr,93,463.7,tratamiento,2024-07-12,Carlos
+LA-2431,La Esperanza,Normando,116,342.4,observacion,2024-09-04,Marta
+LO-2432,Los Guaduales,Jersey,31,463.5,sano,2024-12-20,Jorge
+BU-2433,Buenos Aires,Jersey,75,419.5,observacion,2024-09-28,Jorge
+BU-2434,Buenos Aires,Criollo,75,439.2,sano,2024-10-13,Paola
+EL-2435,El Roble,Normando,114,388.1,sano,2024-11-11,Jorge
+LO-2436,Los Guaduales,Pardo Suizo,105,470.0,sano,2024-12-24,Luis
+LA-2437,La Esperanza,Holstein,12,354.8,vacuna_pendiente,2024-11-29,Carlos
+EL-2438,El Progreso,Pardo Suizo,25,270.6,sano,2024-11-15,Jorge
+SA-2439,Santa Lucia,Gyr,91,333.9,sano,2024-09-11,Paola
+LA-2440,La Esperanza,Pardo Suizo,62,455.1,sano,2024-12-09,Jorge
+LA-2441,La Esperanza,Gyr,20,416.9,tratamiento,2024-10-04,Marta
+LA-2442,La Pradera,Normando,97,413.1,sano,2024-08-11,Paola
+SA-2443,Santa Lucia,Gyr,86,505.3,sano,2024-11-25,Ana
+EL-2444,El Roble,Gyr,47,473.4,sano,2024-09-22,Carlos
+BU-2445,Buenos Aires,Normando,60,395.7,sano,2024-11-24,Carlos
+LA-2446,La Pradera,Normando,61,483.2,sano,2024-10-10,Jorge
+EL-2447,El Roble,Normando,26,379.9,sano,2024-10-11,Carlos
+LO-2448,Los Guaduales,Jersey,65,385.0,vacuna_pendiente,2024-08-22,Carlos
+SA-2449,Santa Lucia,Gyr,6,446.4,vacuna_pendiente,2024-10-19,Jorge
+SA-2450,Santa Lucia,Jersey,52,574.6,sano,2024-10-22,Jorge
+LO-2451,Los Guaduales,Gyr,19,424.2,sano,2024-10-28,Carlos
+SA-2452,Santa Lucia,Criollo,101,523.7,vacuna_pendiente,2024-12-25,Carlos
+LA-2453,La Esperanza,Criollo,39,493.5,observacion,2024-12-19,Ana
+EL-2454,El Progreso,Criollo,101,533.9,sano,2024-12-24,Carlos
+LO-2455,Los Guaduales,Pardo Suizo,42,594.3,sano,2024-07-27,Ana
+EL-2456,El Progreso,Holstein,11,345.3,vacuna_pendiente,2024-07-05,Marta
+EL-2457,El Progreso,Jersey,96,333.8,sano,2024-07-06,Carlos
+SA-2458,Santa Lucia,Holstein,110,277.2,sano,2024-09-26,Carlos
+SA-2459,San Miguel,Pardo Suizo,91,536.6,sano,2024-07-06,Paola
+LA-2460,La Pradera,Holstein,8,519.5,sano,2024-08-21,Jorge
+LA-2461,La Pradera,Gyr,99,283.8,observacion,2024-10-04,Ana
+BU-2462,Buenos Aires,Pardo Suizo,74,417.2,tratamiento,2024-08-08,Paola
+SA-2463,Santa Lucia,Jersey,109,503.4,sano,2024-07-16,Jorge
+LO-2464,Los Guaduales,Jersey,15,315.6,tratamiento,2024-09-06,Jorge
+SA-2465,San Miguel,Criollo,33,502.3,observacion,2024-12-07,Luis
+EL-2466,El Progreso,Gyr,77,461.9,sano,2024-10-02,Carlos
+EL-2467,El Roble,Criollo,82,384.7,vacuna_pendiente,2024-11-27,Luis
+LA-2468,La Pradera,Holstein,19,384.3,vacuna_pendiente,2024-12-28,Ana
+LA-2469,La Pradera,Normando,92,303.5,observacion,2024-11-09,Ana
+EL-2470,El Progreso,Normando,16,364.2,sano,2024-08-07,Ana
+EL-2471,El Progreso,Holstein,28,409.3,sano,2024-11-24,Carlos
+SA-2472,Santa Lucia,Normando,91,467.5,sano,2024-11-23,Luis
+LO-2473,Los Guaduales,Pardo Suizo,39,298.0,sano,2024-09-01,Carlos
+LA-2474,La Pradera,Holstein,34,425.9,sano,2024-09-28,Ana
+BU-2475,Buenos Aires,Criollo,83,358.0,sano,2024-10-08,Jorge
+BU-2476,Buenos Aires,Jersey,91,414.0,sano,2024-09-26,Luis
+LO-2477,Los Guaduales,Pardo Suizo,68,411.4,sano,2024-11-04,Carlos
+SA-2478,Santa Lucia,Gyr,103,473.4,vacuna_pendiente,2024-11-21,Paola
+LA-2479,La Esperanza,Jersey,112,370.5,sano,2024-10-25,Carlos
+EL-2480,El Roble,Criollo,72,411.7,tratamiento,2024-09-10,Marta
+EL-2481,El Progreso,Holstein,113,377.9,sano,2024-10-20,Paola
+LO-2482,Los Guaduales,Pardo Suizo,101,443.9,sano,2024-10-04,Jorge
+LA-2483,La Esperanza,Jersey,63,367.7,sano,2024-09-11,Carlos
+LO-2484,Los Guaduales,Gyr,83,357.6,sano,2024-10-08,Ana
+SA-2485,Santa Lucia,Criollo,46,459.7,vacuna_pendiente,2024-09-17,Luis
+BU-2486,Buenos Aires,Holstein,32,517.7,sano,2024-12-25,Marta
+EL-2487,El Progreso,Normando,26,382.0,sano,2024-12-13,Ana
+SA-2488,San Miguel,Pardo Suizo,77,389.8,sano,2024-07-13,Paola
+EL-2489,El Roble,Normando,116,362.4,sano,2024-09-06,Marta
+LA-2490,La Esperanza,Pardo Suizo,116,483.7,sano,2024-09-21,Marta
+LA-2491,La Esperanza,Holstein,86,478.6,sano,2024-09-13,Carlos
+LA-2492,La Pradera,Criollo,66,369.9,sano,2024-07-12,Jorge
+BU-2493,Buenos Aires,Criollo,76,590.9,tratamiento,2024-12-13,Paola
+SA-2494,San Miguel,Holstein,89,375.7,tratamiento,2024-11-04,Luis
+EL-2495,El Roble,Holstein,32,574.4,sano,2024-11-19,Paola
+EL-2496,El Roble,Holstein,21,408.1,observacion,2024-12-06,Luis
+LO-2497,Los Guaduales,Normando,61,299.5,sano,2024-12-18,Jorge
+BU-2498,Buenos Aires,Criollo,115,471.4,sano,2024-08-21,Marta
+EL-2499,El Progreso,Jersey,69,164.2,sano,2024-07-23,Jorge
+EL-2500,El Progreso,Gyr,86,517.6,observacion,2024-12-12,Ana
